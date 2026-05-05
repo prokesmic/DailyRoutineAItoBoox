@@ -4,3 +4,6 @@ candidates.json
 selected.json
 out/
 .venv/
+.gdrive-token.json
+*service-account*.json
+gcp-oauth.keys.json

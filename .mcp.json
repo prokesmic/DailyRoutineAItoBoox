@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "Google-Drive": {
+      "command": "npx",
+      "args": ["-y", "mcp-google-drive"],
+      "env": {
+        "GOOGLE_CLIENT_ID": "${GOOGLE_CLIENT_ID}",
+        "GOOGLE_CLIENT_SECRET": "${GOOGLE_CLIENT_SECRET}",
+        "GOOGLE_OAUTH_TOKEN_FILE": "${GOOGLE_OAUTH_TOKEN_FILE}",
+        "GOOGLE_SERVICE_ACCOUNT_KEY_FILE": "${GOOGLE_SERVICE_ACCOUNT_KEY_FILE}"
+      }
+    }
+  }
+}
