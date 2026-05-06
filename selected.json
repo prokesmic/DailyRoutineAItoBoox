@@ -1,0 +1,47 @@
+{
+  "editor_note": "The dominant thread today is that AI is moving from experimental to operational — and every column in the budget is starting to feel the pressure. Anthropic's Code w/ Claude event signals the frontier labs are no longer just shipping models; they're building developer platforms that replace entire toolchains. Simon Willison's live dispatch confirms the convergence he'd been warning about: vibe coding and agentic engineering are becoming the same thing. Meanwhile, the Microsoft-OpenAI AGI clause quietly died — the most consequential clause in the enterprise AI ecosystem just disappeared without a press release, and that matters for every CIO modelling long-term vendor dependency. On the governance front, the UK AI Security Institute's GPT-5.5 cyber evaluation is the kind of named, dated assessment that belongs in your risk register. Match Group's hiring freeze frames the real CFO conversation: AI tools cost money, so people won't. And Altara's R&D data unification play is the narrow end of a wedge aimed squarely at pharma IT: your data siloes are the next target.",
+  "picks": [
+    {
+      "url": "https://simonwillison.net/2026/May/6/code-w-claude-2026/",
+      "title": "Live blog: Code w/ Claude 2026",
+      "source": "Simon Willison",
+      "blurb": "Anthropic's developer platform event shows where frontier labs are placing their bets; directly informs which toolchain your team should standardize on."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/",
+      "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
+      "source": "Simon Willison / UK AI Security Institute",
+      "blurb": "UK government safety institute's named, dated evaluation puts GPT-5.5 on par with Claude Mythos for cyber capabilities — belongs in your enterprise risk register."
+    },
+    {
+      "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/",
+      "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
+      "source": "Simon Willison",
+      "blurb": "The clause that would have voided Microsoft's OpenAI rights just died, changing enterprise vendor dependency calculations for every CIO on Azure."
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "source": "Simon Willison",
+      "blurb": "Simon Willison's practitioner reckoning that vibe coding and agentic engineering are converging frames the governance challenge for your development teams now."
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+      "source": "TechCrunch AI",
+      "blurb": "Named enterprise (Match Group) explicitly slowing headcount to fund AI spend — the workforce-for-AI trade-off your board will ask about next quarter."
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+      "title": "Altara secures $7M to bridge the data gap that's slowing down physical sciences",
+      "source": "TechCrunch AI",
+      "blurb": "Altara targets R&D data fragmentation across spreadsheets and legacy systems — a problem pharma IT owns end-to-end; early-mover signal for the space."
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+      "title": "ASML CEO Christophe Fouquet on his company's monopoly: no one is coming for us",
+      "source": "TechCrunch AI",
+      "blurb": "ASML CEO primary-source statement on their EUV monopoly is the clearest signal on chip supply constraints underpinning all AI infrastructure spending."
+    }
+  ]
+}
