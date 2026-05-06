@@ -1,0 +1,5 @@
+feedparser>=6.0.8
+requests>=2.31.0
+ebooklib>=0.18
+beautifulsoup4>=4.12.0
+lxml>=4.9.0

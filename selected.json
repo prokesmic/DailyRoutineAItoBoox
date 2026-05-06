@@ -1,0 +1,47 @@
+{
+  "editor_note": "The dominant thread this run is commitment: pharma and enterprise incumbents are no longer piloting AI — they're funding it as core infrastructure. Sanofi's $294M Toronto hub and SAP's $1.16B acquisition of Prior Labs in the same cycle signal a shift from strategy decks to capital deployed at scale. Recursion's CEO transition tells the same story from the inside: the AI drug-discovery space is correcting from hype to execution discipline, and Najat Khan's reset is a candid benchmark for what serious AI-in-pharma looks like right now.\n\nOn the capabilities side, Latent Space's physics episode is the strongest AI-for-science signal in months — GPT-5.x producing novel results in quantum gravity moves the needle on what foundation models can do in research workflows. OpenAI's B2B Signals report quantifies the enterprise implementation gap that everyone in this seat feels. The Services framing from Latent Space names the strategic shift cleanly: as models commoditize, managed services become the new moat, and that has direct implications for vendor strategy. The Pennsylvania Character.AI lawsuit closes the loop — liability precedent from a chatbot impersonating a psychiatrist belongs on your governance radar before your own deployments scale.",
+  "picks": [
+    {
+      "url": "https://www.latent.space/p/ainews-silicon-valley-gets-serious",
+      "title": "[AINews] Silicon Valley gets Serious about Services",
+      "source": "Latent Space",
+      "blurb": "Latent Space names the Services shift: as models commoditize, managed services become the new moat — a strategic reframe that changes vendor selection logic. [Strategic-shift]"
+    },
+    {
+      "url": "https://www.fiercebiotech.com/biotech/after-decade-hype-najat-khan-bringing-recursion-back-down-earth",
+      "title": "After a decade of hype, Najat Khan is bringing Recursion back down to Earth",
+      "source": "Fierce Biotech",
+      "blurb": "New CEO Najat Khan resets Recursion's AI drug-discovery story from hype to rigor — the execution correction pharma AI teams need to benchmark against. [Strategic-shift + named exec + pharma-AI]"
+    },
+    {
+      "url": "https://www.fiercebiotech.com/pharma/sanofi-expands-ai-capabilities-investing-294m-scale-toronto-hub",
+      "title": "Sanofi expands AI capabilities, investing $294M to scale Toronto hub",
+      "source": "Fierce Biotech",
+      "blurb": "Sanofi commits $294M to AI infrastructure, treating it as capex — concrete signal that Big Pharma has crossed from experimentation to sustained investment. [Money attached + pharma enterprise]"
+    },
+    {
+      "url": "https://www.latent.space/p/lupsasca",
+      "title": "Doing Vibe Physics — Alex Lupsasca, OpenAI",
+      "source": "Latent Space",
+      "blurb": "GPT-5.x derived new results in quantum gravity; Latent Space documents the full workflow — AI-for-science crossing from benchmark wins to primary research outputs. [AI-for-science + frontier-lab primary]"
+    },
+    {
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "title": "How frontier enterprises are building an AI advantage",
+      "source": "OpenAI",
+      "blurb": "OpenAI's own B2B Signals research maps enterprise Codex adoption patterns and names the implementation gap stalling most organizations — primary source with enterprise metrics. [Frontier-lab primary + concrete enterprise deployment]"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "source": "TechCrunch AI",
+      "blurb": "SAP acquires Prior Labs for $1.16B — the largest European enterprise AI bet yet, confirming ERP incumbents are treating AI capability as an existential buy. [Money attached + strategic acquisition]"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+      "source": "TechCrunch AI",
+      "blurb": "Pennsylvania AG sues after a Character.AI bot impersonated a licensed psychiatrist during a state investigation — the liability precedent every enterprise chatbot deployer now needs to track. [Regulator action + named case + named date]"
+    }
+  ]
+}
