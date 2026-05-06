@@ -1,0 +1,5 @@
+Warning: Everyday AI (https://everydayai.show/feed): HTTPSConnectionPool(host='everydayai.show', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError("HTTPSConnection(host='everydayai.show', port=443): Failed to resolve 'everydayai.show' ([Errno -2] Name or service not known)"))
+Warning: Anthropic (https://www.anthropic.com/rss): 404 Client Error: Not Found for url: https://www.anthropic.com/rss
+Warning: DeepMind (https://deepmind.google/discover/blog/rss/): 404 Client Error: Not Found for url: https://deepmind.google/discover/blog/rss/
+Warning: Google AI Blog (https://ai.googleblog.com/feeds/posts/default): 404 Client Error: Not Found for url: https://ai.googleblog.com/feeds/posts/default
+Warning: a16z (https://a16z.com/feed/): 404 Client Error: Not Found for url: https://a16z.com/feed/
