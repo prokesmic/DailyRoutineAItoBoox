@@ -1,0 +1,474 @@
+[
+  {
+    "url": "https://openai.com/index/parloa",
+    "title": "Parloa builds service agents customers want to talk to",
+    "source": "OpenAI Blog",
+    "description": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+    "published": "2026-05-07T11:00:00+00:00",
+    "weight": 1.2
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr",
+    "title": "[AINews] Anthropic-SpaceXai's 300MW/$5B/yr deal for Colossus I, ARR growth is 8000% annualized",
+    "source": "Latent Space",
+    "description": "And the kingmaker picks a side.",
+    "published": "2026-05-07T05:57:14+00:00",
+    "weight": 1.2
+  },
+  {
+    "url": "https://openai.com/index/introducing-b2b-signals",
+    "title": "How frontier enterprises are building an AI advantage",
+    "source": "OpenAI Blog",
+    "description": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+    "published": "2026-05-06T00:00:00+00:00",
+    "weight": 1.2
+  },
+  {
+    "url": "http://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html",
+    "title": "Graph neural networks in TensorFlow",
+    "source": "Google Research Blog",
+    "description": "Posted by Dustin Zelle, Software Engineer, Google Research, and Arno Eigenwillig, Software Engineer, CoreML Objects and their relationships are ubiquitous in the world around us, and relationships can be as important to understanding an object as its own attributes viewed in isolation — take for example transportation networks, production networks, knowledge graphs, or social networks. Discrete mathematics and computer science have a long history of formalizing such networks as graphs , consisting of nodes connected by edges in various irregular ways. Yet most machine learning (ML) algorithms ",
+    "published": null,
+    "weight": 1.2
+  },
+  {
+    "url": "http://blog.research.google/2024/02/intervening-on-early-readouts-for.html",
+    "title": "Intervening on early readouts for mitigating spurious features and simplicity bias",
+    "source": "Google Research Blog",
+    "description": "Posted by Rishabh Tiwari, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research Machine learning models in the real world are often trained on limited data that may contain unintended statistical biases . For example, in the CELEBA celebrity image dataset, a disproportionate number of female celebrities have blond hair, leading to classifiers incorrectly predicting “blond” as the hair color for most female faces — here, gender is a spurious feature for predicting hair color. Such unfair biases could have significant consequences in critical applications such as medic",
+    "published": null,
+    "weight": 1.2
+  },
+  {
+    "url": "https://openai.com/index/uber",
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "source": "OpenAI Blog",
+    "description": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+    "published": "2026-05-06T00:00:00+00:00",
+    "weight": 1.19
+  },
+  {
+    "url": "https://www.latent.space/p/lupsasca",
+    "title": "🔬Doing Vibe Physics — Alex Lupsasca, OpenAI",
+    "source": "Latent Space",
+    "description": "The full story of how GPT&#8209;5.x derived new results in theoretical physics and quantum gravity.",
+    "published": "2026-05-05T20:34:11+00:00",
+    "weight": 1.19
+  },
+  {
+    "url": "http://blog.research.google/2024/02/advances-in-private-training-for.html",
+    "title": "Advances in private training for production on-device language models",
+    "source": "Google Research Blog",
+    "description": "Posted by Zheng Xu, Research Scientist, and Yanxiang Zhang, Software Engineer, Google Language models (LMs) trained to predict the next word given input text are the key technology for many applications [ 1 , 2 ]. In Gboard , LMs are used to improve users’ typing experience by supporting features like next word prediction (NWP), Smart Compose , smart completion and suggestion , slide to type , and proofread . Deploying models on users’ devices rather than enterprise servers has advantages like lower latency and better privacy for model usage. While training on-device models directly from user ",
+    "published": null,
+    "weight": 1.18
+  },
+  {
+    "url": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+    "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+    "source": "Google Research Blog",
+    "description": "Posted by Mark Matthews, Senior Software Engineer, and Dmitry Lagun, Research Scientist, Google Research A person's prior experience and understanding of the world generally enables them to easily infer what an object looks like in whole, even if only looking at a few 2D pictures of it. Yet the capacity for a computer to reconstruct the shape of an object in 3D given only a few images has remained a difficult algorithmic problem for years. This fundamental computer vision task has applications ranging from the creation of e-commerce 3D models to autonomous vehicle navigation. A key part of the",
+    "published": null,
+    "weight": 1.17
+  },
+  {
+    "url": "http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html",
+    "title": "A decoder-only foundation model for time-series forecasting",
+    "source": "Google Research Blog",
+    "description": "Posted by Rajat Sen and Yichen Zhou, Google Research Time-series forecasting is ubiquitous in various domains, such as retail, finance, manufacturing, healthcare and natural sciences. In retail use cases, for example, it has been observed that improving demand forecasting accuracy can meaningfully reduce inventory costs and increase revenue. Deep learning (DL) models have emerged as a popular approach for forecasting rich, multivariate, time-series data because they have proven to perform well in a variety of settings (e.g., DL models performed well in the M5 competition ). At the same time, t",
+    "published": null,
+    "weight": 1.17
+  },
+  {
+    "url": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+    "title": "Using AI to expand global access to reliable flood forecasts",
+    "source": "Google Research Blog",
+    "description": "Posted by Yossi Matias, VP Engineering &amp; Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster , and are responsible for roughly $50 billion in annual financial damages worldwide. The rate of flood-related disasters has more than doubled since the year 2000 partly due to climate change . Nearly 1.5 billion people , making up 19% of the world’s population, are exposed to substantial risks from severe flood events. Upgrading early warning systems to make accurate and timely information accessible to these populations can save thousands of",
+    "published": null,
+    "weight": 1.16
+  },
+  {
+    "url": "http://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html",
+    "title": "MobileDiffusion: Rapid text-to-image generation on-device",
+    "source": "Google Research Blog",
+    "description": "Posted by Yang Zhao, Senior Software Engineer, and Tingbo Hou, Senior Staff Software Engineer, Core ML Text-to-image diffusion models have shown exceptional capabilities in generating high-quality images from text prompts. However, leading models feature billions of parameters and are consequently expensive to run, requiring powerful desktops or servers (e.g., Stable Diffusion , DALL·E , and Imagen ). While recent advancements in inference solutions on Android via MediaPipe and iOS via Core ML have been made in the past year, rapid (sub-second) text-to-image generation on mobile devices has re",
+    "published": null,
+    "weight": 1.16
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-silicon-valley-gets-serious",
+    "title": "[AINews] Silicon Valley gets Serious about Services",
+    "source": "Latent Space",
+    "description": "A series of announcements line up to a big theme: Services are the next big opportunity.",
+    "published": "2026-05-06T05:40:41+00:00",
+    "weight": 1.15
+  },
+  {
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "source": "OpenAI Blog",
+    "description": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+    "published": "2026-05-06T00:00:00+00:00",
+    "weight": 1.15
+  },
+  {
+    "url": "https://openai.com/index/singular-bank",
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "source": "OpenAI Blog",
+    "description": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+    "published": "2026-05-06T00:00:00+00:00",
+    "weight": 1.15
+  },
+  {
+    "url": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+    "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+    "source": "Google Research Blog",
+    "description": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start with an assumption about the data's patterns (prior probability), collecting evidence (e.g., new time series data), and continuously updating that assumption to form a posterior probability distribution. Traditional Bayesian approaches like Gaussian processes (GPs) and Structural Time Series are extensively used for modeling time series data, e.g., the commonly used Mauna Loa CO2 dataset. However,",
+    "published": null,
+    "weight": 1.14
+  },
+  {
+    "url": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+    "title": "Computer-aided diagnosis for lung cancer screening",
+    "source": "Google Research Blog",
+    "description": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 2020. Late diagnosis dramatically reduces the chances of survival. Lung cancer screening via computed tomography (CT), which provides a detailed 3D image of the lungs, has been shown to reduce mortality in high-risk populations by at least 20% by detecting potential signs of cancers earlier. In the US, screening involves annual scans, with some countries or cases recommending more or less frequent s",
+    "published": null,
+    "weight": 1.14
+  },
+  {
+    "url": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+    "title": "SCIN: A new resource for representative dermatology images",
+    "source": "Google Research Blog",
+    "description": "Posted by Pooja Rao, Research Scientist, Google Research Health datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real world. For example, dermatology conditions are diverse in their appearance and severity and manifest differently across skin tones. Yet, existing dermatology image datasets often lack representation of everyday conditions (like rashes, allergies and infections) and skew towards lighter skin tones. Furthermore, race and ethnicity information is frequently missing, hindering our ability to assess dis",
+    "published": null,
+    "weight": 1.14
+  },
+  {
+    "url": "http://blog.research.google/2024/03/social-learning-collaborative-learning.html",
+    "title": "Social learning: Collaborative learning with large language models",
+    "source": "Google Research Blog",
+    "description": "Posted by Amirkeivan Mohtashami, Research Intern, and Florian Hartmann, Software Engineer, Google Research Large language models (LLMs) have significantly improved the state of the art for solving tasks specified using natural language, often reaching performance close to that of people. As these models increasingly enable assistive agents, it could be beneficial for them to learn effectively from each other, much like people do in social settings, which would allow LLM-based agents to improve each other’s performance. To discuss the learning processes of humans, Bandura and Walters described ",
+    "published": null,
+    "weight": 1.14
+  },
+  {
+    "url": "http://blog.research.google/2024/03/croissant-metadata-format-for-ml-ready.html",
+    "title": "Croissant: a metadata format for ML-ready datasets",
+    "source": "Google Research Blog",
+    "description": "Posted by Omar Benjelloun, Software Engineer, Google Research, and Peter Mattson, Software Engineer, Google Core ML and President, MLCommons Association Machine learning (ML) practitioners looking to reuse existing datasets to train an ML model often spend a lot of time understanding the data, making sense of its organization, or figuring out what subset to use as features. So much time, in fact, that progress in the field of ML is hampered by a fundamental obstacle: the wide variety of data representations. ML datasets cover a broad range of content types, from text and structured data to ima",
+    "published": null,
+    "weight": 1.14
+  },
+  {
+    "url": "http://blog.research.google/2024/02/learning-importance-of-training-data.html",
+    "title": "Learning the importance of training data under concept drift",
+    "source": "Google Research Blog",
+    "description": "Posted by Nishant Jain, Pre-doctoral Researcher, and Pradeep Shenoy, Research Scientist, Google Research The constantly changing nature of the world around us poses a significant challenge for the development of AI models. Often, models are trained on longitudinal data with the hope that the training data used will accurately represent inputs the model may receive in the future. More generally, the default assumption that all training data are equally relevant often breaks in practice. For example, the figure below shows images from the CLEAR nonstationary learning benchmark, and it illustrate",
+    "published": null,
+    "weight": 1.14
+  },
+  {
+    "url": "http://blog.research.google/2024/01/exphormer-scaling-transformers-for.html",
+    "title": "Exphormer: Scaling transformers for graph-structured data",
+    "source": "Google Research Blog",
+    "description": "Posted by Ameya Velingker, Research Scientist, Google Research, and Balaji Venkatachalam, Software Engineer, Google Graphs , in which objects and their relations are represented as nodes (or vertices) and edges (or links) between pairs of nodes, are ubiquitous in computing and machine learning (ML). For example, social networks, road networks, and molecular structure and interactions are all domains in which underlying datasets have a natural graph structure. ML can be used to learn the properties of nodes, edges, or entire graphs. A common approach to learning on graphs are graph neural netwo",
+    "published": null,
+    "weight": 1.14
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+    "title": "DeepSeek could hit $45B valuation from its first investment round",
+    "source": "TechCrunch AI",
+    "description": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
+    "published": "2026-05-06T17:20:34+00:00",
+    "weight": 1.12
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+    "source": "TechCrunch AI",
+    "description": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+    "published": "2026-05-06T21:57:56+00:00",
+    "weight": 1.11
+  },
+  {
+    "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "published": "2026-05-06T19:06:55+00:00",
+    "weight": 1.1
+  },
+  {
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+    "source": "Hugging Face Blog",
+    "description": "",
+    "published": "2026-05-06T00:00:00+00:00",
+    "weight": 1.1
+  },
+  {
+    "url": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+    "title": "Generative AI to quantify uncertainty in weather forecasting",
+    "source": "Google Research Blog",
+    "description": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine decisions, like what to pack for a day’s activities, to informing urgent actions, for example, protecting people in the face of hazardous weather conditions. The importance of accurate and timely weather forecasts will only increase as the climate changes. Recognizing this, we at Google have been investing in weather and climate research to help ensure that the forecasting technology of tomorrow can m",
+    "published": null,
+    "weight": 1.1
+  },
+  {
+    "url": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+    "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+    "source": "Google Research Blog",
+    "description": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human communication and human-machine interaction as they facilitate rich and interactive user experiences. UIs and infographics share similar design principles and visual language (e.g., icons and layouts), that offer an opportunity to build a single model that can understand, reason, and interact with these interfaces. However, because of their complexity and varied presentation formats, infographics an",
+    "published": null,
+    "weight": 1.1
+  },
+  {
+    "url": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+    "title": "HEAL: A framework for health equity assessment of machine learning performance",
+    "source": "Google Research Blog",
+    "description": "Posted by Mike Schaekermann, Research Scientist, Google Research, and Ivor Horn, Chief Health Equity Officer &amp; Director, Google Core Health equity is a major societal concern worldwide with disparities having many causes. These sources include limitations in access to healthcare, differences in clinical treatment, and even fundamental differences in the diagnostic technology. In dermatology for example, skin cancer outcomes are worse for populations such as minorities, those with lower socioeconomic status, or individuals with limited healthcare access. While there is great promise in rece",
+    "published": null,
+    "weight": 1.1
+  },
+  {
+    "url": "http://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html",
+    "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+    "source": "Google Research Blog",
+    "description": "Posted by Yun Zhu and Lijuan Liu, Software Engineers, Google Research Large language model (LLM) advancements have led to a new paradigm that unifies various natural language processing (NLP) tasks within an instruction-following framework. This paradigm is exemplified by recent multi-task LLMs, such as T0 , FLAN , and OPT-IML . First, multi-task data is gathered with each task following a task-specific template, where each labeled example is converted into an instruction (e.g., \" Put the concepts together to form a sentence: ski, mountain, skier ” ) paired with a corresponding response (e.g.,",
+    "published": null,
+    "weight": 1.1
+  },
+  {
+    "url": "http://blog.research.google/2024/03/talk-like-graph-encoding-graphs-for.html",
+    "title": "Talk like a graph: Encoding graphs for large language models",
+    "source": "Google Research Blog",
+    "description": "Posted by Bahare Fatemi and Bryan Perozzi, Research Scientists, Google Research Imagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all connected in different ways. In computer science, the term graph is used to describe connections between objects. Graphs consist of nodes (the objects themselves) and edges (connections between two nodes, indicating a relationship between them). Graphs are everywhere now. The internet itself is a giant graph of websites linked together. Even the knowledge search engines use is organized in a graph-l",
+    "published": null,
+    "weight": 1.1
+  },
+  {
+    "url": "http://blog.research.google/2024/03/chain-of-table-evolving-tables-in.html",
+    "title": "Chain-of-table: Evolving tables in the reasoning chain for table understanding",
+    "source": "Google Research Blog",
+    "description": "Posted by Zilong Wang, Student Researcher, and Chen-Yu Lee, Research Scientist, Cloud AI Team People use tables every day to organize and interpret complex information in a structured, easily accessible format. Due to the ubiquity of such tables, reasoning over tabular data has long been a central topic in natural language processing (NLP). Researchers in this field have aimed to leverage language models to help users answer questions, verify statements, and analyze data based on tables. However, language models are trained over large amounts of plain text, so the inherently structured nature ",
+    "published": null,
+    "weight": 1.1
+  },
+  {
+    "url": "http://blog.research.google/2024/03/health-specific-embedding-tools-for.html",
+    "title": "Health-specific embedding tools for dermatology and pathology",
+    "source": "Google Research Blog",
+    "description": "Posted by Dave Steiner, Clinical Research Scientist, Google Health, and Rory Pilgrim, Product Manager, Google Research There’s a worldwide shortage of access to medical imaging expert interpretation across specialties including radiology , dermatology and pathology . Machine learning (ML) technology can help ease this burden by powering tools that enable doctors to interpret these images more accurately and efficiently. However, the development and implementation of such ML tools are often limited by the availability of high-quality data, ML expertise, and computational resources. One way to c",
+    "published": null,
+    "weight": 1.1
+  },
+  {
+    "url": "http://blog.research.google/2024/03/google-at-aps-2024.html",
+    "title": "Google at APS 2024",
+    "source": "Google Research Blog",
+    "description": "Posted by Kate Weber and Shannon Leon, Google Research, Quantum AI Team Today the 2024 March Meeting of the American Physical Society (APS) kicks off in Minneapolis, MN. A premier conference on topics ranging across physics and related fields, APS 2024 brings together researchers, students, and industry professionals to share their discoveries and build partnerships with the goal of realizing fundamental advances in physics-related sciences and technology. This year, Google has a strong presence at APS with a booth hosted by the Google Quantum AI team, 50+ talks throughout the conference, and ",
+    "published": null,
+    "weight": 1.1
+  },
+  {
+    "url": "http://blog.research.google/2024/02/videoprism-foundational-visual-encoder.html",
+    "title": "VideoPrism: A foundational visual encoder for video understanding",
+    "source": "Google Research Blog",
+    "description": "Posted by Long Zhao, Senior Research Scientist, and Ting Liu, Senior Staff Software Engineer, Google Research An astounding number of videos are available on the Web, covering a variety of content from everyday moments people share to historical moments to scientific observations, each of which contains a unique record of the world. The right tools could help researchers analyze these videos, transforming how we understand the world around us. Videos offer dynamic visual content far more rich than static images, capturing movement, changes, and dynamic relationships between entities. Analyzing",
+    "published": null,
+    "weight": 1.1
+  },
+  {
+    "url": "http://blog.research.google/2024/02/dp-auditorium-flexible-library-for.html",
+    "title": "DP-Auditorium: A flexible library for auditing differential privacy",
+    "source": "Google Research Blog",
+    "description": "Posted by Mónica Ribero Díaz, Research Scientist, Google Research Differential privacy (DP) is a property of randomized mechanisms that limit the influence of any individual user’s information while processing and analyzing data. DP offers a robust solution to address growing concerns about data protection, enabling technologies across industries and government applications (e.g., the US census ) without compromising individual user identities. As its adoption increases, it’s important to identify the potential risks of developing mechanisms with faulty implementations. Researchers have recent",
+    "published": null,
+    "weight": 1.1
+  },
+  {
+    "url": "http://blog.research.google/2024/01/mixed-input-matrix-multiplication.html",
+    "title": "Mixed-input matrix multiplication performance optimizations",
+    "source": "Google Research Blog",
+    "description": "Posted by Manish Gupta, Staff Software Engineer, Google Research AI-driven technologies are weaving themselves into the fabric of our daily routines, with the potential to enhance our access to knowledge and boost our overall productivity. The backbone of these applications lies in large language models (LLMs). LLMs are memory-intensive and typically require specialized hardware accelerators to efficiently deliver tens of exaflops of computing power. This blog post shows how we can start addressing the computational challenges by utilizing memory more effectively. The bulk of an LLM’s memory a",
+    "published": null,
+    "weight": 1.1
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
+    "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
+    "source": "MIT Tech Review",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into the world over the last four decades. But the process can still be slow, painful, and expensive—and far from guaranteed&#8230;",
+    "published": "2026-05-07T12:10:00+00:00",
+    "weight": 1.09
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
+    "title": "What’s next for IVF",
+    "source": "MIT Tech Review",
+    "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Forty-eight years ago this July, Louise Joy Brown became the world’s first person born with the help of in vitro fertilization. Millions more IVF babies have entered&#8230;",
+    "published": "2026-05-07T09:04:50+00:00",
+    "weight": 1.09
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+    "title": "AI boom pushes Samsung to $1T",
+    "source": "TechCrunch AI",
+    "description": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+    "published": "2026-05-06T13:54:09+00:00",
+    "weight": 1.07
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
+    "title": "The balcony solar boom is coming to the US",
+    "source": "MIT Tech Review",
+    "description": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions and power bills. Balcony solar is already popular in Europe, and proponents say that the systems could make solar power more accessible for&#8230;",
+    "published": "2026-05-07T10:00:00+00:00",
+    "weight": 1.05
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
+    "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+    "source": "TechCrunch AI",
+    "description": "Ethos says it is onboarding 35,000 experts per week.",
+    "published": "2026-05-06T15:00:00+00:00",
+    "weight": 1.05
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
+    "title": "The Download: seafloor science and military chatbots",
+    "source": "MIT Tech Review",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblong neon submersibles started to descend nearly 6,000 meters into the Pacific Ocean. Throughout the rest of May, they will&#8230;",
+    "published": "2026-05-06T12:10:00+00:00",
+    "weight": 1.05
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+    "source": "TechCrunch AI",
+    "description": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+    "published": "2026-05-06T18:23:54+00:00",
+    "weight": 1.04
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+    "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+    "source": "TechCrunch AI",
+    "description": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
+    "published": "2026-05-06T15:46:38+00:00",
+    "weight": 1.04
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+    "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+    "source": "TechCrunch AI",
+    "description": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+    "published": "2026-05-06T15:12:49+00:00",
+    "weight": 1.04
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+    "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+    "source": "TechCrunch AI",
+    "description": "Enterprise AI will be QuTwo’s bread and butter. “AI is the north star that we will continue to aim for. Quantum is just a new type of compute,” said Sarlin, who is adamant that QuTwo is an AI company.",
+    "published": "2026-05-06T06:47:12+00:00",
+    "weight": 1.04
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "source": "TechCrunch AI",
+    "description": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+    "published": "2026-05-05T23:50:10+00:00",
+    "weight": 1.04
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+    "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+    "source": "TechCrunch AI",
+    "description": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+    "published": "2026-05-06T21:43:24+00:00",
+    "weight": 1.03
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+    "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+    "source": "TechCrunch AI",
+    "description": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
+    "published": "2026-05-07T12:20:04+00:00",
+    "weight": 1.0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+    "title": "Five architects of the AI economy explain where the wheels are coming off",
+    "source": "TechCrunch AI",
+    "description": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
+    "published": "2026-05-07T05:25:10+00:00",
+    "weight": 1.0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+    "title": "Is xAI a neocloud now?",
+    "source": "TechCrunch AI",
+    "description": "xAI's real business may be more about building data centers than training AI models.",
+    "published": "2026-05-06T21:32:55+00:00",
+    "weight": 1.0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+    "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+    "source": "TechCrunch AI",
+    "description": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
+    "published": "2026-05-06T17:23:08+00:00",
+    "weight": 1.0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+    "title": "Google updates AI search to include quotes from Reddit and other sources",
+    "source": "TechCrunch AI",
+    "description": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+    "published": "2026-05-06T15:49:39+00:00",
+    "weight": 1.0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+    "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+    "source": "TechCrunch AI",
+    "description": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
+    "published": "2026-05-06T15:27:36+00:00",
+    "weight": 1.0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
+    "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
+    "source": "TechCrunch AI",
+    "description": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&#038;A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.",
+    "published": "2026-05-06T14:30:00+00:00",
+    "weight": 1.0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
+    "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+    "source": "TechCrunch AI",
+    "description": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
+    "published": "2026-05-06T14:00:00+00:00",
+    "weight": 1.0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+    "title": "Marc Lore says that AI will soon enable anyone to open a restaurant",
+    "source": "TechCrunch AI",
+    "description": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
+    "published": "2026-05-06T06:34:32+00:00",
+    "weight": 1.0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+    "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+    "source": "TechCrunch AI",
+    "description": "Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying data siloed across spreadsheets and legacy systems.",
+    "published": "2026-05-05T22:57:41+00:00",
+    "weight": 1.0
+  }
+]

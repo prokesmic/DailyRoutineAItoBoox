@@ -1,0 +1,26 @@
+[fetch] Latent Space: 3 new items
+Warning: failed to fetch The Batch (DeepLearning.AI) (https://www.deeplearning.ai/the-batch/feed/xml/): 404 Client Error: Not Found for url: https://www.deeplearning.ai/the-batch/feed/xml/
+[fetch] The Batch (DeepLearning.AI): 0 new items
+[fetch] Import AI: 0 new items
+[fetch] BAIR Blog: 0 new items
+[fetch] The Gradient: 0 new items
+[fetch] OpenAI Blog: 5 new items
+Warning: failed to fetch Anthropic Blog (https://www.anthropic.com/rss.xml): 404 Client Error: Not Found for url: https://www.anthropic.com/rss.xml
+[fetch] Anthropic Blog: 0 new items
+[fetch] Hugging Face Blog: 2 new items
+Warning: failed to fetch Google AI Blog (https://ai.googleblog.com/feeds/posts/default): 404 Client Error: Not Found for url: https://ai.googleblog.com/feeds/posts/default
+[fetch] Google AI Blog: 0 new items
+[fetch] Google Research Blog: 25 new items
+Warning: failed to fetch a16z (https://a16z.com/feed/): 404 Client Error: Not Found for url: https://a16z.com/feed/
+[fetch] a16z: 0 new items
+[fetch] SemiAnalysis: 0 new items
+[fetch] MIT Tech Review: 4 new items
+[fetch] TechCrunch AI: 20 new items
+[fetch] VentureBeat AI: 0 new items
+[fetch] Nature: 0 new items
+[fetch] Science News: 0 new items
+Warning: failed to fetch Everyday AI (Wilson) (https://feeds.transistor.fm/everyday-ai): 404 Client Error: Not Found for url: https://feeds.transistor.fm/everyday-ai
+[fetch] Everyday AI (Wilson): 0 new items
+Warning: failed to fetch The AI Daily Brief (Whittemore) (https://api.substack.com/feed/podcast/3881729.rss): 404 Client Error: Not Found for url: https://api.substack.com/feed/podcast/3881729.rss
+[fetch] The AI Daily Brief (Whittemore): 0 new items
+[fetch] Total candidates: 59
