@@ -1,0 +1,47 @@
+{
+  "editor_note": "Infrastructure lock-in entered its decisive phase. Anthropic's 300MW/$5B-per-year agreement with SpaceX's Colossus—backed by 8000% annualized ARR growth—confirms this is a utility business, not a research bet. SAP's $1.16B acquisition of 18-month-old Prior Labs, combined with restrictions on which AI agents customers may use, is the enterprise-software version of the same move: claim the AI layer before hyperscalers commoditize it. For pharma IT, the SAP play is the most consequential item this run—every S/4HANA instance in your stack is about to carry AI you didn't select.\n\nThe Latent Space services thesis explains the mechanism: AI is shifting from capability to delivered outcome, which means your vendor contracts and integration architecture now matter as much as the models. OpenAI's B2B Signals data confirms the early-mover gap is already compounding through agentic workflows.\n\nGPT-5.x deriving novel results in quantum gravity is the leading-indicator story for pharma. If AI can produce original scientific work at the frontier, the drug-discovery co-pilot timeline just compressed by several years.",
+  "picks": [
+    {
+      "url": "https://www.latent.space/p/ainews-anthropic-spacexais-300mw5byr",
+      "title": "[AINews] Anthropic-SpaceXai's 300MW/$5B/yr deal for Colossus I, ARR growth is 8000% annualized",
+      "source": "Latent Space",
+      "blurb": "Frontier AI is entering a utility-contract phase: 300MW/$5B-yr plus 8000% ARR signals infrastructure lock-in before models commoditize. [Money attached, frontier-lab primary source]"
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-silicon-valley-gets-serious",
+      "title": "[AINews] Silicon Valley gets Serious about Services",
+      "source": "Latent Space",
+      "blurb": "Multiple announcements converge on one thesis: AI-delivered services, not tools, are the next enterprise battleground—directly reshapes your vendor contracts. [Strategic-shift framing]"
+    },
+    {
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "title": "How frontier enterprises are building an AI advantage",
+      "source": "OpenAI Blog",
+      "blurb": "OpenAI's own B2B Signals research shows early-mover enterprises compounding advantage via agentic workflows—benchmark for your own AI maturity assessment. [Frontier-lab primary source, enterprise deployment]"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "source": "TechCrunch AI",
+      "blurb": "SAP buying Prior Labs and restricting customer agent choices is the most consequential enterprise AI move for pharma IT this quarter. [Money attached, named org, strategic-shift framing]"
+    },
+    {
+      "url": "https://www.latent.space/p/lupsasca",
+      "title": "Doing Vibe Physics — Alex Lupsasca, OpenAI",
+      "source": "Latent Space",
+      "blurb": "GPT-5.x produced novel results in quantum gravity; the scientific-reasoning capability implied compresses the pharma AI co-pilot timeline significantly. [Frontier-lab primary source, AI-for-science]"
+    },
+    {
+      "url": "https://openai.com/index/singular-bank",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "source": "OpenAI Blog",
+      "blurb": "Documented 60–90 minutes of daily savings per banker in a regulated-industry deployment is the closest available benchmark to pharma compliance workflows. [Concrete enterprise deployment, builder write-up with numbers]"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
+      "title": "What's next for IVF",
+      "source": "MIT Technology Review",
+      "blurb": "AI-guided genomic screening reshaping IVF is a leading indicator: the same logic applies to clinical-trial patient selection and biomarker stratification. [AI-for-science with pharma-adjacent angle]"
+    }
+  ]
+}
