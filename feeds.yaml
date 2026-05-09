@@ -1,0 +1,16 @@
+rss:
+  - {name: "Anthropic",        url: "https://www.anthropic.com/news/rss.xml",      weight: 1.5}
+  - {name: "OpenAI",           url: "https://openai.com/news/rss.xml",              weight: 1.4}
+  - {name: "Google DeepMind",  url: "https://deepmind.google/blog/rss.xml",         weight: 1.3}
+  - {name: "Hugging Face",     url: "https://huggingface.co/blog/feed.xml",         weight: 1.1}
+  - {name: "Latent Space",     url: "https://www.latent.space/feed",                weight: 1.3}
+  - {name: "Import AI",        url: "https://importai.substack.com/feed",           weight: 1.2}
+  - {name: "The Batch",        url: "https://www.deeplearning.ai/the-batch/feed/",  weight: 1.1}
+  - {name: "Simon Willison",   url: "https://simonwillison.net/atom/everything/",   weight: 1.2}
+  - {name: "Stratechery",      url: "https://stratechery.com/feed/",                weight: 1.0}
+hackernews:
+  enabled: true
+  min_points: 100
+  lookback_hours: 12
+  keywords: ["AI", "LLM", "GPT", "Claude", "agent", "Anthropic", "OpenAI", "transformer", "RAG", "model"]
+lookback_hours: 12
