@@ -1,7 +1,8 @@
 """Fetch RSS + HN candidates, exclude already-shipped URLs, print JSON to stdout."""
-import json, os, re, sys
+import json, os, re, sys, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
-import feedparser, httpx, yaml
+from email.utils import parsedate_to_datetime
+import httpx, yaml
 
 cfg = yaml.safe_load(open("feeds.yaml"))
 cutoff = datetime.now(timezone.utc) - timedelta(hours=cfg["lookback_hours"])
@@ -18,17 +19,55 @@ seen, out = set(shipped), []
 def clean(s):
     return " ".join(re.sub(r"<[^>]+>", "", s or "").split())
 
-def entry_dt(e):
-    for k in ("published_parsed", "updated_parsed"):
-        v = getattr(e, k, None) or e.get(k)
-        if v: return datetime(*v[:6], tzinfo=timezone.utc)
+
+NS = {"atom": "http://www.w3.org/2005/Atom"}
+
+def parse_dt(s):
+    if not s:
+        return datetime.now(timezone.utc)
+    try:
+        return parsedate_to_datetime(s).astimezone(timezone.utc)
+    except Exception:
+        pass
+    for fmt in ("%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%d"):
+        try:
+            dt = datetime.strptime(s.strip(), fmt)
+            return dt.replace(tzinfo=timezone.utc) if dt.tzinfo is None else dt.astimezone(timezone.utc)
+        except Exception:
+            pass
     return datetime.now(timezone.utc)
+
+def fetch_rss(url):
+    with httpx.Client(timeout=20, follow_redirects=True,
+                      headers={"User-Agent": "Mozilla/5.0 AIReader/1.0"}) as c:
+        r = c.get(url)
+        r.raise_for_status()
+    root = ET.fromstring(r.content)
+    tag = root.tag.lower()
+    items = []
+    if "feed" in tag or root.tag.startswith("{http://www.w3.org/2005/Atom}"):
+        for entry in root.findall(".//{http://www.w3.org/2005/Atom}entry"):
+            link_el = entry.find("{http://www.w3.org/2005/Atom}link")
+            link = (link_el.get("href") if link_el is not None else "") or ""
+            title_el = entry.find("{http://www.w3.org/2005/Atom}title")
+            title = title_el.text if title_el is not None else ""
+            sum_el = entry.find("{http://www.w3.org/2005/Atom}summary") or entry.find("{http://www.w3.org/2005/Atom}content")
+            summary = sum_el.text if sum_el is not None else ""
+            pub_el = entry.find("{http://www.w3.org/2005/Atom}published") or entry.find("{http://www.w3.org/2005/Atom}updated")
+            pub = pub_el.text if pub_el is not None else ""
+            items.append({"link": link, "title": title, "summary": summary, "published": pub})
+    else:
+        for item in root.findall(".//item")[:25]:
+            def t(tag): el = item.find(tag); return el.text if el is not None else ""
+            items.append({"link": t("link"), "title": t("title"), "summary": t("description"), "published": t("pubDate")})
+    return items
 
 for feed in cfg.get("rss", []):
     try:
-        p = feedparser.parse(feed["url"])
-        for e in p.entries[:25]:
-            if entry_dt(e) < cutoff: continue
+        entries = fetch_rss(feed["url"])
+        for e in entries[:25]:
+            pub_dt = parse_dt(e.get("published", ""))
+            if pub_dt < cutoff: continue
             url = (e.get("link") or "").split("?")[0].rstrip("/")
             if not url or url in seen: continue
             seen.add(url)
@@ -36,7 +75,7 @@ for feed in cfg.get("rss", []):
                 "url": url, "title": clean(e.get("title", "")),
                 "source": feed["name"], "weight": feed.get("weight", 1.0),
                 "summary": clean(e.get("summary", ""))[:600],
-                "published": entry_dt(e).isoformat(),
+                "published": pub_dt.isoformat(),
             })
     except Exception as ex:
         print(f"RSS error {feed['name']}: {ex}", file=sys.stderr)
