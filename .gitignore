@@ -1,0 +1,4 @@
+candidates.json
+fetch_err.txt
+__pycache__/
+*.pyc
