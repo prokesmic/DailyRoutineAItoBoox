@@ -1,0 +1,14 @@
+RSS error Anthropic: Client error '404 Not Found' for url 'https://www.anthropic.com/news/rss.xml'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+RSS error Mistral AI: Client error '404 Not Found' for url 'https://mistral.ai/news/feed.xml'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+RSS error Meta AI: Client error '404 Not Found' for url 'https://ai.meta.com/blog/rss/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+RSS error The Batch: Client error '404 Not Found' for url 'https://www.deeplearning.ai/the-batch/feed'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+RSS error The Verge AI: Client error '404 Not Found' for url 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+RSS error Ars Technica IT: Client error '403 Forbidden' for url 'https://arstechnica.com/information-technology/feed/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+RSS error Wired AI: Client error '403 Forbidden' for url 'https://www.wired.com/feed/tag/ai/latest/rss'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
