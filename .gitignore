@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+candidates.json
+selected.json
+out/
+.venv/
