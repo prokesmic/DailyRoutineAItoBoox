@@ -1,5 +1,2805 @@
 [
   {
+    "url": "https://x.ai/news/grok-build-cli",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://finance.yahoo.com/sectors/technology/articles/u-approves-chinese-companies-buy-115220822.html",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://openai.com/index/work-with-codex-from-anywhere",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/05/15/cerebras-stock-ipo-debut-ai.html",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/05/14/closing-arguments-jury-openai-musk-altman.html",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://apnews.com/article/data-centers-ai-electricity-sanders-aoc-65651bd28c3d911d18eeb46cd54f4c75",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/news/claude-for-small-business",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://workspaceupdates.googleblog.com/2026/05/notebooklm-in-workspace-studio.html",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://developers.openai.com/learn/developers-codex-plugin",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://blogs.windows.com/msedgedev/2026/05/13/new-updates-to-edge-across-desktop-and-mobile",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://code.claude.com/docs/en/goal",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://hasdata.com",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://tinyhumans.ai/openhuman",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://lokuma.ai/website-builder",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.spellar.ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://launch.naptick.com",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://asteroid.ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-ai-assistant",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.perplexity.ai/hub/blog/how-we-built-security-into-computer",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.testingcatalog.com/cline-releases-open-source-agent-runtime-sdk-for-coding-agents",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.testingcatalog.com/holaos-0-1-released-as-ai-workstream-management-layer",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.testingcatalog.com/google-prepares-gemini-spark-ai-agent-ahead-of-i-o-launch",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://9to5mac.com/2026/05/13/apple-is-working-to-incorporate-ai-agents-on-the-app-store-per-report",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.foxbusiness.com/technology/openai-backs-creation-global-ai-governance-body-led-u-s-would-include-china-member",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-forms-strategic-collaboration-openai-bring-ai-how-fiserv",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://memoket.ai/pages",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.apideck.com/mcp-server",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.blaze.ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/krea_ai/status/2054207481421975829",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://claude.com/blog/claude-for-the-legal-industry",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.perplexity.ai/enterprise/customers/paypal",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://deepmind.google/blog/ai-pointer",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://stories.rivian.com/software-update-hey-rivian-assistant-connect-ai-2026",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.testingcatalog.com/thehype-launches-24-7-ai-powered-radio-for-founders",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://ai.google.dev/gemini-api/docs/interactions/deep-research",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.engadget.com/2171038/everything-announced-at-android-show-google-io-2026",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "http://Display.dev",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.freeaiseoaudit.com",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.knooth.com",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://thinkingmachines.ai/blog/interaction-models",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/GeminiApp/status/2053889747752190393",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-b-investment-round",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AnthropicAI/status/2053881827396653207",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://twitter.com/Sigma_Browser/status/2053885583257211209",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://simcam.swmansion.com",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/googlegemma/status/2048805789788413984",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.testingcatalog.com/xai-rolling-out-custom-shareable-imagine-templates-for-grok",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://about.fb.com/news/2026/04/powering-ai-strengthening-the-grid-space-solar-energy-and-long-duration-storage",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/04/27/turning-customer-experience-into-a-growth-engine",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/HeyGen/status/2048882211022311614",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.testingcatalog.com/elevenlabs-launches-agent-templates-for-faster-bootstrapping",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://news.microsoft.com/source/features/digital-transformation/accenture-is-rolling-out-copilot-to-a-workforce-the-size-of-denver",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/testingcatalog/status/2048796690627403837",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/testingcatalog/status/2049130707482542091",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/testingcatalog/status/2049092317852676318",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/news/claude-for-creative-work",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/04/28/meta-google-big-tech-staff-ai-labs-investors.html",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://techcommunity.microsoft.com/blog/outlook/copilot-in-outlook-new-agentic-experiences-for-email-and-calendar/4514601",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://openai.com/index/openai-on-aws",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.jetadmin.io",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://logic.inc",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://atech.dev",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://openai.com/index/our-principles",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/alibaba_qwen/status/2048022731548229869",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.testingcatalog.com/anthropic-tests-new-bugcrawl-tool-for-claude-code-bug-detection",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/btibor91/status/2048711679404601528",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.testingcatalog.com/google-tests-catalog-and-website-generation-for-pomelli-experiment",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://news.microsoft.com/source/asia/features/cricket-australia-uses-ai-insights-to-bring-fans-closer-to-the-action",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/testingcatalog/status/2048724839704252655",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/openai-and-microsoft-rewrite-their-deal-no-more-exclusivity-no-more-agi-clause",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.inc.com/chris-morris/the-trial-between-elon-musk-and-sam-altman-is-a-battle-for-the-future-of-ai/91335818",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.msn.com/en-us/news/technology/apple-may-open-up-siri-to-ai-assistants-such-as-gemini-claude-in-ios-27-report",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://appleinsider.com/articles/26/04/26/apples-ai-push-alone-will-generate-three-new-hardware-categories",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://tryspira.ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://bansi.ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.band.ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/testingcatalog/status/2047455399410807073",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/NotionHQ/status/2047420542454829117",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.msn.com/en-us/news/technology/china-s-ai-upstart-deepseek-drops-new-model-will-it-make-waves-like-last-year",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://leonardo.ai/news/dwayne-koh-on-the-way-ai-is-evolving-as-a-creative-partner",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://newsroom.spotify.com/2026-04-23/claude-integration",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/crm1y89vek8o",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.workshoplabs.ai/blog/wsl-joining-tml",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://deepmind.google/blog/gemini-robotics-er-1-6",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.fiercepharma.com/pharma/novo-taps-openai-deploy-ai-across-rd-manufacturing-and-corporate-functions",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.axios.com/2026/04/14/google-launches-ai-jobs-push",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/04/13/openai-touts-amazon-alliance-in-memo-microsoft-limited-our-ability.html",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/donald-trump/trump-angered-ardent-supporters-ai-image-appearing-depict-jesus-rcna331590",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://sfstandard.com/2026/04/14/sal-khan-ted-ai-degree",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.cbsnews.com/news/fbi-raids-home-suspect-molotov-cocktail-openai-ceo-sam-altmans-house",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.reuters.com/world/anthropic-talking-trump-administration-about-its-next-ai-model-co-founder-says-2026-04-13",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://fortune.com/2026/04/14/anthropic-claude-performance-decline-user-complaints-backlash-lack-of-transparency-accusations-compute-crunch",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.clarm.com",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.sigmamind.ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://superhq.ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.msn.com/en-gb/money/other/openai-to-open-first-permanent-london-office-in-2027/ar-AA20KOMs",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.testingcatalog.com/google-develops-voice-mode-and-collaborative-tools-for-mixboard",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.prnewswire.com/news-releases/75-of-americans-say-they-would-lose-trust-in-ai-shopping-if-results-were-sponsored-302739901.html",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.reuters.com/business/media-telecom/tesco-partners-with-adobe-ramp-up-aidriven-personalised-marketing-2026-04-13",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://spectrumlocalnews.com/nc/charlotte/news/2026/04/10/ai-health-chatgpt",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.a16z.news/p/charts-of-the-week-ventures-300b",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.msn.com/en-in/lifestyle/relationships/us-man-dies-by-suicide-after-believing-ai-wife-asked-him-to-join-her-in-digital-world-im-ready-my-love/ar-AA20LtzA",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://news.microsoft.com/source/features/innovation/7-ways-ai-is-advancing-healthcare-and-wellbeing-around-the-world",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://blog.samaltman.com/2279512",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.testingcatalog.com/anthropic-tests-claude-code-upgrade-to-rival-codex-superapp",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.testingcatalog.com/openai-develops-unified-codex-app-and-new-scratchpad-feature",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.wired.com/story/anthropic-launches-claude-managed-agents",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://integrations.getspine.ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://wmstudio.io/en/creative-studio",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://layerproof.app",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AIatMeta/status/2042617283638628489",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAI/status/2042295688323875316",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://claude.com/blog/cowork-for-enterprise",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.thedeepview.com/articles/chatgpt-partners-with-upwork-for-hiring",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.tomsguide.com/computing/software/over-500-million-google-calendar-users-just-got-a-major-upgrade-that-solves-the-time-zone-problem",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/products/search/google-finance-expansion",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.testingcatalog.com/notion-tests-computer-to-expand-capabilities-of-its-ai-offering",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.testingcatalog.com/engramme-opens-memory-api-beta-for-app-developers-and-teams",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.perplexity.ai/hub/blog/plaid-integration-provides-full-view-of-personal-finances",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.msn.com/en-us/news/us/ai-has-replaced-work-for-20-of-full-time-employees-in-the-us-survey-says/ar-AA20vLSL",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/04/09/openai-slams-anthropic-in-memo-to-shareholders-as-rival-gains-momentum.html",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://docs.zapier.com/sdk",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/notebooks-gemini-notebooklm",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://openclawchronicles.com/posts/openclaw-2026-4-8-v2026-4-7-release",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://developers.notion.com/guides/mcp/mcp",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.benton.org/headlines/lawmakers-introduce-legislation-repeal-trump%E2%80%99s-ai-moratorium",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.testingcatalog.com/gemini-for-business-prepares-notebooklm-integration-and-skills",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-ipo.html",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.msn.com/en-us/news/technology/microsoft-unveils-ai-upgrades-rolls-out-copilot-cowork-to-early-access-customers/ar-AA1ZIDY8",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.msn.com/en-us/news/technology/starcloud-reaches-1-1-billion-valuation-as-ai-space-race-heats-up/ar-AA1ZIdFR",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://techcommunity.microsoft.com/blog/microsoft365copilotblog/introducing-multi-model-intelligence-in-researcher/4506011",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://seekingalpha.com/news/4570132-openais-chatgpt-app-store-initiative-sees-sluggish-start",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.thenews.com.pk/latest/1397150-tech-ceos-blames-ai-to-justify-job-cuts",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.testingcatalog.com/exclusive-meta-tests-avocado-9b-avocado-mango-agent-and-more",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.tomsguide.com/ai/openai-just-killed-sora-as-company-readies-ipo-and-new-spud-model",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.cnet.com/tech/services-and-software/claude-control-your-computer-to-perform-tasks",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://siliconangle.com/2026/03/27/openai-introduces-plugins-codex-programming-assistant",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.macrumors.com/2026/03/26/apple-ios-27-siri-chatbot-integration",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cvg4p02lvd0o",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://mashable.com/article/claude-mythos-ai-model-anthropic-leak",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-to-gemini-app",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/suno/status/2037244702693445878",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.msn.com/en-us/news/politics/lawmakers-push-a-bill-to-impose-an-ai-data-center-moratorium/ar-AA1Ztj1N",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://tech.yahoo.com/ai/claude/articles/exclusive-anthropic-acknowledges-testing-ai-022748617.html",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://mistral.ai/news/voxtral-tts",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://developers.openai.com/codex/plugins",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/politics/policy/anthropic-wins-injunction-in-court-battle-with-trump-administration-4cc93351",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/03/26/openai-ads-pilot-tops-100-million-in-arr-in-under-2-months.html",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.msn.com/en-us/money/other/apple-plans-to-open-up-siri-to-rival-ai-assistants-in-ios-27-update/ar-AA1ZtwxX",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.agentation.com",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://oncockpit.ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://1devtool.com",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://pioinc.com",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://streampad-app.github.io/streampad-web",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "http://Venn.ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.nbcbayarea.com/news/local/meta-cuts-jobs-ai-focus-vr/4058167",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2036850783526719610",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/testingcatalog/status/2036921128204087605",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/testingcatalog/status/2037170612913766669",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.afr.com/world/north-america/robot-joins-melania-trump-at-white-house-event-to-tout-ai-teachers-20260326-p5zism",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://openai.com/index/safety-bug-bounty",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://arcprize.org/arc-agi/3",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.shopify.com/news/introducing-tinker",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.msn.com/en-us/money/other/ai-and-bots-have-officially-taken-over-the-internet-report-finds/ar-AA1ZsF6r",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-for-excel",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://help.openai.com/en/articles/20001066-skills-in-chatgpt",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.naoma.ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://needle.app",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.prava.space",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://claude.com/blog/claude-excel-powerpoint-updates",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://about.fb.com/news/2026/03/meta-launches-new-anti-scam-tools-deploys-ai-technology-to-fight-scammers-and-protect-people",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://twitter.com/GoogleWorkspace/status/2032102022229446715",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://runwayml.com/news/introducing-runway-labs",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://openai.com/index/equip-responses-api-computer-environment",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.engadget.com/ai/grammarly-has-disabled-its-tool-offering-generative-ai-feedback-credited-to-real-writers-201614257.html",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/platform-37-the-ai-exchange",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://news.northeastern.edu/2026/03/09/autonomous-ai-agents-of-chaos",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.techbuzz.ai/articles/nvidia-bets-26b-on-open-weight-ai-models-to-challenge-openai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.cnet.com/tech/services-and-software/microsoft-copilot-health-insights-ai-news",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/03/12/google-brings-more-gemini-ai-to-navigation-with-ask-maps-feature.html",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.nbcnews.com/politics/national-security/democrats-ask-pentagon-iran-school-strike-role-ai-rcna263083",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.openui.com",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.hume.ai/blog/opensource-tada",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://screengeany.ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/03/10/microsoft-says-court-should-temporarily-block-pentagon-ban-anthropic.html",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/testingcatalog/status/2031523354318901412",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/testingcatalog/status/2031529144589181046",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://twitter.com/googlechrome/status/2031558824042058064",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.testingcatalog.com/google-tests-multi-agent-planning-mode-on-gemini-business",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/892401/amazon-perplexity-ai-shopping-agent-court-order",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://blog.adobe.com/en/publish/2026/03/10/image-editing-just-got-smarter-with-ai-photoshop-firefly",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/nvidia-thinking-machines-lab",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/news/the-anthropic-institute",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://ng.investing.com/news/stock-market-news/openai-plans-to-launch-sora-video-ai-in-chatgpt-the-information-2385535",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-wiz",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.axios.com/2026/03/10/youtube-deepfake-detection-journalists-politicians",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.vozo.ai/visual-translate",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://chroniclehq.com",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://swarm.getspine.ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.zdnet.com/article/claude-code-review-ai-agents-pull-request-bug-detection",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://gizmodo.com/people-hate-ai-even-more-than-they-hate-ice-poll-finds-2000731438",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.msn.com/en-us/money/other/nvidia-plans-open-source-ai-agent-platform-nemoclaw-for-enterprises-wired/ar-AA1XSltS",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://a16z.com/100-gen-ai-apps-6",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/luma-ais-new-uni-1-image-model-tops-nano-banana-2-and-gpt-image-1-5-on-logic-based-benchmarks",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://microsoft.ai/news/health-check-how-people-use-copilot-for-health",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/mar/09/openai-delays-adult-mode-for-chatgpt-to-focus-on-work-of-higher-priority",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.msn.com/en-us/news/technology/meta-acquires-ai-agent-social-network-moltbook/ar-AA1XUCck",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/MParakhin",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://youtu.be/uqM8qjbLRHA",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Ronalfa/status/2031083722980864010",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.linkedin.com/in/daniel-bear-b79480279",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.noetik.ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/BiotechTV/status/2011577286634729785",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Ronalfa/status/2045579548977500197",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/owl_posting/status/2026313562721853730",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/DrSamuelBHume/status/2039088953597317295",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://go.bio.org/rs/490-EHZ-999/images/ClinicalDevelopmentSuccessRates2011_2020.pdf",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://honicky.substack.com",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.saastr.com/notion-and-growing-into-your-10b-valuation-a-masterclass-in-patience",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.notion.com/blog/introducing-notion-ai",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.notion.com/blog/introducing-q-and-a",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.notion.com/releases/2024-07-29",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.notion.com/blog/notion-ai-for-work",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://youtu.be/KZ3hAy_XZwI",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sarahmsachs",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/simonlast",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sarahmsachs/status/2031473087791902991",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.linkedin.com/in/sarahmsachs",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.linkedin.com/in/simon-last-41404140",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.ai.engineer/miami",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.ai.engineer/schedule",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/karpathy/status/1937902205765607626",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/_dmca/status/2029810231325380725",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://openai.com/index/harness-engineering",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ojoshe/status/2026882931873272024",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://openai.com/index/introducing-openai-frontier",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/_lopopolo/status/2036153987674898611",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/_lopopolo/status/2037291250072932493",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/swyx/status/2030080965020897753",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://github.com/openai/symphony",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/alex_frantic/status/2030400081636290748",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://openai.com/codex",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/swyx/status/2023475672157696079",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/_lopopolo",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.linkedin.com/in/ryanlopopolo",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://hyperbo.la/contact",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://a16z.com/why-did-we-raise-15b",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "http://x.com/pmarca",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/eriktorenberg",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://youtu.be/knx2wrILP1M",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://moonlakeai.com",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://moonlakeai.com/blog/building-interactive-worlds",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/moonlake/status/2026718586354487435",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://moonlakeai.com/blog/why-world-models-need-structure-not-just-scale",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Christopher_D._Manning",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Ian_Goodfellow",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/moonlake/status/2029983120087470545",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sjoshi804/status/2054566179369574419",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/percyliang/status/2054550981527146942",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/kevin_x_li/status/2054600962137100493",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/victormustar/status/2054495700822478943",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/steverab/status/2054564579573698921",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sayashk/status/2054569643080077576",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AndrewCurran_/status/2054582686698848294",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/TheRundownAI/status/2054588969044627906",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ClaudeDevs/status/2054639777685934564",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/theo/status/2054620998205624746",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/mattpocockuk/status/2054655310388674693",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/omarsar0/status/2054679776397300188",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sama/status/2054626219858293128",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/reach_vb/status/2054655421013434510",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/perplexity_ai/status/2054608966148374715",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/perplexity_ai/status/2054608978680873457",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AravSrinivas/status/2054619058650411174",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/_rockt/status/2054491251345391852",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/josh_tobin_/status/2054576051431616873",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/schmidtdominik_/status/2054498117416808727",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/jennyzhangzt/status/2054603211798147436",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/shengranhu/status/2054630820305088739",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/adaption_ai/status/2054532113316434061",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sarahookr/status/2054551263275254084",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AISecurityInst/status/2054589758043496567",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/logangraham/status/2054613618168082935",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/scaling01/status/2054594892903436553",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/swyx/status/1932125643384455237",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/gson_AI/status/2054036114483392997",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/SophontAI/status/2054270239387627927",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/polynoamial/status/2054255862441812099",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/dair_ai/status/2054224343551639958",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/dlouapre/status/2054217281895309480",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/KLieret/status/2054215545663144217",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/LightOnIO/status/2054202169255973121",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/xuzihuan4/status/2054220800073642161",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/torchcompiled/status/2054036715589771542",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/torchcompiled/status/2054088499591000255",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/kellerjordan0/status/2054255672636981423",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/kellerjordan0/status/2054098451621978471",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/leloykun/status/2054076097881592068",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/che_shr_cat/status/2054178651856339276",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/JJitsev/status/2054166378823794881",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/omarsar0/status/2054224130103554359",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/PrimeIntellect/status/2054347134821154841",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/perplexity_ai/status/2054204425833726353",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AravSrinivas/status/2054206802133504234",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/charles_irl/status/2054233051140690023",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AkshatS07/status/2054275262289002664",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/SemiAnalysis_/status/2054245527957508520",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2036195789601374705",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/i/broadcasts/1qGoNegbnRNKv",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Amdahl%27s_law",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/business/deals/anthropic-nears-1-5-billion-joint-venture-with-wall-street-firms-8f5448ee",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.msn.com/en-us/money/general/openai-launches-10b-ai-venture-backed-by-tpg-bain-softbank-bloomberg/ar-AA22miSj",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/levie/status/2051344780328858040",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/TechFundies/status/2051733955049853053",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/madisonmills22/status/2051688936053813661",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/kabirnagrecha/status/2051719069448196366",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAI/status/2051709035347694047",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/michpokrass/status/2051709536130802022",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ericmitchellai/status/2051711459886059963",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sama/status/2051716909629153573",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAIDevs/status/2051453905343828350",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/kimmonismus/status/2051571219040735423",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sama/status/2051464865634742334",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAIDevs/status/2051725072873001338",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/reach_vb/status/2051655026574057593",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/reach_vb/status/2051782942314078553",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sama/status/2051724685231214650",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sama/status/2051783339502375418",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Vtrivedy10/status/2051451869017584112",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Vtrivedy10/status/2051674478648742002",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sydneyrunkle/status/2051637638239567953",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/0xSero/status/2051689733793755405",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/teortaxesTex/status/2051549309707928028",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/finbarrtimbers/status/2051652067480179020",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/jyangballin/status/2051677497562210552",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OfirPress/status/2051678633035809159",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/scaling01/status/2051733949877985349",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OfirPress/status/2051757679283143089",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/cursor_ai/status/2051739625958584659",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/cognition/status/2051708729880416614",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/cognition/status/2051708731671331171",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/googlegemma/status/2051713412431007808",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/googledevs/status/2051700498328346945",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/osanseviero/status/2051695861801820475",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/mervenoyann/status/2051702372339003841",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/_philschmid/status/2051752856319926475",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/vllm_project/status/2051744111116574950",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/BanghuaZ/status/2051650922892476904",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Arpan_Shah_/status/2051651802484150278",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/GenAI_is_real/status/2051703162722263180",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ibab/status/2051690211873308892",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/multiply_matrix/status/2051698056316526651",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ArtificialAnlys/status/2051735255044997215",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/teortaxesTex/status/2051525774851682409",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/kamilsindi/status/2051674592750494094",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/dl_weekly/status/2051693914868871205",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/cmpatino_/status/2049881579691139372",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/SocketSecurity/status/2049849100548424180",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/kimmonismus/status/2049901987500552195",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/_catwu/status/2049964403177689130",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/cursor_ai/status/2049926283061035254",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Alibaba_Qwen/status/2049861145574690992",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AnthropicAI/status/2049927618397614466",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/hxiao/status/2048458363889938547",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sama/status/2047386068194852963",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/SVTrivo/status/2049205332329795730",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://download.intel.com/newsroom/2026/earnings/1Q2026-Earnings-Call.pdf",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAI/status/2049583167406064115",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAI/status/2049583308305252620",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAI/status/2049583379709124865",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAIDevs/status/2049505143218217048",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/coreyching/status/2049576335157416115",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAIDevs/status/2049605820351230158",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/gdb/status/2049609076351381580",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/aiDotEngineer/status/2049527486124560491",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAIDevs/status/2049595890395152728",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/reach_vb/status/2049608607591809303",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/pierceboggan/status/2049505637978263697",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/pierceboggan/status/2049504445424423133",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/pierceboggan/status/2049503967059812617",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/code/status/2049556204930695278",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/cursor_ai/status/2049499874043830389",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/cursor_ai/status/2049499876388454903",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/LangChain_OSS/status/2049539590990557381",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/LangChain/status/2049540926603718969",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Vtrivedy10/status/2049537545273528633",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/hwchase17/status/2049546041247289553",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/hwchase17/status/2049552801890771220",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Vtrivedy10/status/2049597811226726682",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/threepointone/status/2049463167298777310",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Cloudflare/status/2049545195914498139",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/scaling01/status/2049508126081077678",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/UnslothAI/status/2049511248623256017",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/eliebakouch/status/2049523829358162027",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/scaling01/status/2049546078664397105",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/kimmonismus/status/2049545016784413005",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ArtificialAnlys/status/2049505499377193156",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/nathanhabib1011/status/2049466639171690820",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/vllm_project/status/2049517056299761925",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/TencentHunyuan/status/2049487799850840334",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/MatthewBerman/status/2049562998575075526",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/arena/status/2049582973926949116",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Alibaba_Qwen/status/2049462666734026923",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Alibaba_Qwen/status/2049462776247247310",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/vllm_project/status/2049503979898274163",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/SemiAnalysis_/status/2049578313111216271",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/tszzl/status/2047386955550470245",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/aidan_mclau/status/2047388367705575701",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/andonlabs/status/2047377260412649967",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sebastienbubeck/status/2047383628922167390",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/davis7/status/2047414463595528467",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sama/status/2047378431260664058",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/thsottiaux/status/2047387017974337611",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ajambrosino/status/2047381565534322694",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAI/status/2047376561205325845",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAI/status/2047376568809636017",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/reach_vb/status/2047377562339524659",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/scaling01/status/2047375819144597737",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sama/status/2047379036419014928",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/MatthewBerman/status/2047375703516361174",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/danshipper/status/2047375686688473134",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/omarsar0/status/2047424707310289058",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/scaling01/status/2047377992016384068",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/theo/status/2047379702189310085",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAIDevs/status/2047381283358355706",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAIDevs/status/2047436655863464011",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/gdb/status/2047489218998628780",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/gdb/status/2047387783111868707",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/deepseek_ai/status/2047516945466188072",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Yuchenj_UW/status/2047514092756418757",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/scaling01/status/2047512176856899985",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/kimmonismus/status/2047514623356579869",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/eliebakouch/status/2047519300399837677",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Hangsiin/status/2047523724929405328",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/vllm_project/status/2047520252851105796",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/lmsysorg/status/2047511629919932623",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/scaling01/status/2047508350238175526",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/teortaxesTex/status/2047508587883250112",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Hangsiin/status/2047515855949623667",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/arena/status/2047524055679729885",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/teortaxesTex/status/2047523707199909977",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/omarsar0/status/2047325132096758228",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Vtrivedy10/status/2047362615836336473",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Vtrivedy10/status/2047384831995371631",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/trycua/status/2047383200348221632",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/cognition/status/2047392064355377194",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/LangChain/status/2047362259983495215",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/BraceSproul/status/2047417882423022034",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/hardmaru/status/2047483783323283941",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Teknium/status/2047506967909015907",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Teknium/status/2047419336537846193",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/songyoupeng/status/2047312019976785944",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sainingxie/status/2047339789926429166",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/HuggingPapers/status/2047410529010844044",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ltx_model/status/2047333864587018703",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.ted.com/talks/peter_steinberger_how_i_created_openclaw_the_breakthrough_ai_agent",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/claudeai/status/2045156267690213649",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/skirano/status/2045192705941106992",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Yuchenj_UW/status/2045161719547445426",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/TheRundownAI/status/2045176722476208454",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/arena/status/2045177492936532029",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/arena/status/2045177497378316597",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ArtificialAnlys/status/2045292578434875552",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/VictorTaelin/status/2045139180359942462",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/emollick/status/2045147490316374414",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/alexalbert__/status/2045159041283064095",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/theo/status/2045310884717981987",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/theo/status/2045317666383204423",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/scaling01/status/2045160883010081237",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ArtificialAnlys/status/2045206342173086156",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/scaling01/status/2045178622617498084",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/reach_vb/status/2045151640802771394",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/kr0der/status/2045154074337710136",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/HamelHusain/status/2045191726495846459",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/mattrickard/status/2045218583882633412",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/matvelloso/status/2045209294942142860",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/gdb/status/2045375289560007029",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AsfiShaheen/status/2045072599508508914",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AymericRoucher/status/2045176781414527305",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/raw_works/status/2045208764509470742",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/whoiskatrin/status/2045139949939200284",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/GitTrend0x/status/2045142797439922337",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/omarsar0/status/2045139481779696027",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/dair_ai/status/2045139481892880892",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/omarsar0/status/2045241905227915498",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/CUdudec/status/2045139195220431022",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ghadfield/status/2045245020429570505",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/PKirgis/status/2045265295649231354",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/NandoDF/status/2045063560716296450",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/eliebakouch/status/2045115926123520100",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/teortaxesTex/status/2045139476972745120",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/llama_index/status/2045145054772183128",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Julian_a42f9a/status/2045200413402493064",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/victormustar/status/2045068986446958899",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/RedHat_AI/status/2045153791402520952",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/danielhanchen/status/2045169369723064449",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/RisingSayak/status/2045114073000657316",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/googlegemma/status/2045204738720084191",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/vllm_project/status/2045381618928582995",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Cloudflare/status/2045126394418503846",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ackriv/status/2045177696506794336",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/JoyHeYueya/status/2045147082546462860",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Anikait_Singh_/status/2045149764636094839",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/SRSchmidgall/status/2045023895041061353",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/patrickc/status/2045164908912968060",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AnthropicAI/status/2041578416487489601",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AnthropicAI/status/2041580670774923517",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://huggingface.co/collections/google/gemma-2-release",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://open.substack.com/pub/turingpost",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/TheTuringPost/status/2040936147720048909",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ClementDelangue/status/2040911131108069692",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/GlennCameronjr/status/2040529333794824456",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Yampeleg/status/2040495537598648357",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/adrgrondin/status/2040512861953270226",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/enjojoyy/status/2040563245925151229",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/_philschmid/status/2041171039598543064",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/RedHat_AI/status/2040766645480628589",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AlexEngineerAI/status/2040260903053197525",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ben_burtenshaw/status/2040454752534761725",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ollama/status/2041238722914685336",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/osanseviero/status/2041154555530932578",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/NousResearch/status/2040931043658567916",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ErickSky/status/2040956335764734235",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/lucatac0/status/2041018088913608923",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/casper_hansen_/status/2041046264758858081",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/noctus91/status/2041084870722793707",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Teknium/status/2041233409901769133",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/aijoey/status/2040978270439580042",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Teknium/status/2040998328461316524",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/nesquena/status/2041000592215298123",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/SnuuzyP/status/2040999794894663996",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/DoctaDG/status/2041051272560923090",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ratlimit/status/2040787102078546068",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Yuchenj_UW/status/2041202983640432966",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/NousResearch/status/2040471903433896328",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/badlogicgames/status/2041151967695634619",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ClementDelangue/status/2041189872556269697",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/salman_paracha/status/2040215191678509521",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/baseten/status/2041194606512279617",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/TheTuringPost/status/2040389184234651815",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/finbarrtimbers/status/2041176604961878271",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/_akhaliq/status/2041183818317509028",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/HuggingPapers/status/2041188981195391447",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/TheAITimeline/status/2040953557961080843",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/GeZhang86038849/status/2041184352516919690",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/TheTuringPost/status/2041124796361236608",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/CShorten30/status/2041154055993430365",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/DavidGFar/status/2041063368656585002",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/MaziyarPanahi/status/2040776481673281936",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Prince_Canuma/status/2040861768138789012",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ivanfioravanti/status/2040886300971004270",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/kimmonismus/status/2041130939175284910",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAINewsroom/status/2041198359420215453",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AdrienLE/status/2041179073167454689",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Dan_Jeffries1/status/2041170970631676067",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/jphorism/status/2039822829412405671",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Vtrivedy10/status/2039805753905840159",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Vtrivedy10/status/2039756274468810778",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/LangChain/status/2039749792524271704",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/winglian/status/2039739597287047384",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/winglian/status/2039740266597245113",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/winglian/status/2039823559363629432",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/turbopuffer/status/2039734876954632428",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/jerryjliu0/status/2039730277786980833",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/llama_index/status/2039734761334374791",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/jerryjliu0/status/2039764004332339565",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AnthropicAI/status/2039749628737019925",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AnthropicAI/status/2039749652413550691",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AnthropicAI/status/2039749660349239532",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/aryaman2020/status/2039761326440898672",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/dribnet/status/2039775902368948363",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/jeremyphoward/status/2039880485036544422",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAI/status/2039748699350532097",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/OpenAIDevs/status/2039794643513295328",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/perplexity_ai/status/2039740898830073889",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/perplexity_ai/status/2039750344373125547",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/demishassabis/status/2039736628659269901",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/karpathy/status/2039805659525644595",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/cursor_ai/status/2039768512894505086",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/xanamini/status/2039403320247480469",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/latkins/status/2039370549743243353",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/MarkMcQuade/status/2039375842560872834",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/latkins/status/2039479700826071318",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/willccbb/status/2039478656373076413",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/xlr8harder/status/2039389523403059257",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Zai_org/status/2039371149721694639",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Zai_org/status/2039371144340357509",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Trae_ai/status/2039380056460730451",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/TabbitBrowser/status/2039359108747522345",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/arena/status/2039400189178556814",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/dahou_yasser/status/2039242378809385331",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/mervenoyann/status/2039327292665561577",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/TheCraigHewitt/status/2039303217620627604",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ZhihuFrontier/status/2039229986339688581",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ZhihuFrontier/status/2039289110075203854",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Teknium/status/2039270117650116934",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/andersonbcdefg/status/2039238729932701814",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/meowbooksj/status/2039256157781410298",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/theo/status/2039411851919057339",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/theo/status/2039412173689196674",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/trq212/status/2039415036645679167",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/theo/status/2039415081675723135",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/theo/status/2039417864957153733",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Yuchenj_UW/status/2039415430994100440",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/charliehinojosa/status/2039384870091465202",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/M1Astra/status/2037377109472018444",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/scaling01/status/2037379145806524655",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/scaling01/status/2037384912743923969",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Yuchenj_UW/status/2037391159115563214",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/FirstSquawk/status/2037586926375743904",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/dejavucoder/status/2037439287873159641",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/iScienceLuvr/status/2037487244634972471",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Zai_org/status/2037490078126084514",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Zai_org/status/2037506911013138851",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/kimmonismus/status/2037507667732709392",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/XFreeze/status/2037695882301436412",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/arena/status/2037584085997216100",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/TheGeorgePu/status/2037473248577782046",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/LottoLabs/status/2037557925015949676",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/0xSero/status/2037560787565252666",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/iotcoi/status/2037478891179135123",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/bnjmn_marie/status/2037564190802563157",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/gaoj0017/status/2037532673812443214",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/gaoj0017/status/2037552350924042488",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/NousResearch/status/2037654827929338324",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ClementDelangue/status/2037634211973140898",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/fancylancer3991/status/2037579517389144399",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/PolackJack/status/2037661357785690584",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/alexcovo_eth/status/2037589212648665273",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ClementDelangue/status/2037530125638455610",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/LangChain/status/2037590936234959355",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/LangChain_JS/status/2037560951445266891",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/Box/status/2037563341431058497",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/theo/status/2037383187849183457",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/nickbaumann_/status/2037395162641686813",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/VibeMarketer_/status/2037521519736463782",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/ctatedev/status/2037599050112160165",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/JTLonsdale/status/2037555800193851727",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/cognition/status/2037649026951303668",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/cwolferesearch/status/2037726856699420987",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/AIatMeta/status/2037582117375553924",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/LiorOnAI/status/2037484990779339064",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/UnitreeRobotics/status/2037440578275946551",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/victormustar/status/2037572662659104976",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/vanstriendaniel/status/2037548103272632497",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/qtnx_/status/2037553397423902846",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sophiamyang/status/2037523809914241069",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/nickfrosst/status/2037680223445975131",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://x.com/sama/status/2037396826060673188",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s5kdu0/google_turboquant_running_qwen_locally_on_macair",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://github.com/TheTom/turboquant_plus",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://github.com/TheTom/turboquant_plus/blob/main/docs/papers/sparse-v-dequant.md",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s51id3/glm_51_is_out",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://www.scrya.com/rotorquant",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
+    "url": "https://github.com/scrya-com/rotorquant",
+    "shipped_at": "2026-05-17T10:25:31.009309+00:00"
+  },
+  {
     "url": "https://www.latent.space/p/abridge",
     "shipped_at": "2026-05-17T07:37:33.218275+00:00"
   },
