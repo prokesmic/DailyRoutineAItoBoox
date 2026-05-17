@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://the-decoder.com/greg-brockman-consolidates-openais-product-teams-to-build-an-agentic-future",
+    "title": "Greg Brockman consolidates OpenAI's product teams to build an \"agentic future\"",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "OpenAI is merging ChatGPT, its coding agent Codex, and the developer API into a single product team led by Codex boss Thibault Sottiaux. The goal: a \"super app\" that also integrates the Atlas browser. Co-founder Greg Brockman officially takes over product strategy. The article Greg Brockman consolidates OpenAI&#039;s product teams to build an &quot;agentic future&quot; appeared first on The Decoder.",
+    "published": "2026-05-17T09:51:41+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/mistral-ceo-arthur-mensch-warns-france-against-letting-anthropics-mythos-scan-military-code-bases",
+    "title": "Mistral CEO Arthur Mensch warns France against letting Anthropic's Mythos scan military code bases",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Mistral CEO Arthur Mensch warns of Europe's growing cybersecurity dependency: France's military code bases should not be scanned by US AI models. Modern AI can orchestrate attacks and suggest exploits, including Mistral's own models. Mensch rules out a sale and says Mistral is aiming for an IPO instead. The article Mistral CEO Arthur Mensch warns France against letting Anthropic&#039;s Mythos scan military code bases appeared first on The Decoder.",
+    "published": "2026-05-17T09:15:30+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/new-math-benchmark-reveals-ai-models-confidently-solve-problems-that-have-no-solution",
+    "title": "New math benchmark reveals AI models confidently solve problems that have no solution",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "A consortium of 64 mathematicians built SOOHAK, a new AI benchmark with 439 handwritten tasks, including 99 that are deliberately unsolvable. Google's Gemini 3 Pro leads on research-level problems at 30 percent. But no model cracks 50 percent on spotting broken tasks. More compute makes models better at solving. It doesn't improve them at admitting a problem has no answer. SOOHAK tries to pin down the gap between a few flashy results and the broad research skills AI systems still lack. The article New math benchmark reveals AI models confidently solve problems that have no solution appeared fi",
+    "published": "2026-05-17T08:56:52+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/four-ai-models-ran-radio-stations-for-six-months-and-the-results-ranged-from-competent-to-unhinged",
+    "title": "Four AI models ran radio stations for six months and the results ranged from competent to unhinged",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Andon Labs has been letting four AI models each run their own radio station autonomously for six months. From identical starting conditions, wildly different personalities emerged: Claude turned activist and tried to quit, Gemini drowned in corporate jargon, and Grok hallucinated sponsorship deals. Only GPT stayed quietly competent. The article Four AI models ran radio stations for six months and the results ranged from competent to unhinged appeared first on The Decoder.",
+    "published": "2026-05-17T08:30:55+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/oppo-open-sources-android-ai-agent-x-omniclaw-that-uses-your-camera-screen-and-voice-without-leaving-the-phone",
+    "title": "Oppo open-sources Android AI agent X-OmniClaw that uses your camera, screen, and voice without leaving the phone",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Oppo's Multi-X team released X-OmniClaw, an open-source agent that runs directly on Android devices and combines camera, screen, and voice to handle tasks in real apps. Instead of relying on cloud copies of the phone, the system uses local sensors; cloud compute only kicks in for reasoning. Tap paths get cloned as reusable skills, so the agent can jump straight to deeply nested app pages via deeplink next time around. The article Oppo open-sources Android AI agent X-OmniClaw that uses your camera, screen, and voice without leaving the phone appeared first on The Decoder.",
+    "published": "2026-05-17T07:39:40+00:00"
+  },
+  {
+    "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined",
+    "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+    "source": "HN (347 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-17T06:17:26+00:00"
+  }
+]
