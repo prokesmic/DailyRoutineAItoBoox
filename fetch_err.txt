@@ -1,0 +1,7 @@
+HTTP 404 for Anthropic
+HTTP 404 for Mistral AI
+HTTP 404 for Meta AI
+HTTP 404 for The Batch
+HTTP 403 for The Verge AI
+HTTP 403 for Ars Technica IT
+HTTP 403 for Wired AI
