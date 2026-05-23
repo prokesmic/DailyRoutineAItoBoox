@@ -15,6 +15,17 @@ if os.path.exists("seen.json"):
 
 seen, out = set(shipped), []
 
+FEED_HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
+
+def parse_feed(url):
+    """Fetch via httpx (browser UA + follow redirects) so feeds that block
+    feedparser's default agent (403) or redirect (302) still parse."""
+    try:
+        with httpx.Client(timeout=20, follow_redirects=True, headers=FEED_HEADERS) as client:
+            return feedparser.parse(client.get(url).content)
+    except Exception:
+        return feedparser.parse(url)
+
 def clean(s):
     return " ".join(re.sub(r"<[^>]+>", "", s or "").split())
 
@@ -26,7 +37,7 @@ def entry_dt(e):
 
 for feed in cfg.get("rss", []):
     try:
-        p = feedparser.parse(feed["url"])
+        p = parse_feed(feed["url"])
         for e in p.entries[:25]:
             if entry_dt(e) < cutoff: continue
             url = (e.get("link") or "").split("?")[0].rstrip("/")
