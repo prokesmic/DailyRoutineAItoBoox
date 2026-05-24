@@ -1,0 +1,44 @@
+[
+  {
+    "idx": 3,
+    "title": "AI #169: New Knowledge",
+    "url": "https://thezvi.wordpress.com/2026/05/21/ai-169-new-knowledge",
+    "source": "Zvi Mowshowitz",
+    "blurb": "Zvi's weekly synthesis covers GPT-next's historic Erd\u0151s proof, cross-lab capability assessment, and AI's emerging knowledge-creation loop."
+  },
+  {
+    "idx": 16,
+    "title": "OpenAI GPT-next disproves 80-year-old Erd\u0151s planar unit distance problem",
+    "url": "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
+    "source": "Latent Space",
+    "blurb": "GPT-next produced a verified mathematical proof that eluded humans for 80 years \u2014 a concrete milestone for AI as research collaborator."
+  },
+  {
+    "idx": 2,
+    "title": "Gemini 3.5 Flash Looks Good For How Fast It Is",
+    "url": "https://thezvi.wordpress.com/2026/05/22/gemini-3-5-flash-looks-good-for-how-fast-it-is",
+    "source": "Zvi Mowshowitz",
+    "blurb": "Detailed capability analysis of Google's fastest production model; useful for evaluating latency-cost tradeoffs in enterprise AI deployments."
+  },
+  {
+    "idx": 15,
+    "title": "Giving Agents Computers \u2014 Ivan Burazin, Daytona",
+    "url": "https://www.latent.space/p/daytona",
+    "source": "Latent Space",
+    "blurb": "CEO interview: 74% MoM growth and 850K daily agent runs show real enterprise adoption of secure bare-metal sandboxes for agentic workflows."
+  },
+  {
+    "idx": 13,
+    "title": "All Model Labs are now Agent Labs",
+    "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+    "source": "Latent Space",
+    "blurb": "Every major model lab has repositioned as an agent platform \u2014 the product paradigm has shifted from text completion to autonomous action."
+  },
+  {
+    "idx": 4,
+    "title": "The Pulse: Antigravity 2.0 takes 'IDE' out of its new IDE",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-antigravity-20-takes-ide",
+    "source": "Pragmatic Engineer",
+    "blurb": "Pragmatic Engineer dissects Google's AI coding tool redesign and developer backlash \u2014 signals where the agentic development toolchain is heading."
+  }
+]
