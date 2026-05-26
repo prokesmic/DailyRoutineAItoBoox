@@ -1,0 +1,44 @@
+rss:
+  # Citation sources — Claude extracts cited studies/articles from picks and saves those too
+  - {name: "Ethan Mollick",         url: "https://www.oneusefulthing.org/feed",                                   weight: 1.4}
+  - {name: "Andrej Karpathy",       url: "https://karpathy.github.io/feed.xml",                                   weight: 1.5}
+  - {name: "Everyday AI",           url: "https://rss.beehiiv.com/feeds/nOnUBb1Te8.xml",                          weight: 1.1}
+  - {name: "Zvi Mowshowitz",        url: "https://thezvi.wordpress.com/feed/",                                    weight: 1.3}
+  - {name: "Pragmatic Engineer",    url: "https://newsletter.pragmaticengineer.com/feed",                         weight: 1.3}
+
+  # Frontier lab primary sources (Anthropic / Mistral / Meta have no public RSS — their news arrives via coverage feeds below)
+  - {name: "OpenAI",                url: "https://openai.com/news/rss.xml",                                       weight: 1.4}
+  - {name: "Google DeepMind",       url: "https://deepmind.google/blog/rss.xml",                                  weight: 1.3}
+  - {name: "Microsoft AI Blog",     url: "https://blogs.microsoft.com/ai/feed/",                                  weight: 1.3}
+  - {name: "NVIDIA Blog",           url: "https://blogs.nvidia.com/feed/",                                        weight: 1.0}
+  - {name: "Hugging Face",          url: "https://huggingface.co/blog/feed.xml",                                  weight: 1.1}
+
+  # Practitioner / builder commentary
+  - {name: "Latent Space",          url: "https://www.latent.space/feed",                                         weight: 1.3}
+  - {name: "Interconnects",         url: "https://www.interconnects.ai/feed",                                     weight: 1.3}
+  - {name: "Semianalysis",          url: "https://www.semianalysis.com/feed",                                     weight: 1.3}
+  - {name: "AI News (smol)",        url: "https://buttondown.com/ainews/rss",                                     weight: 1.2}
+  - {name: "Simon Willison",        url: "https://simonwillison.net/atom/everything/",                            weight: 1.2}
+  - {name: "Import AI",             url: "https://importai.substack.com/feed",                                    weight: 1.2}
+  - {name: "The Decoder",           url: "https://the-decoder.com/feed/",                                         weight: 0.9}
+  - {name: "TLDR AI",               url: "https://tldr.tech/api/rss/ai",                                          weight: 1.0}
+
+  # Strategic / management / commentary
+  - {name: "Stratechery",           url: "https://stratechery.com/feed/",                                         weight: 1.4}
+  - {name: "AI Snake Oil",          url: "https://www.aisnakeoil.com/feed",                                       weight: 1.2}
+  - {name: "Sam Altman",            url: "https://blog.samaltman.com/posts.atom",                                 weight: 1.2}
+  - {name: "Lenny's Newsletter",    url: "https://www.lennysnewsletter.com/feed",                                 weight: 1.1}
+  - {name: "Marginal Revolution",   url: "https://marginalrevolution.com/feed",                                   weight: 1.0}
+  - {name: "Marc Andreessen",       url: "https://pmarca.substack.com/feed",                                      weight: 1.0}
+  - {name: "MIT Tech Review AI",    url: "https://www.technologyreview.com/topic/artificial-intelligence/feed",   weight: 1.1}
+  - {name: "VentureBeat AI",        url: "https://venturebeat.com/category/ai/feed/",                             weight: 1.0}
+  - {name: "TechCrunch AI",         url: "https://techcrunch.com/category/artificial-intelligence/feed/",         weight: 0.9}
+
+hackernews:
+  enabled: true
+  min_points: 80
+  lookback_hours: 24
+  keywords: ["AI", "LLM", "GPT", "Claude", "Gemini", "agent", "agentic", "Anthropic", "OpenAI", "Mistral", "DeepSeek", "transformer", "RAG", "fine-tuning", "evaluation"]
+# RSS lookback is wider than HN because high-value sources (Mollick, Karpathy, Zvi,
+# Pragmatic Engineer, Everyday AI) publish less than daily; seen.json prevents re-shipping.
+lookback_hours: 72
