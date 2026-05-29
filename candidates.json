@@ -1,0 +1,803 @@
+[
+  {
+    "url": "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
+    "title": "[AINews] Anthropic raises $965B Series H, releases Opus 4.8 and Dynamic Workflows/ultracode",
+    "source": "Latent Space",
+    "weight": 1.1,
+    "summary": "Total Anthropic victory!",
+    "published_at": "2026-05-29T02:07:24+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.latent.space/p/cognition",
+    "title": "The Age of Async Agents — Cognition's Walden Yan & OpenInspect's Cole Murray",
+    "source": "Latent Space",
+    "weight": 1.1,
+    "summary": "80% Devin Commits, Spec-to-PR Workflows, Full VMs, Agent Memory, and PMs Shipping Code",
+    "published_at": "2026-05-28T18:41:24+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://thezvi.substack.com/p/ai-170-lack-of-executive-order",
+    "title": "AI #170: Lack of Executive Order",
+    "source": "Zvi Mowshowitz",
+    "weight": 1.1,
+    "summary": "Last week ended on a cliffhanger of sorts.",
+    "published_at": "2026-05-28T14:18:52+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-a-trend-of-trying-to-cut",
+    "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
+    "source": "Pragmatic Engineer",
+    "weight": 1.0,
+    "summary": "Top-down and bottom-up efforts to rationalize AI token spend, interesting AI coding stats from Cursor, GCP suspends $2M/month customer without warning, and more",
+    "published_at": "2026-05-28T16:57:38+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "title": "Strengthening societal resilience with Rosalind Biodefense",
+    "source": "OpenAI",
+    "weight": 1.1,
+    "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+    "published_at": "2026-05-29T03:00:00+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
+    "title": "A New Era of Innovation: Google Research at I/O 2026",
+    "source": "Google Research",
+    "weight": 1.0,
+    "summary": "General Science",
+    "published_at": "2026-05-28T20:58:00+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+    "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+    "published_at": "2026-05-29T12:00:00+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+    "published_at": "2026-05-29T00:44:37+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "title": "The internet is being rebuilt for machines",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+    "published_at": "2026-05-28T21:24:01+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "title": "Asana acquires no-code agent-builder StackAI",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
+    "published_at": "2026-05-28T20:06:07+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+    "published_at": "2026-05-28T18:52:51+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+    "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
+    "published_at": "2026-05-28T18:32:25+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
+    "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today.",
+    "published_at": "2026-05-28T17:30:00+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+    "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
+    "published_at": "2026-05-28T17:00:09+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+    "published_at": "2026-05-28T15:36:00+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+    "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
+    "published_at": "2026-05-28T15:35:43+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+    "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app.",
+    "published_at": "2026-05-28T14:45:13+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+    "title": "RSI is the new AGI — and it’s just as hard to pin down",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+    "published_at": "2026-05-28T14:30:17+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+    "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
+    "published_at": "2026-05-28T14:30:00+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+    "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
+    "published_at": "2026-05-28T14:28:47+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
+    "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco.",
+    "published_at": "2026-05-28T14:00:00+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+    "title": "The Download: unlocking lithium and controlling Ebola",
+    "source": "MIT Tech Review",
+    "weight": 0.95,
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a new extraction process could unlock the world’s lithium A new method for extracting lithium could cut costs and emissions from one of the world’s most important materials for EVs&#8230;",
+    "published_at": "2026-05-29T12:10:00+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
+    "title": "The deadly Ebola outbreak is proving difficult to control",
+    "source": "MIT Tech Review",
+    "weight": 0.95,
+    "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo virus, one of the viruses&#8230;",
+    "published_at": "2026-05-29T11:19:52+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+    "source": "MIT Tech Review",
+    "weight": 0.95,
+    "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;",
+    "published_at": "2026-05-29T10:00:00+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
+    "title": "How a new extraction process could unlock the world’s lithium",
+    "source": "MIT Tech Review",
+    "weight": 0.95,
+    "summary": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage arrays. This new technique could be more environmentally friendly and cheaper than existing ones.&#160; The research was published today in Science, and a startup called Rock Zero is working to&#8230;",
+    "published_at": "2026-05-28T18:01:00+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.theinformation.com/articles/chinas-bytedance-developing-new-ai-chips-like-nvidia-partner-groq",
+    "title": "China’s ByteDance Developing New AI Chips Like Those from Nvidia Partner Groq",
+    "source": "The Information",
+    "weight": 1.0,
+    "summary": "TikTok owner ByteDance is developing a new chip to run artificial intelligence models as part of an aggressive expansion of its homegrown AI infrastructure. The new AI chip is intended to have a structure similar to U.S. chip designer Groq’s language processing units, which are built to run AI models at low cost, according to three people with knowledge of the project. ByteDance, which is one of China’s AI leaders, is also working closely with InnoStar Semiconductor on how to integrate that Chin",
+    "published_at": "2026-05-29T13:00:35+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.theinformation.com/briefings/blue-origin-new-glenn-rocket-explodes-test",
+    "title": "Blue Origin New Glenn Rocket Explodes During Test",
+    "source": "The Information",
+    "weight": 1.0,
+    "summary": "Jeff Bezos’ space company Blue Origin suffered a serious setback Thursday evening when its New Glenn rocket exploded on a launch pad in Florida during a test. Video clips of the incident show a giant fireball engulfing the rocket and surrounding structures. No one was on board the rocket or ...",
+    "published_at": "2026-05-29T02:20:30+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.theinformation.com/articles/base-power-talks-raise-funds-12-billion-valuation",
+    "title": "Base Power in Talks to Raise Funds at $12 Billion Valuation",
+    "source": "The Information",
+    "weight": 1.0,
+    "summary": "Base Power, a three-year-old home-battery startup, is in talks to raise funds at a $12 billion valuation, according to a person with knowledge of the discussions. Ribbit Capital, which backed Base Power’s last funding round, has been in talks to lead the current round, according to two people with knowledge of the talks. Founded by Venezuelan entrepreneur Micky Malka, Ribbit is a prominent venture firm known for its fintech bets on startups like Robinhood and Coinbase.",
+    "published_at": "2026-05-29T01:39:36+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.theinformation.com/articles/boomers-beware-spacex-stock",
+    "title": "Boomers, Beware of SpaceX Stock",
+    "source": "The Information",
+    "weight": 1.0,
+    "summary": "Greetings! Anita here. It’s been a relatively slow week for SpaceX news, but that will soon change. Musk’s rocketship company is expected to launch its investor roadshow next week ahead of a mid-June IPO. The milestone will likely usher in a flood of giddy headlines and a lot of debate on Reddit forums and cable TV on whether individual investors should buy in. The answer: It’ll make sense for day traders and younger investors. But Boomers could get burned.&nbsp; One reason is the high volume of",
+    "published_at": "2026-05-28T23:59:34+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.theinformation.com/articles/big-laws-ai-threat-harvey-legora",
+    "title": "Big Law’s AI Threat to Harvey, Legora",
+    "source": "The Information",
+    "weight": 1.0,
+    "summary": "Despite fears that advanced tools from Anthropic and OpenAI would soon make legal apps like Harvey and Legora irrelevant, recent revenue milestones at those startups suggest they are doing just fine. But a fresh assault on their business is brewing: Some law firms now want to develop their own AI apps with frontier model companies like Anthropic or OpenAI rather than just purchase apps from smaller legal startups. Kirkland &amp; Ellis, the biggest law firm by gross revenue last year, said this w",
+    "published_at": "2026-05-28T23:47:01+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.theinformation.com/briefings/dell-shares-soar-nearly-40-surge-ai-server-sales",
+    "title": "Dell Shares Rise Nearly 40% After Surge in AI Server Sales",
+    "source": "The Information",
+    "weight": 1.0,
+    "summary": "Customer demand for AI is pouring jet fuel on Dell’s server, storage and networking businesses, as its overall revenue grew 88% to $43.8 billion during its April quarter compared to last year, beating its earlier forecast by more than $8 billion. Excluding items, Dell reported earnings per share ...",
+    "published_at": "2026-05-28T23:08:07+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.theinformation.com/articles/lowes-says-semantic-data-boosting-ai-agents",
+    "title": "Lowe’s Says ‘Semantic’ Data is Boosting Its AI Agents",
+    "source": "The Information",
+    "weight": 1.0,
+    "summary": "Microsoft, Databricks, SAP and other AI software providers are fighting over control and access to enterprise data known as the semantic layer, as we reported last week .&nbsp; Semantic layers are essentially a data management tool that companies use to standardize definitions for their business metrics, such as revenue and customers, and are now enabling AI to work more accurately and efficiently inside enterprises. Retailer Lowe’s, for instance, recently began using its semantic",
+    "published_at": "2026-05-28T20:09:41+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.theinformation.com/articles/ai-booms-pricey-middle",
+    "title": "The AI Boom’s Pricey Middle",
+    "source": "The Information",
+    "weight": 1.0,
+    "summary": "Baseten’s talks to raise fresh funding at an $11 billion valuation are the latest sign that investors are betting the messy work of helping developers run AI models can become one of the next big businesses in AI. That boom has lifted a group of companies including Baseten, Fireworks AI, Together AI and Modal. These startups give customers access to GPU capacity and offer software that makes AI models easier to customize and deploy, and have seen revenue sur",
+    "published_at": "2026-05-28T20:08:07+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.theinformation.com/briefings/illinois-legislature-passes-landmark-ai-safety-bill",
+    "title": "Illinois Legislature Passes Landmark AI Safety Bill",
+    "source": "The Information",
+    "weight": 1.0,
+    "summary": "On Wednesday, the Illinois House of Representatives passed a bill that will require major AI companies to submit their model safety plans for third-party audits, as well as creating whistleblower protections for those companies’ employees. While Governor JB Pritzker still has to sign the bill ...",
+    "published_at": "2026-05-28T19:22:32+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.theinformation.com/briefings/anthropic-releases-new-flagship-ai-model",
+    "title": "Anthropic Releases New Flagship AI Model",
+    "source": "The Information",
+    "weight": 1.0,
+    "summary": "Anthropic on Thursday announced its new flagship AI model, Claude Opus 4.8, which showed improvements in standardized AI performance evaluations in coding, financial analysis and other fields. The company also said the model is more likely to flag uncertainties about its work and less likely to ...",
+    "published_at": "2026-05-28T19:11:41+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.theinformation.com/briefings/anthropic-raises-65-billion-900-billion-valuation-micron-samsung-invest",
+    "title": "Anthropic Raises $65 Billion at $900 Billion Valuation; Micron, Samsung Invest",
+    "source": "The Information",
+    "weight": 1.0,
+    "summary": "Anthropic said Thursday it had raised $65 billion at a valuation of $900 billion before the financing, more than double the valuation in a round closed three months earlier. New investors Micron, Samsung and SK Hynix, which make a key component of AI chips, are investing in the model maker. The ...",
+    "published_at": "2026-05-28T19:07:00+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.theinformation.com/briefings/spacex-committed-six-month-anthropic-data-center-lease-musk-says",
+    "title": "SpaceX Committed to Six Month Anthropic Data Center Lease, Musk Says",
+    "source": "The Information",
+    "weight": 1.0,
+    "summary": "SpaceX is committed to renting its data center capacity to Anthropic for 180 days, though it could extend the deal for longer, CEO Elon Musk said Thursday. The comment provides more detail than language in SpaceX’s recent public S-1 filing. That document, which SpaceX published last week ahead ...",
+    "published_at": "2026-05-28T18:12:17+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.theinformation.com/articles/microsoft-release-new-coding-model-next-week-comeback-attempt",
+    "title": "Microsoft to Release New Coding Model Next Week in Comeback Attempt",
+    "source": "The Information",
+    "weight": 1.0,
+    "summary": "Microsoft next week will unveil a suite of new homegrown AI models at its annual Build conference for app developers in San Francisco. The question is whether it can win over these people. The company plans to unveil a coding model to boost the competitiveness of Microsoft-owned GitHub Copilot , a coding assistant whose early lead in the AI coding market was eroded by Cursor and Claude Code , according to someone with direct knowledg",
+    "published_at": "2026-05-28T14:00:47+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://huggingface.co/blog/torch-profiler",
+    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+    "source": "Hugging Face",
+    "weight": 0.95,
+    "summary": "",
+    "published_at": "2026-05-29T00:00:00+00:00",
+    "age_days": 0
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
+    "title": "[AINews] Cognition raises $1B in $26B Series D",
+    "source": "Latent Space",
+    "weight": 1.1,
+    "summary": "coding is an uncapped TAM market",
+    "published_at": "2026-05-28T07:26:09+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://www.latent.space/p/esmfold2",
+    "title": "🔬ESM: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
+    "source": "Latent Space",
+    "weight": 1.1,
+    "summary": "Biohub&#8217;s Protein World Model: ESMC-6B, ESMFold2, 6.8B proteins, 1.1B structures, antibody design, SAEs, & the potential for programmable biology",
+    "published_at": "2026-05-27T17:46:16+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/opencode",
+    "title": "Building OpenCode with Dax Raad",
+    "source": "Pragmatic Engineer",
+    "weight": 1.0,
+    "summary": "Dax Raad, co-founder of OpenCode, joins the show to discuss their explosive growth, the limits of AI coding tools, and why engineering judgment still matters.",
+    "published_at": "2026-05-27T16:07:30+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://openai.com/index/endava",
+    "title": "How Endava builds an agentic organization with Codex",
+    "source": "OpenAI",
+    "weight": 1.1,
+    "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+    "published_at": "2026-05-28T12:00:00+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://openai.com/index/mufg",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "source": "OpenAI",
+    "weight": 1.1,
+    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "published_at": "2026-05-28T00:00:00+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "title": "OpenAI’s Frontier Governance Framework",
+    "source": "OpenAI",
+    "weight": 1.1,
+    "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+    "published_at": "2026-05-28T00:00:00+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/",
+    "title": "Private analytics via zero-trust aggregation",
+    "source": "Google Research",
+    "weight": 1.0,
+    "summary": "Security, Privacy and Abuse Prevention",
+    "published_at": "2026-05-27T16:56:00+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
+    "title": "NVIDIA Research Advances Robotics From Simulation to the Real World",
+    "source": "NVIDIA",
+    "weight": 0.9,
+    "summary": "Robotics is entering a new phase: moving from controlled demos and scripted automation toward generalizable, reliable embodied autonomy in the real world. At the International Conference on Robotics and Automation (ICRA), eight of NVIDIA Research’s 28 accepted papers show how simulation-to-real transfer is becoming a foundation for that shift, helping robots perceive, reason, plan and [&#8230;]",
+    "published_at": "2026-05-28T13:00:51+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/",
+    "title": "The Name’s Gaming … Cloud Gaming: ‘007 First Light’ Launches on GeForce NOW",
+    "source": "NVIDIA",
+    "weight": 0.9,
+    "summary": "License to stream, shaken and stirred. GeForce NOW is dialing up the espionage with the launch of 007 First Light, letting members slip into James Bond’s reimagined origin story from almost any device — no tux or preloads required. For a limited time, the game is included with the purchase of a 12‑month GeForce NOW [&#8230;]",
+    "published_at": "2026-05-28T13:00:37+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
+    "title": "AI Factories: The New Infrastructure of Intelligence",
+    "source": "NVIDIA",
+    "weight": 0.9,
+    "summary": "AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per watt and cost per token become the economics that matter.",
+    "published_at": "2026-05-27T16:00:36+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-models-and-ads-and-ais-upside-for-humanity/",
+    "title": "An Interview with Eric Seufert About Models and Ads, and AI’s Upside for Humanity",
+    "source": "Stratechery",
+    "weight": 1.0,
+    "summary": "An Interview with Eric Seufert about building models for generative AI, why Meta's foundational models are so important, and why understanding advertising leads to optimism about humanity's future.",
+    "published_at": "2026-05-28T10:00:00+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+    "title": "The Download: climate tech goes public and the AI Hype Index returns",
+    "source": "MIT Tech Review",
+    "weight": 0.95,
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed&#8230;",
+    "published_at": "2026-05-28T12:10:00+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+    "title": "Climate tech companies are going public. What’s next?",
+    "source": "MIT Tech Review",
+    "weight": 0.95,
+    "summary": "This year, there’s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which is building small modular nuclear reactors, did the same in April, and its stocks surged on its first day&#8230;",
+    "published_at": "2026-05-28T10:00:00+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "title": "The AI Hype Index: AI gets booed in graduation season",
+    "source": "MIT Tech Review",
+    "weight": 0.95,
+    "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;",
+    "published_at": "2026-05-28T09:51:11+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://www.nature.com/articles/s42256-026-01248-2",
+    "title": "Human–AI interactions reshape the self and our social networks",
+    "source": "Nature Machine Intelligence",
+    "weight": 1.0,
+    "summary": "Nature Machine Intelligence, Published online: 28 May 2026; doi:10.1038/s42256-026-01248-2 Human–AI interactions reshape the self and our social networks",
+    "published_at": "2026-05-28T00:00:00+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://www.theinformation.com/articles/apple-renew-push-ai-runs-devices-instead-cloud",
+    "title": "Apple to Renew Push for AI That Runs on Devices, Instead of the Cloud",
+    "source": "The Information",
+    "weight": 1.0,
+    "summary": "At Apple’s annual developer conference next month, the star of the show will be a series of long-delayed artificial intelligence upgrades to the iPhone. But the company is also expected to emphasize what could be an underrated asset in its efforts to catch up in AI: Its ability to run AI models on the billions of Apple devices in circulation. People familiar with the company’s plans for its Worldwide Developers Conference say that Apple is likely to showcase how the company’s 15 ye",
+    "published_at": "2026-05-28T13:00:38+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://www.theinformation.com/articles/snowflake-shows-immunity-saaspocalypse",
+    "title": "Snowflake Shows Some Immunity to the SaaSpocalypse",
+    "source": "The Information",
+    "weight": 1.0,
+    "summary": "Shares of traditional software providers have been battered this year over AI fears. Investors’ reaction to Snowflake’s and Salesforce’s quarterly results Wednesday suggests some providers are in better shape than others. Snowflake shares jumped more than 35% to their highest point since December after the database provider said its most-watched sales metric grew 34% during its April quarter from a year-ago, beating the company’s own projection by seven percentage points",
+    "published_at": "2026-05-28T00:36:21+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "source": "Hugging Face",
+    "weight": 0.95,
+    "summary": "",
+    "published_at": "2026-05-27T17:20:29+00:00",
+    "age_days": 1
+  },
+  {
+    "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "title": "Choosing to Stay Human",
+    "source": "Ethan Mollick",
+    "weight": 1.1,
+    "summary": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
+    "published_at": "2026-05-26T19:56:01+00:00",
+    "age_days": 2
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
+    "title": "[AINews] New AI Infra decacorns: Fireworks, Baseten (with OpenRouter on the way)",
+    "source": "Latent Space",
+    "weight": 1.1,
+    "summary": "it's funding news, but it's good news.",
+    "published_at": "2026-05-27T03:33:53+00:00",
+    "age_days": 2
+  },
+  {
+    "url": "https://thezvi.substack.com/p/rtmh-pope-leos-magnifica-humanitas",
+    "title": "RTMH: Pope Leo's Magnifica Humanitas on AI",
+    "source": "Zvi Mowshowitz",
+    "weight": 1.1,
+    "summary": "His holiness has spoken, frequently about AI.",
+    "published_at": "2026-05-26T13:14:25+00:00",
+    "age_days": 2
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/state-of-the-job-market-2026",
+    "title": "State of the software engineering job market in 2026",
+    "source": "Pragmatic Engineer",
+    "weight": 1.0,
+    "summary": "A deepdive into today&#8217;s tech jobs market, with exclusive data on software engineering jobs, the AI engineering boom, whether AI engineering is &#8220;replacing&#8221; software engineering hiring, and more",
+    "published_at": "2026-05-26T18:10:59+00:00",
+    "age_days": 2
+  },
+  {
+    "url": "https://openai.com/index/cisco",
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "source": "OpenAI",
+    "weight": 1.1,
+    "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+    "published_at": "2026-05-27T11:00:00+00:00",
+    "age_days": 2
+  },
+  {
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "title": "Building self-improving tax agents with Codex",
+    "source": "OpenAI",
+    "weight": 1.1,
+    "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+    "published_at": "2026-05-27T07:00:00+00:00",
+    "age_days": 2
+  },
+  {
+    "url": "https://openai.com/index/election-safeguards-2026",
+    "title": "Election information and safeguards in 2026",
+    "source": "OpenAI",
+    "weight": 1.1,
+    "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+    "published_at": "2026-05-27T00:00:00+00:00",
+    "age_days": 2
+  },
+  {
+    "url": "https://openai.com/index/warp",
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "source": "OpenAI",
+    "weight": 1.1,
+    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "published_at": "2026-05-27T00:00:00+00:00",
+    "age_days": 2
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
+    "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
+    "source": "NVIDIA",
+    "weight": 0.9,
+    "summary": "The shift to agentic AI creates a new CPU requirement for the AI factory: fast cores, massive memory bandwidth and the ability to sustain high performance when all cores are active. Initial benchmark results published by Phoronix today show that the NVIDIA Vera CPU meets this need. For this first public look, the benchmark scope [&#8230;]",
+    "published_at": "2026-05-26T21:15:15+00:00",
+    "age_days": 2
+  },
+  {
+    "url": "https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space/",
+    "title": "The SpaceX IPO and Data Centers in Space",
+    "source": "Stratechery",
+    "weight": 1.0,
+    "summary": "There isn't a financial model that justifies the SpaceX IPO, but data centers in space are plausible, and that might be enough.",
+    "published_at": "2026-05-27T10:00:00+00:00",
+    "age_days": 2
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+    "title": "The Download: keeping up with AI, and the future of IVF",
+    "source": "MIT Tech Review",
+    "weight": 0.95,
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence&#8230;",
+    "published_at": "2026-05-27T12:10:00+00:00",
+    "age_days": 2
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "title": "Rethinking organizational design in the age of agentic AI",
+    "source": "MIT Tech Review",
+    "weight": 0.95,
+    "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;",
+    "published_at": "2026-05-26T14:54:10+00:00",
+    "age_days": 2
+  },
+  {
+    "url": "https://www.nature.com/articles/s42256-026-01243-7",
+    "title": "Generalizable mutation-effect prediction across adaptive immune recognition via unified multimodal framework",
+    "source": "Nature Machine Intelligence",
+    "weight": 1.0,
+    "summary": "Nature Machine Intelligence, Published online: 27 May 2026; doi:10.1038/s42256-026-01243-7 Han et al. introduce UniAIR, a unified AI framework that predicts mutation effects across diverse immune recognition settings. The approach enables more generalizable modelling of antibody, antigen and T cell receptor interactions.",
+    "published_at": "2026-05-27T00:00:00+00:00",
+    "age_days": 2
+  },
+  {
+    "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "title": "Reachy Mini goes fully local",
+    "source": "Hugging Face",
+    "weight": 0.95,
+    "summary": "",
+    "published_at": "2026-05-27T00:00:00+00:00",
+    "age_days": 2
+  },
+  {
+    "url": "https://huggingface.co/blog/delta-weight-sync",
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "source": "Hugging Face",
+    "weight": 0.95,
+    "summary": "",
+    "published_at": "2026-05-27T00:00:00+00:00",
+    "age_days": 2
+  },
+  {
+    "url": "https://stratechery.com/2026/nvidia-earnings-the-ai-stack-nvidias-new-reporting/",
+    "title": "Nvidia Earnings, The AI Stack, Nvidia’s New Reporting",
+    "source": "Stratechery",
+    "weight": 1.0,
+    "summary": "Nvidia is changing its reporting to delineate between hyperscaler sales — where Nvidia is fighting commoditization — and everyone else, where Nvidia runs the whole stack.",
+    "published_at": "2026-05-26T10:00:00+00:00",
+    "age_days": 3
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+    "title": "The Download: puncturing the AI jobs panic",
+    "source": "MIT Tech Review",
+    "weight": 0.95,
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that the technology has had a large-scale impact on&#8230;",
+    "published_at": "2026-05-26T12:10:00+00:00",
+    "age_days": 3
+  },
+  {
+    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "source": "OpenAI",
+    "weight": 1.1,
+    "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+    "published_at": "2026-05-25T00:00:00+00:00",
+    "age_days": 4
+  },
+  {
+    "url": "https://www.nature.com/articles/s42256-026-01234-8",
+    "title": "A large-scale unified deep learning model for peptide mass spectrum interpretation trained on multimodal data",
+    "source": "Nature Machine Intelligence",
+    "weight": 1.0,
+    "summary": "Nature Machine Intelligence, Published online: 25 May 2026; doi:10.1038/s42256-026-01234-8 pUniFind is a large-scale deep learning model for proteomics that unifies peptide–spectrum scoring and open de novo sequencing. Trained on over 100 million spectra, it substantially improves peptide identification and modification discovery.",
+    "published_at": "2026-05-25T00:00:00+00:00",
+    "age_days": 4
+  },
+  {
+    "url": "https://huggingface.co/blog/agent-glossary",
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "source": "Hugging Face",
+    "weight": 0.95,
+    "summary": "",
+    "published_at": "2026-05-25T00:00:00+00:00",
+    "age_days": 4
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+    "title": "[AINews] All Model Labs are now Agent Labs",
+    "source": "Latent Space",
+    "weight": 1.1,
+    "summary": "a quiet day lets us tie together a few quotes as all model labs become agent labs",
+    "published_at": "2026-05-23T04:21:17+00:00",
+    "age_days": 6
+  },
+  {
+    "url": "https://thezvi.substack.com/p/gemini-35-flash-looks-good-for-how",
+    "title": "Gemini 3.5 Flash Looks Good For How Fast It Is",
+    "source": "Zvi Mowshowitz",
+    "weight": 1.1,
+    "summary": "Google once again has a model worth at least some consideration.",
+    "published_at": "2026-05-22T17:24:43+00:00",
+    "age_days": 6
+  },
+  {
+    "url": "https://stratechery.com/2026/the-data-center-veto/",
+    "title": "2026.21: The Data Center Veto",
+    "source": "Stratechery",
+    "weight": 1.0,
+    "summary": "The best Stratechery content from the week of May 18, 2026, including data center discontent, agent economics, and slime mold.",
+    "published_at": "2026-05-22T17:12:32+00:00",
+    "age_days": 6
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "source": "Hugging Face",
+    "weight": 0.95,
+    "summary": "",
+    "published_at": "2026-05-23T00:02:03+00:00",
+    "age_days": 6
+  },
+  {
+    "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+    "source": "Hugging Face",
+    "weight": 0.95,
+    "summary": "",
+    "published_at": "2026-05-22T15:25:59+00:00",
+    "age_days": 6
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
+    "title": "[AINews] New AI Infra unicorns: Exa, Modal, TurboPuffer",
+    "source": "Latent Space",
+    "weight": 1.1,
+    "summary": "a quiet day lets us feature fundraises!",
+    "published_at": "2026-05-22T05:50:58+00:00",
+    "age_days": 7
+  },
+  {
+    "url": "https://www.latent.space/p/daytona",
+    "title": "Giving Agents Computers — Ivan Burazin, Daytona",
+    "source": "Latent Space",
+    "weight": 1.1,
+    "summary": "We chat with Daytona's CEO about their insane 74% MoM Growth, 850K Daily Runs, Bare Metal Sandboxes, RL Evals, and the New Agent Cloud",
+    "published_at": "2026-05-21T20:37:40+00:00",
+    "age_days": 7
+  },
+  {
+    "url": "https://thezvi.substack.com/p/ai-169-new-knowledge",
+    "title": "AI #169: New Knowledge",
+    "source": "Zvi Mowshowitz",
+    "weight": 1.1,
+    "summary": "Even in a relatively quiet period, AI is out there creating new knowledge.",
+    "published_at": "2026-05-21T13:17:41+00:00",
+    "age_days": 7
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-antigravity-20-takes-ide",
+    "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
+    "source": "Pragmatic Engineer",
+    "weight": 1.0,
+    "summary": "Negative feedback greets Google&#8217;s redesigned AI IDE, why Google&#8217;s product ecosystem is so chaotic, Meta cuts 10% of staff as it hits record revenue and profits, and more",
+    "published_at": "2026-05-21T17:01:39+00:00",
+    "age_days": 7
+  },
+  {
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "source": "OpenAI",
+    "weight": 1.1,
+    "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+    "published_at": "2026-05-22T00:00:00+00:00",
+    "age_days": 7
+  },
+  {
+    "url": "https://openai.com/index/virgin-atlantic",
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "source": "OpenAI",
+    "weight": 1.1,
+    "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+    "published_at": "2026-05-22T00:00:00+00:00",
+    "age_days": 7
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+    "title": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
+    "source": "NVIDIA",
+    "weight": 0.9,
+    "summary": "At NVIDIA GTC Taipei at COMPUTEX, the world’s developers, researchers and industry leaders are converging to dive into the latest breakthroughs shaping every industry, covering topics spanning AI factories and scaling infrastructure to agentic and physical AI and more.",
+    "published_at": "2026-05-21T16:00:17+00:00",
+    "age_days": 7
+  }
+]

@@ -1,0 +1,3 @@
+*_stderr.txt
+*.pyc
+__pycache__/
