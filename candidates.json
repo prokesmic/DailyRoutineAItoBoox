@@ -1,0 +1,562 @@
+[
+  {
+    "url": "https://read.youreverydayai.com/p/ep-786-2026-llm-cheat-code-10-essential-steps-to-get-the-most-out-of-any-ai-chatbot-start-here-serie",
+    "title": "Ep 787: Claude Opus 4.8, New Copilot Studio Agents, ChatGPT Agent Updates and 7 Other AI Features You Can Use Today",
+    "source": "Everyday AI",
+    "weight": 1.1,
+    "summary": "",
+    "published": "2026-05-29T16:21:42+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/05/29/claude-opus-4-8-the-system-card",
+    "title": "Claude Opus 4.8: The System Card",
+    "source": "Zvi Mowshowitz",
+    "weight": 1.3,
+    "summary": "",
+    "published": "2026-05-29T20:50:28+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem",
+    "title": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
+    "source": "NVIDIA Blog",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-01T05:00:56+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain",
+    "title": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
+    "source": "NVIDIA Blog",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-01T05:00:47+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure",
+    "title": "Taiwan’s Industry Titans Turbocharge World’s AI Infrastructure Buildout With NVIDIA",
+    "source": "NVIDIA Blog",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-01T05:00:41+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model",
+    "title": "How Cosmos 3 Helps Physical AI Think Before It Acts",
+    "source": "NVIDIA Blog",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-01T04:45:07+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents",
+    "title": "NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark",
+    "source": "NVIDIA Blog",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-01T04:30:11+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+    "source": "Hugging Face",
+    "weight": 1.1,
+    "summary": "",
+    "published": "2026-06-01T04:44:55+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-founders-and-forward-deployed",
+    "title": "[AINews] Founders and Forward Deployed Engineers",
+    "source": "Latent Space",
+    "weight": 1.3,
+    "summary": "",
+    "published": "2026-05-30T01:57:15+00:00"
+  },
+  {
+    "url": "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
+    "title": "Open and closed models are on different exponentials",
+    "source": "Interconnects",
+    "weight": 1.3,
+    "summary": "",
+    "published": "2026-06-01T13:03:48+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
+    "title": "May 2026 newsletter",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "",
+    "published": "2026-06-01T04:45:00+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
+    "title": "datasette 1.0a32",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "",
+    "published": "2026-05-31T23:23:38+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
+    "title": "The solution might be cancelling my AI subscription",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "",
+    "published": "2026-05-31T16:31:32+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything",
+    "title": "Quoting Karen Kwok for Reuters Breakingviews",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "",
+    "published": "2026-05-31T01:48:12+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+    "title": "How we contain Claude across products",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "",
+    "published": "2026-05-30T21:36:24+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
+    "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "",
+    "published": "2026-05-30T21:02:16+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
+    "title": "I Am Retiring from Tech to Live Offline",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "",
+    "published": "2026-05-30T19:39:08+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
+    "title": "Quoting Daniel Jalkut",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "",
+    "published": "2026-05-30T17:29:55+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/openai-starts-with-infrastructure-robots-but-aims-for-everyone-having-a-personal-robot-doing-anything-they-need",
+    "title": "OpenAI starts with infrastructure robots but aims for \"everyone having a personal robot doing anything they need\"",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-06-01T08:47:33+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/ask-ai-what-goes-with-chicken-and-the-answer-depends-on-whether-it-learned-from-recipes-or-molecules",
+    "title": "Ask AI what goes with chicken and the answer depends on whether it learned from recipes or molecules",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-31T11:37:20+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-bans-ai-tools-during-job-interviews-to-see-how-candidates-actually-think",
+    "title": "Anthropic bans AI tools during job interviews to see how candidates actually think",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-31T10:10:14+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-study-finds-men-use-ai-coding-agents-more-than-twice-as-often-as-women-in-social-science-research",
+    "title": "Anthropic study finds men use AI coding agents more than twice as often as women in social science research",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-31T09:42:11+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/softbank-plans-75-billion-euro-ai-data-center-buildout-in-france",
+    "title": "SoftBank plans 75 billion euro AI data center buildout in France",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-31T08:45:46+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/ai-search-agents-often-confirm-what-they-already-know-instead-of-actually-researching-the-web",
+    "title": "AI search agents often confirm what they already know instead of actually researching the web",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-31T07:48:41+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/microsoft-and-nvidia-reportedly-team-up-on-ai-pcs-that-run-actual-agents-instead-of-copilot",
+    "title": "Microsoft and Nvidia reportedly team up on AI PCs that run actual agents instead of Copilot",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-30T16:18:56+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/making-ai-chatbots-helpful-weakens-their-ability-to-simulate-human-behavior-large-scale-study-finds",
+    "title": "Making AI chatbots helpful weakens their ability to simulate human behavior, large-scale study finds",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-30T12:44:12+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/terence-tao-argues-ai-could-bring-division-of-labor-to-math-for-the-first-time-in-history",
+    "title": "Terence Tao argues AI could bring division of labor to math for the first time in history",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-30T12:04:25+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/attackers-abuse-shared-chatgpt-and-claude-chats-to-spread-malware",
+    "title": "Attackers abuse shared ChatGPT and Claude chats to spread malware",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-30T10:32:22+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/youtubers-win-the-box-office-goodbye-gatekeepers-the-youtube-bar",
+    "title": "YouTubers Win the Box Office, Goodbye Gatekeepers, The YouTube Bar",
+    "source": "Stratechery",
+    "weight": 1.4,
+    "summary": "",
+    "published": "2026-06-01T10:00:00+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/luceing-their-mind",
+    "title": "2026.22: Luceing Their Mind",
+    "source": "Stratechery",
+    "weight": 1.4,
+    "summary": "",
+    "published": "2026-05-29T17:00:00+00:00"
+  },
+  {
+    "url": "https://www.lennysnewsletter.com/p/building-an-iphone-app-with-zero",
+    "title": "Building an iPhone app with zero technical skills | Bryce Rattner Keithley",
+    "source": "Lenny's Newsletter",
+    "weight": 1.1,
+    "summary": "",
+    "published": "2026-06-01T12:04:51+00:00"
+  },
+  {
+    "url": "https://www.lennysnewsletter.com/p/a-rational-conversation-on-where",
+    "title": "A rational conversation on where AI is actually going | Benedict Evans",
+    "source": "Lenny's Newsletter",
+    "weight": 1.1,
+    "summary": "",
+    "published": "2026-05-31T12:31:43+00:00"
+  },
+  {
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
+    "title": "🧠 Community Wisdom: Catching people using AI during an interview, org design when everything lives in one person’s head, when to rename your product, from nurse to health-tech PM, and more",
+    "source": "Lenny's Newsletter",
+    "weight": 1.1,
+    "summary": "",
+    "published": "2026-05-30T16:43:36+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/europe-demands-family-dynasties.html",
+    "title": "Europe Demands Family Dynasties",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-01T11:17:12+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/uk-facts-of-the-day.html",
+    "title": "UK facts of the day",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-01T06:30:45+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-political-right-continues-to-gain-ground-in-latin-america.html",
+    "title": "The political right continues to gain ground in Latin America",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-01T04:43:20+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/05/the-returns-to-good-data-are-rising.html",
+    "title": "The returns to good data are rising",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-31T18:55:46+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-new-american-exceptionalism.html",
+    "title": "A new American exceptionalism?",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-31T15:51:11+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/05/sunday-assorted-links-569.html",
+    "title": "Sunday assorted links",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-31T07:29:19+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/05/lifestyle-and-living-standards-arbitrage.html",
+    "title": "Lifestyle and living standards arbitrage",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-31T05:13:38+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/05/saturday-assorted-links-563.html",
+    "title": "Saturday assorted links",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-30T16:21:20+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/05/80000-hours-the-book.html",
+    "title": "80,000 Hours: The Book",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-30T11:16:52+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/05/how-to-improve-british-procurement.html",
+    "title": "How to improve British procurement",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-30T07:33:59+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/05/supply-is-elastic-installment-1637.html",
+    "title": "Supply is elastic, installment #1637",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-30T05:18:59+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/05/friday-assorted-links-574.html",
+    "title": "Friday assorted links",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-29T18:08:16+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/05/what-i-have-been-learning-doing-new-aesthetics.html",
+    "title": "What I have been learning doing New Aesthetics",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-29T15:45:41+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy",
+    "title": "Erin Brockovich takes aim at data center secrecy",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-31T21:05:14+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis",
+    "title": "Making sense of the debate over AI psychosis",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-31T15:30:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers",
+    "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-30T21:45:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs",
+    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-30T16:30:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant",
+    "title": "Meta is reportedly developing an AI pendant",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-30T15:59:58+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful",
+    "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-30T15:30:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026",
+    "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-30T13:00:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them",
+    "title": "Coders are refusing to work without AI — and that could come back to bite them",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-29T22:14:22+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms",
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-29T18:49:19+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled",
+    "title": "What happens when companies become too AI-pilled?",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-29T17:57:05+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m",
+    "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-29T17:27:13+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans",
+    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-29T16:13:47+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026",
+    "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-29T14:15:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket",
+    "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-29T14:00:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do",
+    "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "",
+    "published": "2026-05-29T14:00:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans",
+    "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+    "source": "HN (250 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-31T17:02:23+00:00"
+  },
+  {
+    "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+    "title": "The Speed of Prototyping in the Age of AI",
+    "source": "HN (176 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-31T16:37:34+00:00"
+  },
+  {
+    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+    "title": "Odysseus – self-hosted AI workspace",
+    "source": "HN (189 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-31T15:50:34+00:00"
+  },
+  {
+    "url": "https://thoughts.hmmz.org/2026-05-31.html",
+    "title": "The solution might be cancelling my AI subscription",
+    "source": "HN (364 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-31T14:23:30+00:00"
+  },
+  {
+    "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+    "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+    "source": "HN (254 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-31T20:35:38+00:00"
+  },
+  {
+    "url": "https://github.com/viggy28/streambed",
+    "title": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
+    "source": "HN (107 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-31T18:43:05+00:00"
+  },
+  {
+    "url": "https://blog.tymscar.com/posts/v100localllm",
+    "title": "I put a datacenter GPU in my gaming PC",
+    "source": "HN (310 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-31T13:53:16+00:00"
+  },
+  {
+    "url": "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355",
+    "title": "'Backrooms' Stuns with $81M Debut",
+    "source": "HN (205 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-31T19:27:44+00:00"
+  },
+  {
+    "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30",
+    "title": "Creatine raises brain energy levels and slows cognitive decline: study",
+    "source": "HN (520 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-05-31T16:19:34+00:00"
+  }
+]
