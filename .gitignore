@@ -4,3 +4,4 @@ candidates.json
 selected.json
 out/
 .venv/
+fetch_errors.txt
