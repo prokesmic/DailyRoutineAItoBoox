@@ -1,0 +1,738 @@
+[
+  {
+    "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "title": "Co-Existence and the End of Co-Intelligence",
+    "source": "Ethan Mollick",
+    "weight": 1.4,
+    "summary": "Also: how pitch a book to an AI!",
+    "published": "2026-06-04T21:13:42+00:00"
+  },
+  {
+    "url": "https://read.youreverydayai.com/p/ep-787-claude-opus-4-8-new-copilot-studio-agents-chatgpt-agent-updates-and-7-other-ai-features-you-c-0d4d",
+    "title": "Ep 792: Autonomous Copilot agents, new Codex tools, Github CoPilot app and 7 more AI updates you should be using",
+    "source": "Everyday AI",
+    "weight": 1.1,
+    "summary": "White House and OpenAI talk deal, Anthropic calls for a slowdown in frontier AI development, and OpenAI is rolling out a smarter long-term memory system for ChatGPT and more.",
+    "published": "2026-06-05T18:38:46+00:00"
+  },
+  {
+    "url": "https://read.youreverydayai.com/p/ep-791-microsoft-build-recap-4-new-ai-features-that-stood-out",
+    "title": "Ep 791: Microsoft Build Recap: 4 New AI Features That Stood Out",
+    "source": "Everyday AI",
+    "weight": 1.1,
+    "summary": "Google drops impressive new Gemma 4, Meta hits new AI snags, AI CEOs push Congress on DNA concerns and more",
+    "published": "2026-06-04T15:08:07+00:00"
+  },
+  {
+    "url": "https://read.youreverydayai.com/p/ep-790-how-to-make-slides-with-ai-hands-on-comparison-with-the-9-most-popular-options",
+    "title": "Ep 790: How To Make Slides with AI: Hands on Comparison With the 9 Most Popular Options",
+    "source": "Everyday AI",
+    "weight": 1.1,
+    "summary": "Microsoft unveiled a new AI-focused operating system for hardware, Meta selling business AI agents and Google tests AI search opt-out for publishers and more.",
+    "published": "2026-06-03T16:19:04+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/06/05/openai-offers-a-new-policy-blueprint",
+    "title": "OpenAI Offers A New Policy Blueprint",
+    "source": "Zvi Mowshowitz",
+    "weight": 1.3,
+    "summary": "Right after a new Executive Order seems like an excellent time to offer OpenAI’s new document: Democratic Governance of Frontier AI: A Blueprint For A Federal Framework. OpenAI: We also see early signs of recursive self-improvement (RSI) in today’s systems: &#8230; Continue reading &#8594;",
+    "published": "2026-06-05T11:36:46+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/06/04/ai-171-false-flag",
+    "title": "AI #171: False Flag",
+    "source": "Zvi Mowshowitz",
+    "weight": 1.3,
+    "summary": "This was the week of Claude Opus 4.8. I covered the model card, then model welfare concerns, and finally capabilities and reactions. It’s a good model, sir, an incremental but real improvement over Opus 4.7, and it is now my &#8230; Continue reading &#8594;",
+    "published": "2026-06-04T15:49:22+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/06/03/trump-signs-executive-order-for-ai-testing-prior-to-frontier-model-releases",
+    "title": "Trump Signs Executive Order For AI Testing Prior To Frontier Model Releases",
+    "source": "Zvi Mowshowitz",
+    "weight": 1.3,
+    "summary": "Last week we were expecting an Executive Order on Thursday. Then Trump cancelled it, and said he wouldn’t sign it because he was worried it would be too burdensome. Then, with one change, he went ahead and signed it on &#8230; Continue reading &#8594;",
+    "published": "2026-06-03T16:29:30+00:00"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/kubernetes-and-retiring-at-the-top",
+    "title": "Kubernetes and retiring at the top with Kelsey Hightower",
+    "source": "Pragmatic Engineer",
+    "weight": 1.3,
+    "summary": "Kelsey Hightower reflects on his journey from self-taught technician to Google Distinguished Engineer, sharing lessons on open source, Kubernetes, AI, and building technology that serves people.",
+    "published": "2026-06-03T17:59:17+00:00"
+  },
+  {
+    "url": "https://openai.com/index/endava-frontiers",
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "source": "OpenAI",
+    "weight": 1.4,
+    "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "published": "2026-06-04T12:00:00+00:00"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-memory-dreaming",
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "source": "OpenAI",
+    "weight": 1.4,
+    "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+    "published": "2026-06-04T09:00:00+00:00"
+  },
+  {
+    "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "title": "Biodefense in the Intelligence Age",
+    "source": "OpenAI",
+    "weight": 1.4,
+    "summary": "An action plan for AI-powered biological resilience",
+    "published": "2026-06-04T00:00:00+00:00"
+  },
+  {
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "source": "OpenAI",
+    "weight": 1.4,
+    "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+    "published": "2026-06-03T13:15:00+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026",
+    "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
+    "source": "NVIDIA Blog",
+    "weight": 1.0,
+    "summary": "Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Stay tuned here for live [&#8230;]",
+    "published": "2026-06-05T05:38:37+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list",
+    "title": "Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW",
+    "source": "NVIDIA Blog",
+    "weight": 1.0,
+    "summary": "June’s forecast with GeForce NOW: 100% chance of gaming. GeForce NOW is lining up new adventures for the month, from big-name blockbusters to quirky indies ready for the spotlight. Members can dive into fresh worlds, squad up in new playlists and discover “just one more run” favorites — all streaming from the cloud, no downloads [&#8230;]",
+    "published": "2026-06-04T13:00:27+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training",
+    "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
+    "source": "NVIDIA Blog",
+    "weight": 1.0,
+    "summary": "What makes a robot gripper useful isn’t that it can pick up one object — it’s that it can pick up the next one, and the one after that, with a tool it’s never held before. What makes an autonomous vehicle system safe isn’t just that it can reason through a situation — it’s that [&#8230;]",
+    "published": "2026-06-03T15:00:57+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills",
+    "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
+    "source": "NVIDIA Blog",
+    "weight": 1.0,
+    "summary": "At CVPR, NVIDIA is unveiling new physical AI agent skills that help researchers and developers speed the development of autonomous vehicles, robots and vision AI systems. The core challenge in physical AI research isn’t simply developing stronger models. It’s building a full workflow around them — reconstructing real-world scenes, generating edge-case scenarios, training policies, evaluating [&#8230;]",
+    "published": "2026-06-03T15:00:35+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
+    "title": "Persona Atlas: Mapping How Famous Minds Think",
+    "source": "Hugging Face",
+    "weight": 1.1,
+    "summary": "",
+    "published": "2026-06-06T11:42:01+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "source": "Hugging Face",
+    "weight": 1.1,
+    "summary": "",
+    "published": "2026-06-04T18:57:45+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+    "source": "Hugging Face",
+    "weight": 1.1,
+    "summary": "",
+    "published": "2026-06-04T12:24:58+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/hf-cli-for-agents",
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "source": "Hugging Face",
+    "weight": 1.1,
+    "summary": "",
+    "published": "2026-06-04T00:00:00+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
+    "title": "[AINews] not much happened today",
+    "source": "Latent Space",
+    "weight": 1.3,
+    "summary": "a quiet day of RSI.",
+    "published": "2026-06-06T04:34:47+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/bad-envs",
+    "title": "How to Stop Shipping Low-Quality RL Environments (with Examples)",
+    "source": "Latent Space",
+    "weight": 1.3,
+    "summary": "Your broken harness is actively making the model worse. Here's what I keep seeing after years of eyeballing trajectories, and what you need to fix.",
+    "published": "2026-06-05T18:49:40+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
+    "title": "[AINews] not much happened today",
+    "source": "Latent Space",
+    "weight": 1.3,
+    "summary": "a quiet day",
+    "published": "2026-06-05T06:44:49+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/andon",
+    "title": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs",
+    "source": "Latent Space",
+    "weight": 1.3,
+    "summary": "We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch.",
+    "published": "2026-06-04T20:39:18+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-reve-2-and-ideogram-4-layouts",
+    "title": "[AINews] Reve 2 and Ideogram 4: Layouts in Imagegen",
+    "source": "Latent Space",
+    "weight": 1.3,
+    "summary": "a quiet day.",
+    "published": "2026-06-04T03:24:07+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/axiom",
+    "title": "🔬Scaling Past Informal AI - Carina Hong, Axiom Math",
+    "source": "Latent Space",
+    "weight": 1.3,
+    "summary": "Verified Generation and Compounding Intelligence",
+    "published": "2026-06-03T19:27:49+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/satya-2026",
+    "title": "⚡️Satya Nadella: No Priors x Latent Space Crossover Special at Microsoft Build",
+    "source": "Latent Space",
+    "weight": 1.3,
+    "summary": "The legendary Microsoft CEO makes his first Latent Space appearance!",
+    "published": "2026-06-03T17:13:57+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
+    "title": "micropython-wasm 0.1a2",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "Release: micropython-wasm 0.1a2 I added a CLI to micropython-wasm (issue #7), inspired by the first draft of the blog entry when I realized it would be a great way to illustrate the Try it yourself section. Tags: python, sandboxing, webassembly, micropython",
+    "published": "2026-06-06T04:26:06+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+    "title": "Running Python code in a sandbox with MicroPython and WASM",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been looking for. I've released it as an alpha package called micropython-wasm, and I'm using it for a code execution sandbox plugin for Datasette Agent called datasette-agent-micropython. Why do I want a sandbox? What I want from a sandbox WebAssembly looks really promising here MicroPython in WebAssembly Building the first version Try it yourself Should you trust my vibe-coded sandbox? Why do I want a sand",
+    "published": "2026-06-06T03:53:34+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
+    "title": "OpenAI Help: Lockdown Mode",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "OpenAI Help: Lockdown Mode OpenAI first teased this in February, but now it's live and \"rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business accounts\": Lockdown Mode is designed to help prevent the final stage of data exfiltration from a prompt injection attack by limiting outbound network requests that could transfer sensitive data to an attacker. Lockdown Mode does not prevent prompt injections from appearing in the content ChatGPT processes. For example, a prompt injection could appear in cached web content or in an uploaded file, and",
+    "published": "2026-06-05T23:56:40+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
+    "title": "Quoting Andreas Kling",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "We will no longer accept public pull requests. [...] A substantial patch used to imply substantial effort, and that effort was a reasonable proxy for good faith. That assumption no longer holds. [...] Whether code was typed by hand is beside the point. What matters is who is responsible for it once it enters the browser. Ladybird is becoming a browser for real users. The people introducing changes to it must be the people who decide those changes belong in the project, and who will answer for the consequences. &mdash; Andreas Kling, Changing How We Develop Ladybird Tags: ladybird, ai-ethics, o",
+    "published": "2026-06-05T11:10:05+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything",
+    "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy Charity Majors neatly captures the dynamic between AI enthusiasts and AI skeptics, both of whom are trying to build great software, often in the same teams: The enthusiasts are not wrong. We are starting to see real, non-imaginary, discontinuous leaps in capabilities from teams that lean in hard to working with AI. And this does not feel like a normal technology cycle where you can wait for the dust to settle; teams that sit this out while competitors are hustling could be out of business before the dust settl",
+    "published": "2026-06-04T23:55:27+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
+    "title": "Quoting Emanuel Maiberg, 404 Media",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "After this story was published Google's spokesperson reached out and asked us to publish a slightly different version of that statement. The new statement no longer stated that \"it's critical that we maintain humans in the loop.\" &mdash; Emanuel Maiberg, 404 Media, Google Employees Internally Share Memes About How Its AI Sucks Tags: ai-ethics, journalism, ai, google",
+    "published": "2026-06-04T16:38:29+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/metas-hatch-ai-agent-could-cost-up-to-200-a-month-and-marks-its-first-paid-ai-product",
+    "title": "Meta's Hatch AI agent could cost up to $200 a month and marks its first paid AI product",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Meta is developing a paid AI agent product called \"Hatch\" that could cost up to $200 per month. Users describe what they need in simple language, and Hatch builds working tools, schedules appointments, or sends emails. CEO Mark Zuckerberg sees the product as a way to open up new revenue streams beyond advertising and refinance the company's massive AI investments. The article Meta&#039;s Hatch AI agent could cost up to $200 a month and marks its first paid AI product appeared first on The Decoder.",
+    "published": "2026-06-06T11:42:08+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/elon-musks-xai-reportedly-trained-its-coding-models-on-claude-outputs-for-months-before-getting-cut-off",
+    "title": "Elon Musk's xAI reportedly trained its coding models on Claude outputs for months before getting cut off",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Elon Musk's xAI used Anthropic's Claude to train its own coding models for months and kept going even after Anthropic cut off access, using private accounts and the Blackbox AI service. Meanwhile, xAI's pretraining team shrank to fewer than five people, and several leads walked out. The compute Musk bought up is now being rented to Anthropic and Google instead of powering his own models. The article Elon Musk&#039;s xAI reportedly trained its coding models on Claude outputs for months before getting cut off appeared first on The Decoder.",
+    "published": "2026-06-06T11:22:28+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/new-open-source-voice-model-listens-nonstop-and-decides-every-0-4-seconds-whether-to-speak-or-stay-silent",
+    "title": "New open-source voice model listens nonstop and decides every 0.4 seconds whether to speak or stay silent",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Unlike GPT-4o or Qwen3.5-Omni, Audio Interaction doesn't wait for a recording to end: it translates, transcribes, chats, and picks up everyday noises like coughing in a single stream. Code, model weights, and download instructions are available on GitHub under the Apache 2.0 open-source license, with the training data to follow. The article New open-source voice model listens nonstop and decides every 0.4 seconds whether to speak or stay silent appeared first on The Decoder.",
+    "published": "2026-06-06T10:50:21+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/spacex-signs-920-million-per-month-deal-with-google-for-110000-nvidia-ai-chips-ahead-of-ipo",
+    "title": "SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI chips ahead of IPO",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "SpaceX is leasing AI computing capacity to Google for $920 million per month, according to an SEC filing. The deal gives Google access to about 110,000 Nvidia chips to meet demand for its Gemini Enterprise platform. That one of the world's largest cloud providers needs to rent capacity externally shows how scarce AI infrastructure has become, and how tightly big tech companies' businesses are now intertwined. The article SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI chips ahead of IPO appeared first on The Decoder.",
+    "published": "2026-06-06T07:57:41+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/openai-and-the-trump-administration-are-negotiating-a-government-stake-in-the-ai-startup",
+    "title": "OpenAI and the Trump administration are negotiating a government stake in the AI startup",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "OpenAI and the Trump administration are negotiating a direct government stake in the AI startup. The idea is a \"Public Wealth Fund\" that would pay out directly to American citizens. Senator Bernie Sanders wants to push through a 50 percent tax on AI shares by law. Critics fear the arrangement could create a \"too big to fail\" dynamic similar to the 2008 financial crisis. The article OpenAI and the Trump administration are negotiating a government stake in the AI startup appeared first on The Decoder.",
+    "published": "2026-06-06T07:30:43+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/qwen3-7-plus-is-alibabas-bid-to-turn-multimodal-ai-into-a-full-blown-autonomous-agent",
+    "title": "Qwen3.7-Plus is Alibaba's bid to turn multimodal AI into a full-blown autonomous agent",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Alibaba's Qwen team has released Qwen3.7-Plus, a multimodal agent model that combines visual perception, GUI operation, and coding in a single agent loop. In a demo, an agent built on the model autonomously developed a vocabulary learning app, producing over 10,000 lines of code across 1,000 agent calls over eleven hours. The model leads on-screen understanding in Qwen's own benchmarks, but overall performance is mixed. Qwen3.7-Plus is a proprietary offering with no open weights, priced well below Western frontier models. The article Qwen3.7-Plus is Alibaba&#039;s bid to turn multimodal AI int",
+    "published": "2026-06-06T06:54:29+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/floridas-lawsuit-against-openai-and-ceo-altman-treats-chatgpt-as-a-defective-product-and-public-nuisance",
+    "title": "Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Florida is the first US state to sue OpenAI and CEO Sam Altman personally over risks to minors, missing age checks, and inadequate safety investment. The 83-page complaint treats ChatGPT as a product subject to liability and threatens billions in penalties. The legal approach could set a precedent for the entire chatbot industry. The article Florida&#039;s lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance appeared first on The Decoder.",
+    "published": "2026-06-05T18:19:31+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/satya-nadella-publicly-torches-a-vps-plan-to-make-microsofts-ai-agent-deliberately-addictive",
+    "title": "Satya Nadella publicly torches a VP's plan to make Microsoft's AI agent deliberately addictive",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Microsoft CEO Satya Nadella has sharply criticized an internal memo proposing to make users \"addicted\" to the company's new AI agent Scout. \"Not sure who is writing and leaking this nonsense,\" Nadella wrote to about 50 top engineers. AI should empower people, and Scout should actually lead to less screen time. The article Satya Nadella publicly torches a VP&#039;s plan to make Microsoft&#039;s AI agent deliberately addictive appeared first on The Decoder.",
+    "published": "2026-06-05T15:33:56+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/microsoft-trained-its-mai-models-on-unlicensed-web-data-despite-promising-enterprise-grade-clean-and-commercially-licensed-data",
+    "title": "Microsoft trained its MAI models on unlicensed web data despite promising \"enterprise grade, clean and commercially licensed data\"",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Microsoft sells its LLM training approach as different from other AI companies. It isn't. The company trained its new MAI models partly on unlicensed web data like Common Crawl, despite claiming they used only \"clean and commercially licensed data.\" Like every other AI lab, Microsoft leans on fair use and puts the burden on site owners to block its crawlers. The article Microsoft trained its MAI models on unlicensed web data despite promising &quot;enterprise grade, clean and commercially licensed data&quot; appeared first on The Decoder.",
+    "published": "2026-06-05T12:10:26+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-mythos-model-is-reportedly-powering-nsa-offensive-cyber-ops-against-china-and-iran",
+    "title": "Anthropic's Mythos model is reportedly powering NSA offensive cyber ops against China and Iran",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Anthropic has reportedly stationed about half a dozen engineers directly at the NSA to adapt its Mythos AI model for offensive cyber operations. The model could be used to break into networks in China or Iran. That fits Anthropic's broader stance: the company's promises around restricting AI use, for mass surveillance, for example, explicitly apply only to US citizens. The article Anthropic&#039;s Mythos model is reportedly powering NSA offensive cyber ops against China and Iran appeared first on The Decoder.",
+    "published": "2026-06-05T11:15:28+00:00"
+  },
+  {
+    "url": "https://tldr.tech/ai/2026-06-05",
+    "title": "Anthropic Oceanus leaks 🤖, ChatGPT Dreaming 💭, recursive self improvement 🚀",
+    "source": "TLDR AI",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-05T00:00:00+00:00"
+  },
+  {
+    "url": "https://tldr.tech/ai/2026-06-04",
+    "title": "DeepSeek fundraising 💰, Meta model delays ⌛ , Gemma 4 12B 🤖",
+    "source": "TLDR AI",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-04T00:00:00+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/power-shifts",
+    "title": "2026.23: Power Shifts",
+    "source": "Stratechery",
+    "weight": 1.4,
+    "summary": "The best Stratechery content from the week of June 1, 2026, including Google and Microsoft, YouTubers taking over Hollywood, and a guide to the NBA Finals.",
+    "published": "2026-06-05T17:00:00+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/an-interview-with-microsoft-ceo-satya-nadella-about-finding-core-competencies",
+    "title": "An Interview with Microsoft CEO Satya Nadella About Finding Core Competencies",
+    "source": "Stratechery",
+    "weight": 1.4,
+    "summary": "An interview with Microsoft CEO Satya Nadella about figuring out Microsoft's role in AI, the relationship with OpenAI, Capex, Software, and a potential new agentic platform.",
+    "published": "2026-06-04T10:00:00+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/should-you-move-to-argentina-from-my-email.html",
+    "title": "Should you move to Argentina? (from my email)",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "My name is Josh Neuman, and I&#8217;m writing from Buenos Aires, Argentina where Peter Thiel&#8217;s move is all over the news here. He lives in [redacted], only a xx minute drive from my own apartment in Recoleta. I want to pitch a piece&#8230;arguing that Thiel is right to be in Argentina, but wrong about why. [&#8230;] The post Should you move to Argentina? (from my email) appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-06T04:45:01+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/friday-assorted-links-575.html",
+    "title": "Friday assorted links",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "1. Rob Wiblin interviews Rohin Shah, who leads AGI alignment/safety at DeepMind. 2. Books Arnold Kling has reread. 3. Wemby and Star Wars. 4. Even (especially?) for ontologists, supply is elastic. 5. SSRN is getting worse. 6. Major layoffs at The New School. 7. New forthcoming Ethan Mollick AI book. 8. &#8220;Scientists at Columbia University [&#8230;] The post Friday assorted links appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-05T16:32:16+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/tyler-and-alex-speak-to-openai.html",
+    "title": "Tyler and Alex Speak to OpenAI",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "We were honored to speak to OpenAI about the economics of AI. Lots of good material here. Self-recommending. The post Tyler and Alex Speak to OpenAI appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-05T11:15:52+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/western-hemisphere-fact-of-the-day.html",
+    "title": "Western hemisphere fact of the day",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "Overall, the Western Hemisphere now produces more oil than the Middle East did before the crisis. Canada is the world’s fourth-largest oil producer. Brazil produces four times as much oil as Venezuela; and in Guyana, where production began only seven years ago, output almost equals Venezuela’s. In Argentina’s Vaca Muerta region, shale oil production has [&#8230;] The post Western hemisphere fact of the day appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-05T07:28:41+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/rubber-rationing-in-world-war-ii.html",
+    "title": "Rubber rationing in World War II",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "When during the meetings the Americans offered that at most they could convert 15 percent of U.S. auto plants to military production, Beaverbrook replies that 100 percent of British automobile factories had been converted, and encouraged Roosevelt to aim higher. He did, and on January 1 he ordered U.S. auto production halted by late Februrary. [&#8230;] The post Rubber rationing in World War II appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-05T04:41:55+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/my-twenty-minute-ai-talk-for-the-swedish-company-sana.html",
+    "title": "My twenty-minute AI talk for the Swedish company Sana",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "The post My twenty-minute AI talk for the Swedish company Sana appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-04T17:49:53+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/thursday-assorted-links-555.html",
+    "title": "Thursday assorted links",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "1. Does banking consolidation harm households? 2. Some comments on the new federal framework for AI regulation. 3. This guy is skeptical about doing things in space. 4. Is Chairman Mao underrated, and why did India not get rich too? 5. &#8220;Between 1985&#8211;2023, MIT&#8217;s faculty grew 9%. Administrative staff grew 189%.&#8221; 6. &#8220;What it means [&#8230;] The post Thursday assorted links appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-04T15:39:07+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/ca-logic.html",
+    "title": "CA Logic",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "In California a 17 year-old can drive a car but can&#8217;t ride alone in an Uber or a Waymo. I long for the days when you could put a kid in the post. We have weakened as a civilization. The post CA Logic appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-04T11:17:23+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/should-we-recriminalize-marijuana.html",
+    "title": "Should we recriminalize marijuana?",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "That is the topic of my latest Free Press column. Here is one excerpt: The present and also future of mankind is a world where reasonably high levels of self-discipline are needed to do well. The journalist Daniel Akst pointed this out in his 2011 book Temptation: Finding Self-Control in an Age of Excess, and we [&#8230;] The post Should we recriminalize marijuana? appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-04T07:17:24+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/law-professors-prefer-ai-over-peer-answers.html",
+    "title": "Law professors prefer AI over peer answers",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "Large language models (LLMs) are increasingly promoted as educational tutors, yet most evaluations focus on domains with a single ground truth. Many disciplines, however, hinge on judgment: reasoning, weighing ambiguity, and reaching defensible conclusions. Law provides a sharp test. We conducted a blinded evaluation of short-answer tutoring in contracts courses with sixteen U.S. law professors. [&#8230;] The post Law professors prefer AI over peer answers appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-04T05:01:38+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/wednesday-assorted-links-556.html",
+    "title": "Wednesday assorted links",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "1. One hundred greatest bird names of all time. 2. The method for counting 52,019 puffins. 3. Luggage-tag switching scheme involves flights from Canada to countries where drug smuggling can carry death penalty. Yet a third link from Jodi Ettenberg. 4. Pet Sounds at sixty years. 5. How cowboy culture remade Brazil. 6. Are India&#8217;s gdp [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-03T18:12:41+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/richard-feynmans-formula-for-the-best-holiday-restaurant.html",
+    "title": "Richard Feynman’s formula for the best holiday restaurant",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "According to Feynman’s approach, in this context, people should try a different restaurant each night until they find one that exceeds a particular threshold that reflects a desired quality. In Feynman’s equations this threshold is not fixed. Instead it declines more and more rapidly as the number of days left in the city reduces. In [&#8230;] The post Richard Feynman&#8217;s formula for the best holiday restaurant appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-03T15:59:03+00:00"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos",
+    "title": "The Meta hack shows there’s more to AI security than Mythos",
+    "source": "MIT Tech Review AI",
+    "weight": 1.1,
+    "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran&#8230;",
+    "published": "2026-06-05T09:00:00+00:00"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits",
+    "title": "How courts are coping with a flood of AI-generated lawsuits",
+    "source": "MIT Tech Review AI",
+    "weight": 1.1,
+    "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;",
+    "published": "2026-06-04T10:50:18+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days",
+    "title": "Startup Battlefield 200 applications officially close in 3 days",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+    "published": "2026-06-05T20:00:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute",
+    "title": "Google will pay SpaceX $920M per month for compute",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+    "published": "2026-06-05T18:57:20+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone",
+    "title": "The most interesting startups right now want to get you off your phone",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel&#160;like&#160;backlash, [&#8230;]",
+    "published": "2026-06-05T17:17:06+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs",
+    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+    "published": "2026-06-05T14:49:12+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026",
+    "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel&#160;like&#160;backlash, [&#8230;]",
+    "published": "2026-06-05T14:00:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india",
+    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+    "published": "2026-06-05T13:03:10+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully",
+    "title": "Mira Murati steps back into the spotlight, carefully",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+    "published": "2026-06-05T05:06:37+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns",
+    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+    "published": "2026-06-04T22:43:26+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab",
+    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+    "published": "2026-06-04T22:29:50+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18",
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+    "published": "2026-06-04T21:30:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents",
+    "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Meta may have found one way to slash its massive data center bill: tents.",
+    "published": "2026-06-04T19:33:09+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform",
+    "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
+    "published": "2026-06-04T19:20:58+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook",
+    "title": "Meta rolls out a new AI creator assistant on Facebook",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
+    "published": "2026-06-04T16:32:48+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates",
+    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+    "published": "2026-06-04T16:31:12+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is",
+    "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
+    "published": "2026-06-04T15:05:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission",
+    "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
+    "published": "2026-06-04T14:05:58+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says",
+    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+    "published": "2026-06-03T22:56:51+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal",
+    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+    "published": "2026-06-03T19:38:32+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon",
+    "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+    "published": "2026-06-03T19:07:42+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason",
+    "title": "Amazon will show AI product images when you search for some reason",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+    "published": "2026-06-03T15:50:26+00:00"
+  },
+  {
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+    "source": "HN (87 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-06T09:17:49+00:00"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms",
+    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "source": "HN (707 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-06T04:38:36+00:00"
+  },
+  {
+    "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+    "title": "Hacker News, Sans AI",
+    "source": "HN (173 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-05T20:38:40+00:00"
+  },
+  {
+    "url": "https://openreview.net/pdf",
+    "title": "Transformers are inherently succinct",
+    "source": "HN (124 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-05T18:50:26+00:00"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4",
+    "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+    "source": "HN (363 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-05T16:18:48+00:00"
+  },
+  {
+    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+    "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+    "source": "HN (407 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-05T15:00:31+00:00"
+  },
+  {
+    "url": "https://www.githubstatus.com/incidents/2nmfnbknhlnv",
+    "title": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
+    "source": "HN (122 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-05T19:15:36+00:00"
+  },
+  {
+    "url": "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests",
+    "title": "U.S. Military Turned GPS into a Global \"Numbers Station\"",
+    "source": "HN (106 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-05T16:06:36+00:00"
+  },
+  {
+    "url": "https://github.com/microsoft/pg_durable",
+    "title": "pg_durable: Microsoft open sources in-database durable execution",
+    "source": "HN (418 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-05T15:59:57+00:00"
+  },
+  {
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01",
+    "title": "The back cover of C++: The Language raises questions not answered by front cover",
+    "source": "HN (113 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-06T03:23:47+00:00"
+  },
+  {
+    "url": "https://ldstephens.net/posts/aging-and-eye-problems",
+    "title": "Aging and Eye Problems",
+    "source": "HN (101 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-05T18:30:31+00:00"
+  }
+]
