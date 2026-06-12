@@ -4,3 +4,6 @@ candidates.json
 selected.json
 out/
 .venv/
+.env
+*.log
+com.prokesmic.aidaily.plist
