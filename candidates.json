@@ -1,0 +1,890 @@
+[
+  {
+    "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "title": "What it feels like to work with Mythos",
+    "source": "Ethan Mollick",
+    "weight": 1.4,
+    "summary": "Claude Fable represents another big jump in AI",
+    "published": "2026-06-09T17:11:22+00:00"
+  },
+  {
+    "url": "https://read.youreverydayai.com/p/ep-796-new-claude-fable-5-and-mythos-5-anthropic-s-boldest-riskiest-launch",
+    "title": "Ep 796: New Claude Fable 5 and Mythos 5: Anthropic's Boldest, Riskiest Launch",
+    "source": "Everyday AI",
+    "weight": 1.1,
+    "summary": "Anthropic reverses controversial Claude Fable 5 policy, OpenAI considering major token price cuts, and Bezos' AI startup raises $12 billion and more.",
+    "published": "2026-06-11T16:21:50+00:00"
+  },
+  {
+    "url": "https://read.youreverydayai.com/p/ep-795-codex-sites-the-lovable-and-replit-killer-a-hands-on-guide-to-codex-sites",
+    "title": "Ep 795: Codex Sites: The Lovable and Replit Killer? A hands-on Guide to Codex Sites",
+    "source": "Everyday AI",
+    "weight": 1.1,
+    "summary": "Report: OpenAI's IPO could be year away, Anthropic's Fable 5 sparks privacy backlash, Meta pushes back against Trump's wealth-sharing plan and more.",
+    "published": "2026-06-10T18:20:02+00:00"
+  },
+  {
+    "url": "https://read.youreverydayai.com/p/ep-794-apple-s-new-siri-ai-productivity-gamechanger-or-more-apple-intelligence-marketing-fluff",
+    "title": "Ep 794: Apple’s New Siri AI: Productivity Gamechanger or More Apple Intelligence Marketing Fluff?",
+    "source": "Everyday AI",
+    "weight": 1.1,
+    "summary": "Anthropic drops Fable 5 Mythos family model, OpenAI files for IPO, and China is preparing a massive AI infrastructure funding push and more.",
+    "published": "2026-06-09T18:02:25+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/06/11/ai-172-the-first-fable",
+    "title": "AI #172: The First Fable",
+    "source": "Zvi Mowshowitz",
+    "weight": 1.3,
+    "summary": "A lot happened this week, including a great trip out to Lighthaven. The main event, the one that matters, was the release of Claude Fable 5. The public now has its hands on a Mythos-class model, alongside strong safeguards. As &#8230; Continue reading &#8594;",
+    "published": "2026-06-11T18:50:58+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/06/09/three-labs-with-a-plan-and-a-memorandum",
+    "title": "Three Labs With a Plan and A Memorandum",
+    "source": "Zvi Mowshowitz",
+    "weight": 1.3,
+    "summary": "The big story today is the release of Claude Fable 5, the version of Claude Mythos that Anthropic believes they can safely distribute to the people. You should absolutely be switching over to that model and trying it out. But &#8230; Continue reading &#8594;",
+    "published": "2026-06-09T22:35:20+00:00"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/did-anthropics-new-model-just-boost",
+    "title": "The Pulse: Did Anthropic’s new model just boost rival Codex’s market share?",
+    "source": "Pragmatic Engineer",
+    "weight": 1.3,
+    "summary": "Anthropic&#8217;s new model, Fable, has restrictions many users find unacceptable. Also: a new trend of smart model routing, Coinbase&#8217;s core service has no automatic cross-zone failover, and more.",
+    "published": "2026-06-11T16:26:58+00:00"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-job-market-in-2026-part-2",
+    "title": "State of the software engineering job market in 2026, part 2",
+    "source": "Pragmatic Engineer",
+    "weight": 1.3,
+    "summary": "Deepdive into the tech jobs market with exclusive data revealing AI labs are more attractive than Big Tech, native mobile & frontend roles are declining, management&#8217;s &#8220;great flattening&#8221;, and more",
+    "published": "2026-06-09T16:35:53+00:00"
+  },
+  {
+    "url": "https://openai.com/index/preply",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "source": "OpenAI",
+    "weight": 1.4,
+    "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+    "published": "2026-06-12T00:00:00+00:00"
+  },
+  {
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "source": "OpenAI",
+    "weight": 1.4,
+    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "published": "2026-06-11T00:00:00+00:00"
+  },
+  {
+    "url": "https://openai.com/index/bbva",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "source": "OpenAI",
+    "weight": 1.4,
+    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "published": "2026-06-11T00:00:00+00:00"
+  },
+  {
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "title": "OpenAI to acquire Ona",
+    "source": "OpenAI",
+    "weight": 1.4,
+    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "published": "2026-06-11T00:00:00+00:00"
+  },
+  {
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "source": "OpenAI",
+    "weight": 1.4,
+    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+    "published": "2026-06-11T00:00:00+00:00"
+  },
+  {
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "source": "OpenAI",
+    "weight": 1.4,
+    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "published": "2026-06-10T20:00:00+00:00"
+  },
+  {
+    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "source": "OpenAI",
+    "weight": 1.4,
+    "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+    "published": "2026-06-10T12:00:00+00:00"
+  },
+  {
+    "url": "https://openai.com/index/lseg",
+    "title": "From data to decisions: how LSEG is scaling trusted AI",
+    "source": "OpenAI",
+    "weight": 1.4,
+    "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+    "published": "2026-06-10T00:00:00+00:00"
+  },
+  {
+    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation",
+    "title": "DiffusionGemma: 4x faster text generation",
+    "source": "Google DeepMind",
+    "weight": 1.3,
+    "summary": "",
+    "published": "2026-06-10T16:24:11+00:00"
+  },
+  {
+    "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research",
+    "title": "Investing in multi-agent AI safety research",
+    "source": "Google DeepMind",
+    "weight": 1.3,
+    "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+    "published": "2026-06-10T10:21:19+00:00"
+  },
+  {
+    "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate",
+    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+    "source": "Google DeepMind",
+    "weight": 1.3,
+    "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+    "published": "2026-06-09T15:16:25+00:00"
+  },
+  {
+    "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
+    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "source": "Google DeepMind",
+    "weight": 1.3,
+    "summary": "",
+    "published": "2026-06-09T14:10:19+00:00"
+  },
+  {
+    "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe",
+    "title": "Powering the future of robotics in Europe",
+    "source": "Google DeepMind",
+    "weight": 1.3,
+    "summary": "",
+    "published": "2026-06-09T14:02:33+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026",
+    "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
+    "source": "NVIDIA Blog",
+    "weight": 1.0,
+    "summary": "The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But [&#8230;]",
+    "published": "2026-06-11T13:00:17+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety",
+    "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
+    "source": "NVIDIA Blog",
+    "weight": 1.0,
+    "summary": "A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a reality. The robotaxi industry has moved from prototype milestones to commercial operations, with an expanding ecosystem [&#8230;]",
+    "published": "2026-06-10T19:00:12+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion",
+    "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
+    "source": "NVIDIA Blog",
+    "weight": 1.0,
+    "summary": "Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation. NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the NVIDIA RTX PRO platform and NVIDIA DGX Spark systems, from local PCs to the cloud. Rather than generating text one word at a time, DiffusionGemma generates multiple words in parallel to output whole blocks of text, opening a new, low-latency frontier for the kind of single-user workloads that developers, [&#8230;]",
+    "published": "2026-06-10T16:15:20+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute",
+    "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
+    "source": "NVIDIA Blog",
+    "weight": 1.0,
+    "summary": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging [&#8230;]",
+    "published": "2026-06-09T22:34:27+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "source": "Hugging Face",
+    "weight": 1.1,
+    "summary": "",
+    "published": "2026-06-11T00:00:00+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+    "source": "Hugging Face",
+    "weight": 1.1,
+    "summary": "",
+    "published": "2026-06-09T15:56:23+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
+    "title": "[AINews] Loopcraft: The Art of Stacking Loops",
+    "source": "Latent Space",
+    "weight": 1.3,
+    "summary": "a quiet day lets us highlight a great concept from Peter Steinberger, Boris Cherny, and Andrej Karpathy",
+    "published": "2026-06-12T05:34:09+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+    "title": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
+    "source": "Latent Space",
+    "weight": 1.3,
+    "summary": "a quiet day lets us reflect on a great essay",
+    "published": "2026-06-11T03:14:26+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
+    "title": "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
+    "source": "Latent Space",
+    "weight": 1.3,
+    "summary": "The much anticipated launch of the Mythos-class model was marred by some controversial usage policies",
+    "published": "2026-06-10T03:50:21+00:00"
+  },
+  {
+    "url": "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+    "title": "Claude Fable 5 and new AI safety fables",
+    "source": "Interconnects",
+    "weight": 1.3,
+    "summary": "One step further into the power politics of frontier AI systems.",
+    "published": "2026-06-09T22:59:35+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+    "title": "Claude Fable is relentlessly proactive",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive. It knows a whole lot of tricks and it will deploy pretty much any of them to get to its goal. I'll illustrate this with an example. I was hacking on Datasette Agent today when I noticed a glitch: a horizontal scrollbar that shouldn't be there in the jump menu chat prompt. I snapped this screenshot: Then I started a fresh claude session in my datasette-agent checkout, dragged in the screenshot and told it: Look at dependencies to help figure out why there is a horizontal scrollbar her",
+    "published": "2026-06-11T23:35:17+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
+    "title": "datasette 1.0a33",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "Release: datasette 1.0a33 This alpha is a significant step on the road to a stable 1.0, finally extending the ?_extra= pattern I introduced in Datasette 1.0a3 to cover queries and rows in addition to tables. That pattern is also now documented! I wrote a whole lot more about the new release on the Datasette project blog: Datasette 1.0a33 with JSON extras in the API. Because API explorer tools are almost free to build now I had Claude Fable 5 in Claude Code (for the plan) and GPT-5.5 xhigh in Codex Desktop (for the implementation) build me this custom extras API explorer to help demonstrate the",
+    "published": "2026-06-11T15:26:49+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
+    "title": "asyncinject 0.7",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "Release: asyncinject 0.7 I built this utility library to support an asyncio dependency injection pattern a few years ago. I was using it with Datasette and Claude Fable 5 spotted some bugs in the dependency which it then fixed for me. It's a very proactive model! Tags: async, projects, python, claude-mythos",
+    "published": "2026-06-11T06:28:09+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
+    "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude Big scoop for Maxwell Zeff at Wired: “We’re changing Fable 5’s safeguards for frontier LLM development to make them visible.” Anthropic said in a statement to WIRED. “We made the wrong tradeoff and we apologize for not getting the balance right.” There's been a huge outcry about Anthropic's policy, tucked away in their system card, that Claude Fable/Mythos would identify \"requests targeting frontier LLM development\" and \"limit effectiveness\" without notifying the user. It's good news that they're dropping the i",
+    "published": "2026-06-11T03:45:49+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+    "title": "datasette-agent 0.2a0",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "Release: datasette-agent 0.2a0 Highlights from the release notes: Tools can now ask the user questions mid-execution. Tools that declare a context parameter receive a ToolContext object, and await context.ask_user(...) can ask a yes/no, multiple-choice (options=[...]) or free-text (free_text=True) question. While a question is unanswered the agent turn suspends: the question renders as a form in the chat UI and persists to the internal database, so suspended conversations survive a server restart. Once answered, the tool re-executes from the top with stored answers replayed, so call ask_user()",
+    "published": "2026-06-10T23:57:27+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
+    "title": "DiffusionGemma",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "DiffusionGemma Last May Google briefly released an experimental Gemini Diffusion model. I tried the preview at the time and recorded it running at 857 tokens/second. It was an exciting model, but Google made no further announcements about it. That research has returned in the best possible way: as a new open weight (Apache 2 licensed) Gemma model, google/diffusiongemma-26B-A4B-it. NVIDIA are currently hosting the model for free on their NIM cloud API. I used that API to generate this pelican, which took 4.4s (according to time uv run generate.py) to return 2,409 tokens - so at least 500 tokens",
+    "published": "2026-06-10T20:00:54+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything",
+    "title": "Quoting Jeremy Howard",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "Easy solution to slow down recursive AI self improvement: The lab with the top-ranked model must agree THEY must not use it for working on frontier AI But everyone else should have access to it. By definition, this means the frontier doesn't advance. It also has the critical benefit of avoiding a dangerous power imbalance. Anthropic has chosen the opposite of the safe path: they are allowing themselves, the current top lab, to use their top model for frontier AI research. They've said they'll sabotage others who try. This means the AI frontier advances, &amp; power imbalance increases. (To be ",
+    "published": "2026-06-10T15:23:34+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything",
+    "title": "If Claude Fable stops helping you, you'll never know",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "If Claude Fable stops helping you, you&#x27;ll never know Jonathon Ready highlights one of the more eyebrow-raising details from the 319 page system card for Fable 5 and Mythos 5. Here's a longer excerpt, highlights mine: In light of the ability of recent models to accelerate their own development, we’ve implemented new interventions that limit Claude’s effectiveness for requests targeting frontier LLM development (for example, on building pretraining pipelines, distributed training infrastructure, or ML accelerator design). Using Claude to develop competing models already violates our Terms o",
+    "published": "2026-06-10T00:37:25+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
+    "title": "Initial impressions of Claude Fable 5",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "I didn't have early access to today's Claude Fable 5 release, but I've spent the past ~5.5 hours putting it through its paces. My initial impressions are that this is something of a beast. It's slow, expensive and has been quite happily churning through everything I've thrown at it so far. As is frequently the case with current frontier models the challenge is finding tasks that it can't do. First, let's review the key characteristics. Anthropic claim that Claude Fable 5 offers the same performance as Claude Mythos 5, except with much more strict guardrails in place to prevent it being used fo",
+    "published": "2026-06-09T23:59:54+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/9/llm/#atom-everything",
+    "title": "llm 0.32a3",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "Release: llm 0.32a3 Almost entirely written by the new Claude Fable 5, see my write-up for more details. Tags: projects, ai, generative-ai, llms, llm, claude-mythos",
+    "published": "2026-06-09T22:27:03+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything",
+    "title": "Setting a custom price for a model in AgentsView",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "TIL: Setting a custom price for a model in AgentsView I've been really enjoying AgentsView by Wes McKinney as a tool for exploring my token usage across different coding agents running on my laptop. Claude Fable 5 came out today and wasn't yet included in the pricing database AgentsView uses. I used Fable to reverse-engineer AgentsView and figured out this recipe for setting custom prices. Here's my Claude Fable 5 usage for today so far, plotted by AgentsView as a treemap across my different local projects: Tags: ai, generative-ai, llms, llm-pricing, claude-mythos",
+    "published": "2026-06-09T21:35:31+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything",
+    "title": "Quoting Andrej Karpathy",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "I feel a lot of things changing as working software increasingly comes out on a tap. The Jevon's paradox kicks in and I feel my own demand for software growing substantially. You can ask for anything - explainers, visualizers, dashboards, bespoke single-use apps (e.g. a full wandb that is hyper-specific just for your project), you can 10X your test suite, auto-optimize code, run giant research projects with custom HTML for the results, anything! \"Free your mind\" (Matrix ref). &mdash; Andrej Karpathy, on Claude Fable 5 Tags: andrej-karpathy, jevons-paradox, anthropic, generative-ai, ai, llms, c",
+    "published": "2026-06-09T19:03:10+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/the-ai-industrys-platform-trap-is-starting-to-look-a-lot-like-microsofts",
+    "title": "The AI industry's platform trap is starting to look a lot like Microsoft's",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Anthropic is throttling its new Mythos model for certain tasks while building apps that directly compete with its largest customers. Customers, partners, and investors are pushing back. The article The AI industry&#039;s platform trap is starting to look a lot like Microsoft&#039;s appeared first on The Decoder.",
+    "published": "2026-06-12T11:45:14+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/openai-buys-ona-to-push-codex-toward-long-running-autonomous-coding-tasks",
+    "title": "OpenAI buys Ona to push Codex toward long-running, autonomous coding tasks",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "OpenAI is acquiring Ona, previously known as Gitpod, a startup founded in Kiel, Germany in 2020 that specializes in AI agents and secure cloud development environments for software development. The article OpenAI buys Ona to push Codex toward long-running, autonomous coding tasks appeared first on The Decoder.",
+    "published": "2026-06-12T10:13:55+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers",
+    "title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews. In this case, Google's AI had falsely linked two publishers to fraud and made claims that didn't appear in any of the linked sources. The ruling could set a precedent for AI-generated content liability worldwide. The article Landmark German ruling declares Google&#039;s AI Overviews are Google&#039;s own words and makes it liable for false answers appeared first on The",
+    "published": "2026-06-11T16:56:53+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/jeff-bezos-ai-startup-prometheus-closes-12-billion-round-at-a-41-billion-valuation",
+    "title": "Jeff Bezos' AI startup Prometheus closes $12 billion round at a $41 billion valuation",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Jeff Bezos' AI startup Prometheus has closed a $12 billion funding round at a $41 billion valuation. The company launched just last November with $6.2 billion in seed funding. No products yet, because Bezos says sharing details would be \"premature.\" The article Jeff Bezos&#039; AI startup Prometheus closes $12 billion round at a $41 billion valuation appeared first on The Decoder.",
+    "published": "2026-06-11T16:24:20+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/free-deezer-tool-lets-users-on-any-streaming-service-check-their-playlists-for-ai-music",
+    "title": "Free Deezer tool lets users on any streaming service check their playlists for AI music",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Deezer now offers a free AI music detector that lets users on any major streaming platform check whether AI-generated songs are hiding in their playlists. The article Free Deezer tool lets users on any streaming service check their playlists for AI music appeared first on The Decoder.",
+    "published": "2026-06-11T16:14:22+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/openai-vs-anthropic-a-price-war-over-api-tokens-is-brewing",
+    "title": "OpenAI vs. Anthropic: A price war over API tokens is brewing",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "OpenAI is weighing token price cuts to win customers from Anthropic, the Wall Street Journal reports. The article OpenAI vs. Anthropic: A price war over API tokens is brewing appeared first on The Decoder.",
+    "published": "2026-06-11T15:28:50+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/dario-amodeis-new-essay-reads-like-a-cold-war-playbook-for-the-ai-age",
+    "title": "Dario Amodei's new essay reads like a Cold War playbook for the AI age",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Anthropic publishes a sweeping essay and two policy frameworks. The company calls for binding audits of frontier models and paints a picture of AI as a strategic weapon wielded by nation-states. The article Dario Amodei&#039;s new essay reads like a Cold War playbook for the AI age appeared first on The Decoder.",
+    "published": "2026-06-11T13:10:10+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/claude-fable-5-anthropic-admits-wrong-tradeoff-after-invisibly-throttling-rival-ai-researchers",
+    "title": "Claude Fable 5: Anthropic admits \"wrong tradeoff\" after invisibly throttling rival AI researchers",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Anthropic reverses course on a policy that would have secretly undermined AI researchers, but another point of contention persists. The article Claude Fable 5: Anthropic admits &quot;wrong tradeoff&quot; after invisibly throttling rival AI researchers appeared first on The Decoder.",
+    "published": "2026-06-11T08:20:54+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/googles-new-open-model-diffusiongemma-generates-text-from-noise-instead-of-word-by-word",
+    "title": "Google's new open model DiffusionGemma generates text from noise instead of word by word",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Google released DiffusionGemma, a 26-billion-parameter model that generates text not token by token but through diffusion, similar to how image AI turns noise into a picture. According to Nvidia, it hits about 1,000 tokens per second on a single H100 GPU, roughly four times faster than comparable autoregressive models. The speed comes at a cost, though. Output quality is lower, so Google is positioning it as an experimental tool for developers for now. The article Google&#039;s new open model DiffusionGemma generates text from noise instead of word by word appeared first on The Decoder.",
+    "published": "2026-06-10T19:20:46+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/openais-ipo-slips-as-altman-tells-staff-to-expect-a-public-offering-within-the-next-year",
+    "title": "OpenAI's IPO slips as Altman tells staff to expect a public offering \"within the next year\"",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Sam Altman told employees he expects an OpenAI IPO \"within the next year,\" but a delay to 2027 is possible. He frames it as caution around self-improving AI, though Anthropic's stronger growth numbers and imminent IPO may be the real reason to wait. The article OpenAI&#039;s IPO slips as Altman tells staff to expect a public offering &quot;within the next year&quot; appeared first on The Decoder.",
+    "published": "2026-06-10T18:27:00+00:00"
+  },
+  {
+    "url": "https://tldr.tech/ai/2026-06-11",
+    "title": "Dario Amodei policy 🏛️, DiffusionGemma ⚡, WhatsApp to unblock bots 🤖",
+    "source": "TLDR AI",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-11T00:00:00+00:00"
+  },
+  {
+    "url": "https://tldr.tech/ai/2026-06-10",
+    "title": "Claude Fable 5 🚀, Gemini 3.5 Live Translate 📱, scaling test time compute 📈",
+    "source": "TLDR AI",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-10T00:00:00+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute",
+    "title": "An Interview with Ben Bajarin About Apple, AI, and Compute",
+    "source": "Stratechery",
+    "weight": 1.4,
+    "summary": "An interview with Ben Bajarin about WWDC and the status of the AI compute industry.",
+    "published": "2026-06-11T10:00:00+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers",
+    "title": "Fable 5, Anthropic Alignment, AI Tiers",
+    "source": "Stratechery",
+    "weight": 1.4,
+    "summary": "Fable 5 is the public version of Mythos, and while it is very capable it sets some troubling new precedents.",
+    "published": "2026-06-10T10:00:00+00:00"
+  },
+  {
+    "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "title": "Why AI hasn’t replaced software engineers, and won’t",
+    "source": "AI Snake Oil",
+    "weight": 1.2,
+    "summary": "Coding agents as normal technology",
+    "published": "2026-06-11T02:29:51+00:00"
+  },
+  {
+    "url": "https://www.lennysnewsletter.com/p/claude-fable-5-review-what-the-new",
+    "title": "Claude Fable 5 review: what the new Mythos model gets right (and very wrong)",
+    "source": "Lenny's Newsletter",
+    "weight": 1.1,
+    "summary": "Watch now | &#127897;&#65039;Early access to Claude Fable 5: what Anthropic claims, what I tested, and my honest take",
+    "published": "2026-06-09T18:32:03+00:00"
+  },
+  {
+    "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart-611",
+    "title": "Essential books for product builders—part 2",
+    "source": "Lenny's Newsletter",
+    "weight": 1.1,
+    "summary": "36 more timeless books that&#8217;ll make you a better builder, leader, and person",
+    "published": "2026-06-09T13:11:29+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/here-comes-the-sunscreen.html",
+    "title": "Here Comes the Sun(screen)",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "I have been banging on about FDA delay in approving new sunscreens since 2013. Well it has finally happened. Twenty six years after being approved by the European Union and thirteen years after then-FDA Commissioner Margaret A. Hamburg told lawmakers that sorting out the sunscreen issue was “one of the highest priorities” the FDA has [&#8230;] The post Here Comes the Sun(screen) appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-12T11:19:38+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/again-the-paper-format-will-be-dying-out.html",
+    "title": "Again, the research paper format will be dying out",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "From Xudong Han: &#8216;Recently, I came across a paper co-authored by 37 authors from Stanford, CMU, Michigan, and elsewhere: *The Last Human-Written Paper*. The core argument is pretty brutal: the paper format we&#8217;ve been using for centuries might already be obsolete in the AI era. The authors point out two &#8220;invisible taxes&#8221; that we&#8217;ve long [&#8230;] The post Again, the research paper format will be dying out appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-12T06:44:10+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/orwell-on-dickens-and-progress.html",
+    "title": "Orwell on Dickens and progress",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "What is more striking, in a seemingly ‘progressive’ radical, is that he is not mechanically minded. He shows no interest either in the details of machinery or in the things machinery can do. As Gissing remarks, Dickens nowhere describes a railway journey with anything like the enthusiasm he shows in describing journeys by stage-coach. In [&#8230;] The post Orwell on Dickens and progress appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-12T04:59:16+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/a-simple-reason-for-skepticism-about-the-iphones-fertility-link.html",
+    "title": "A simple reason for skepticism about the iPhones/fertility link",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "Here is the background to the debate. Here is more from Noah. Here is a thread from researcher Caitlin Myers. And here is some basic information: In 2008, 1.9% is the share of the mobile-subscribing population with an iPhone wireless subscription. As a percent of all adults that is 1.6%. In 2009, it is 4.3%. [&#8230;] The post A simple reason for skepticism about the iPhones/fertility link appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-11T18:07:22+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/thursday-assorted-links-556.html",
+    "title": "Thursday assorted links",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "1. Fable 5 describes humanity. And Anthropic policy proposals, including for economics. 2. &#8220;Can you build a working chess board which then illustrates and can play the moves of the famous &#8220;Evergreen game&#8221;?&#8221; The response. Much better yet is Fable 5 explaining Riemann. 3. Marcus Nunes on Chile vs. Argentina. 4. In the video world, [&#8230;] The post Thursday assorted links appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-11T15:45:52+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-nationalization-of-american-science.html",
+    "title": "The Nationalization of American Science",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "OMB, joined by some forty grantmaking agencies—NSF, HHS, DOE, NASA, DOD among them—has proposed a sweeping rewrite of the rules governing all federal grants, the Regulation for Federal Financial Assistance. American science has long been state funded but not state directed. Since Vannevar Bush, money has flowed through many agencies to independent universities, allocated largely [&#8230;] The post The Nationalization of American Science appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-11T11:16:13+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/my-excellent-conversation-with-katja-hoyer.html",
+    "title": "My excellent Conversation with Katja Hoyer",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Tyler and Katja discuss why communism made East Germans more loyal to the system while it bred dissidents in Poland and Hungary, how happy or unhappy life in the GDR actually was, Tyler’s own bleak day-trip to East Berlin in 1984, [&#8230;] The post My excellent Conversation with Katja Hoyer appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-11T05:15:39+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/what-do-the-ais-think-of-us.html",
+    "title": "What do the AIs think of us?",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "Asked to answer as a typical human, every cutting-edge model rated us markedly more neurotic, less open, less agreeable and less conscientious than they rated themselves. The gap on Neuroticism alone is 1.69 points on a 5-point scale. Here is more material of interest. And this: Across 31 models from those seven labs they answer [&#8230;] The post What do the AIs think of us? appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-11T01:06:14+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/are-the-ais-conscious.html",
+    "title": "Are the AIs conscious?",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "That is the topic of my latest Free Press column. I will spare you the discussion of the AIs, but here is what I have to say about the humans: I am here to tell you that there is no ghost in the machine. But perhaps more importantly, there is barely a “ghost” in your [&#8230;] The post Are the AIs conscious? appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-10T17:44:35+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/wednesday-assorted-links-557.html",
+    "title": "Wednesday assorted links",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "1. New edition of Copernicus on money. 2. Denazification of the United States? Denazification actually consisted of: &#8220;&#8230;dissolution of Nazi organizations, licensing/control of new political organizations, individual classification by denazification tribunals, and temporary or permanent disabilities on voting, standing for office, party membership, officeholding, public speech professions, and public/private employment.&#8221; 3. Faster replies increase your [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-10T16:15:54+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-labor-share-fell-so-what.html",
+    "title": "The Labor Share Fell. So What?",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "The share of Gross Domestic Income accruing to labor has been declining in recent decades while the share accruing to capital has been rising. In the graph below, I show labor compensation as a share of GDI (left axis). Labor share has indeed been trending down&#8211;some of this could be an artifact of the data, [&#8230;] The post The Labor Share Fell. So What? appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-10T11:16:41+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/therapy-to-make-cells-young-again-trialled-in-a-person.html",
+    "title": "Therapy to make cells young again trialled in a person",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "Here is the Nature article. The post Therapy to make cells young again trialled in a person appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-10T09:40:15+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/stanislaw-lem-foresaw-drones.html",
+    "title": "Stanislaw Lem foresaw drones",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "This was published in English (and Polish) in 1986 under the title One Human Minute: So it was not humanoid automata that former the new armies but synthetic insects (synsects) &#8212; ceramic microcrustacea, titanium annelids, and flying pseudo-hymenoptera with nerve centers made of arsenic compounds and with stingers of heavy, fissionable elements&#8230;The flying synsect combined [&#8230;] The post Stanislaw Lem foresaw drones appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-10T04:21:33+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/the-new-mythos-release.html",
+    "title": "The new Mythos release",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "My prompt: Write your own exam question and answer it, for microeconomics. Not a math question, but a high level PhD level question. You will be graded on the quality, interest, and creativity of the question as much as by your answer. The answer. Here is Ethan Mollick on Mythos. The post The new Mythos release appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-09T19:40:29+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/how-well-does-current-ai-find-errors-in-economics-papers.html",
+    "title": "How well does current AI find errors in economics papers?",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "Can artificial intelligence (AI) refute economic theory? I document experiments in which I asked several AI models (Gemini, Refine, Claude, and ChatGPT) to check the correctness of four published papers in economic theory, each containing an error that I helped identify or correct. ChatGPT Pro performed best, occasionally constructing counterexamples and corrected proofs, while other [&#8230;] The post How well does current AI find errors in economics papers? appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-09T18:20:40+00:00"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact",
+    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+    "source": "MIT Tech Review AI",
+    "weight": 1.1,
+    "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other&#8230;",
+    "published": "2026-06-11T11:00:45+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale",
+    "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+    "published": "2026-06-12T04:30:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything",
+    "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+    "published": "2026-06-12T01:48:07+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world",
+    "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+    "published": "2026-06-12T01:04:38+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever",
+    "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+    "published": "2026-06-11T20:33:10+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift",
+    "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
+    "published": "2026-06-11T19:58:01+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others",
+    "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+    "published": "2026-06-11T16:36:20+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank",
+    "title": "Pool’s new app turns your screenshots into something useful",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
+    "published": "2026-06-11T15:30:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos",
+    "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+    "published": "2026-06-11T14:23:43+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing",
+    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "The decision comes as India emerges as the world’s largest GCC market.",
+    "published": "2026-06-11T04:02:19+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report",
+    "title": "Anthropic’s Dario Amodei has just one direct report",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
+    "published": "2026-06-11T03:53:06+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims",
+    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+    "published": "2026-06-10T22:31:19+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues",
+    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+    "published": "2026-06-10T20:19:31+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai",
+    "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+    "published": "2026-06-10T17:07:35+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse",
+    "title": "How memory tools can make AI models worse",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+    "published": "2026-06-10T16:11:08+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable",
+    "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+    "published": "2026-06-10T15:41:22+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in",
+    "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
+    "published": "2026-06-10T15:00:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo",
+    "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
+    "published": "2026-06-10T14:48:01+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai",
+    "title": "Warner Music acquires AI attribution startup Sureel AI",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+    "published": "2026-06-10T14:31:30+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business",
+    "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+    "published": "2026-06-10T13:33:09+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats",
+    "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+    "published": "2026-06-10T13:07:56+00:00"
+  },
+  {
+    "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian",
+    "title": "AI agent bankrupted their operator while trying to scan DN42",
+    "source": "HN (858 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-12T04:42:53+00:00"
+  },
+  {
+    "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air",
+    "title": "A jacket that harvests drinking water from the air",
+    "source": "HN (118 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-11T22:59:22+00:00"
+  },
+  {
+    "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+    "title": "Shall we play a game? My AI nuclear simulation",
+    "source": "HN (199 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-11T19:54:54+00:00"
+  },
+  {
+    "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+    "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+    "source": "HN (271 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-11T13:26:59+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive",
+    "title": "Claude Fable is relentlessly proactive",
+    "source": "HN (550 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-12T01:06:51+00:00"
+  },
+  {
+    "url": "https://briandouglas.ie/llm-tailwind-template",
+    "title": "Tailwind and slop apps",
+    "source": "HN (83 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-11T21:12:47+00:00"
+  },
+  {
+    "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+    "source": "HN (550 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-12T00:38:11+00:00"
+  },
+  {
+    "url": "https://github.com/coder/boo",
+    "title": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
+    "source": "HN (81 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-11T20:52:26+00:00"
+  },
+  {
+    "url": "https://github.com/icitry/FPS.cob",
+    "title": "FPS.cob: A first person shooter in COBOL",
+    "source": "HN (127 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-11T15:13:57+00:00"
+  },
+  {
+    "url": "https://mapcomplete.org",
+    "title": "MapComplete: Maps about various topics which you can contribute to",
+    "source": "HN (187 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-11T14:04:05+00:00"
+  },
+  {
+    "url": "https://www.bbc.com/news/videos/clyrvrde160o",
+    "title": "US-Canada border library gets new Quebec-only entrance",
+    "source": "HN (119 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-11T13:42:42+00:00"
+  },
+  {
+    "url": "https://brew.sh/2026/06/11/homebrew-6.0.0",
+    "title": "Show HN: Homebrew 6.0.0",
+    "source": "HN (1307 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-11T13:24:29+00:00"
+  },
+  {
+    "url": "https://github.com/huggingface/open-r1",
+    "title": "Open Reproduction of DeepSeek-R1",
+    "source": "HN (235 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-11T13:14:31+00:00"
+  },
+  {
+    "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+    "title": "Claude Fable 5: mid-tier results on coding tasks",
+    "source": "HN (350 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-11T16:03:21+00:00"
+  },
+  {
+    "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+    "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
+    "source": "HN (143 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-11T17:35:19+00:00"
+  }
+]
