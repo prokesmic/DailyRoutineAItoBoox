@@ -1,0 +1,32 @@
+  Ethan Mollick: 0 new items (from 20 entries)
+  Andrej Karpathy: 0 new items (from 10 entries)
+  Everyday AI: 1 new items (from 20 entries)
+  Zvi Mowshowitz: 1 new items (from 10 entries)
+  Pragmatic Engineer: 0 new items (from 20 entries)
+  OpenAI: 0 new items (from 1006 entries)
+  Google DeepMind: 0 new items (from 100 entries)
+HTTP 410 for Microsoft AI Blog
+  NVIDIA Blog: 0 new items (from 18 entries)
+  Hugging Face: 0 new items (from 797 entries)
+  Latent Space: 1 new items (from 20 entries)
+  Interconnects: 0 new items (from 20 entries)
+  Semianalysis: 0 new items (from 10 entries)
+  AI News (smol): 0 new items (from 10 entries)
+  Simon Willison: 25 new items (from 30 entries)
+  Import AI: 0 new items (from 20 entries)
+  The Decoder: 9 new items (from 10 entries)
+  TLDR AI: 1 new items (from 20 entries)
+  Stratechery: 1 new items (from 10 entries)
+  AI Snake Oil: 0 new items (from 20 entries)
+  Sam Altman: 25 new items (from 30 entries)
+  Lenny's Newsletter: 3 new items (from 20 entries)
+  Marginal Revolution: 14 new items (from 15 entries)
+  Marc Andreessen: 0 new items (from 15 entries)
+  MIT Tech Review AI: 2 new items (from 10 entries)
+  VentureBeat AI: 0 new items (from 7 entries)
+  TechCrunch AI: 15 new items (from 20 entries)
+  HN 'AI': 5 new items
+  HN 'GPT': 4 new items
+  HN 'Claude': 1 new items
+  HN 'OpenAI': 1 new items
+  HN 'RAG': 1 new items
