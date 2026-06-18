@@ -1,0 +1,410 @@
+[
+  {
+    "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "title": "What it feels like to work with Mythos",
+    "source": "Ethan Mollick",
+    "weight": 1.2,
+    "published_at": "2026-06-09T17:11:22+00:00",
+    "description": "I had early access to the first Mythos-class AI model being released to the public, Claude 5 Fable. Much of the discussion of Mythos has centered on its impact on software security, but I tested it on everything except that (the guardrails around Fable essentially prevent it from being used for cybersecurity at all). My conclusion is that it represents a very real leap over every model I have used before, and, maybe more important, suggests our relationship with AI is changing in drastic ways.  First, how good is Fable? In experiment after experiment I conducted, it outperformed basically ever"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+    "title": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
+    "source": "Latent Space",
+    "weight": 1.2,
+    "published_at": "2026-06-11T03:14:26+00:00",
+    "description": "Sarah Guo is a  friend of the pod  and  Queen of AI , and after our  Satya crossover pod  (great  recap here from Gokul Rajaram ) wrote an excellent article on  her Substack . Go read it, and come back for this reaction:                                        This framework (based on  legibility, another worthwhile concept if you are unfamiliar ) simultaneously addresses a lot of the themes we have discussed on the Satya pod, but also Latent Space over the last two years:     The Place of Open Models:  With Braintrust in 2024 we were  maximally bearish on Open Model adoption , only to turn aro"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
+    "title": "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
+    "source": "Latent Space",
+    "weight": 1.2,
+    "published_at": "2026-06-10T03:50:21+00:00",
+    "description": "By some measures, Opus 4.8, barely  two weeks old , was already the leading model in the world. But now,  34 days  after the SpaceXai deal and  63 days  after the original Mythos announcement*, we have a Mythos-class model (at least 2x size of Opus) available to everyone (in coinciding with  Claude Tokyo ). It is a feat of incredible engineering (and commitment to access) to make these research models GA, and the benchmarks are great&#8230; with asterisks. Here they are on yesterday&#8217;s brand new, out of distribution,  FrontierCode Diamond , going from 13.4% to 29.3%:                      "
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-frontiercode-benchmarking",
+    "title": "[AINews] FrontierCode: Benchmarking for Code Quality over Slop",
+    "source": "Latent Space",
+    "weight": 1.2,
+    "published_at": "2026-06-09T06:12:33+00:00",
+    "description": "Second batch of AI Leadership and Engineering+Workshops tickets for  AI Engineer World&#8217;s Fair  sold out last night! Last 500 tickets on sale now - get while stocks last!  20% off for the first 20 readers  who see this.      It is rare that we are personally involved in the title story of the day, and  Apple&#8217;s WWDC announcing Gemini-powered Siri  was a possible candidate, but  we&#8217;ve been fooled before . So instead, we&#8217;ve got  FrontierCode , the latest in our  War on Slop !    If that chart looks familiar, it&#8217;s because FrontierCode was explicitly inspired and named "
+  },
+  {
+    "url": "https://thezvi.substack.com/p/three-labs-with-a-plan-and-a-memorandum",
+    "title": "Three Labs With a Plan and A Memorandum",
+    "source": "Zvi Mowshowitz",
+    "weight": 1.2,
+    "published_at": "2026-06-09T22:34:49+00:00",
+    "description": "The big story today is   the release of Claude Fable 5,   the version of Claude Mythos that Anthropic believes they can safely distribute to the people. You should absolutely be switching over to that model and trying it out. But as always, this blog does not rush into commenting on a new model until we have a few days to play around with it and see what our new baby can (and can&#8217;t) do. This will be no exception, and coverage of Fable in earnest will start Friday or Monday.   Today I instead bring you several related stories around policies and plans for AI, that came out before the Fabl"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-job-market-in-2026-part-2",
+    "title": "State of the software engineering job market in 2026, part 2",
+    "source": "Pragmatic Engineer",
+    "weight": 1.2,
+    "published_at": "2026-06-09T16:35:53+00:00",
+    "description": "What&#8217;s going on in today&#8217;s job market? We try to answer that big question in this second part of our deepdive into the tech employment market, following  Part 1 , published two weeks ago.  First of all, a big thank you to partner teams for sharing exclusive details for this deepdive:      Interviewing.io  : anonymous mock interviews with engineers from top companies. Thanks to founder and CEO, Aline Lerner.      Workforce.ai ,  built by Live Data Technologies, which monitors 1M+ job changes and 300M+ employment validations monthly, across companies, roles, levels, functions, indust"
+  },
+  {
+    "url": "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
+    "title": "An Interview with Ben Bajarin About Apple, AI, and Compute",
+    "source": "Stratechery",
+    "weight": 1.1,
+    "published_at": "2026-06-11T10:00:00+00:00",
+    "description": "An interview with Ben Bajarin about WWDC and the status of the AI compute industry."
+  },
+  {
+    "url": "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
+    "title": "Fable 5, Anthropic Alignment, AI Tiers",
+    "source": "Stratechery",
+    "weight": 1.1,
+    "published_at": "2026-06-10T10:00:00+00:00",
+    "description": "Fable 5 is the public version of Mythos, and while it is very capable it sets some troubling new precedents."
+  },
+  {
+    "url": "https://stratechery.com/2026/the-iphones-last-stand/",
+    "title": "The iPhone’s Last Stand",
+    "source": "Stratechery",
+    "weight": 1.1,
+    "published_at": "2026-06-09T10:00:00+00:00",
+    "description": "Listen to this  post :  \n\n\n\n \n  \n \n \n \n \n\n\n\n \n  \n \n  Log in to listen  \n \n  \n \n \n \n\n\n \n\n\n\n Apple fans would, for years and years, sneer at Microsoft&#8217;s penchant for talking about products that may or may not ship, deriding them as vaporware. After  Apple&#8217;s bungled 2024 launch of Apple Intelligence and new Siri , however, vaporware is fair game, and just in time for this Article. \n\n\n\n Project Solara \n\n\n\n Last week, at its annual Build developer conference, Microsoft put forth a vision for a new ecosystem of hardware devices under the banner of  Project Solara : \n\n\n\n  \n    \n  \n\n\n\n The"
+  },
+  {
+    "url": "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+    "title": "Claude Fable 5 and new AI safety fables",
+    "source": "Interconnects",
+    "weight": 1.1,
+    "published_at": "2026-06-09T22:59:35+00:00",
+    "description": "Today, Anthropic  released  their Claude Fable 5 model to consumer and enterprise audiences. This is the general-access variant of their Mythos-class models. With it, Anthropic rolled out a series of safety measures &#8212; some explicitly called out to users and some modifying the model without telling the user. It should be less surprising than it is that the next major step in AI capabilities came with heavier-handed safety measures indicating Anthropic&#8217;s intention to protect, or entrench, their current lead.  The unevenly applied safety policies that Anthropic have rolled out are on "
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
+    "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+    "source": "Simon Willison",
+    "weight": 1.1,
+    "published_at": "2026-06-11T03:45:49+00:00",
+    "description": ""
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+    "title": "datasette-agent 0.2a0",
+    "source": "Simon Willison",
+    "weight": 1.1,
+    "published_at": "2026-06-10T23:57:27+00:00",
+    "description": ""
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
+    "title": "DiffusionGemma",
+    "source": "Simon Willison",
+    "weight": 1.1,
+    "published_at": "2026-06-10T20:00:54+00:00",
+    "description": ""
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything",
+    "title": "Quoting Jeremy Howard",
+    "source": "Simon Willison",
+    "weight": 1.1,
+    "published_at": "2026-06-10T15:23:34+00:00",
+    "description": ""
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything",
+    "title": "If Claude Fable stops helping you, you'll never know",
+    "source": "Simon Willison",
+    "weight": 1.1,
+    "published_at": "2026-06-10T00:37:25+00:00",
+    "description": ""
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
+    "title": "Initial impressions of Claude Fable 5",
+    "source": "Simon Willison",
+    "weight": 1.1,
+    "published_at": "2026-06-09T23:59:54+00:00",
+    "description": ""
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/9/llm/#atom-everything",
+    "title": "llm 0.32a3",
+    "source": "Simon Willison",
+    "weight": 1.1,
+    "published_at": "2026-06-09T22:27:03+00:00",
+    "description": ""
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything",
+    "title": "Setting a custom price for a model in AgentsView",
+    "source": "Simon Willison",
+    "weight": 1.1,
+    "published_at": "2026-06-09T21:35:31+00:00",
+    "description": ""
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything",
+    "title": "Quoting Andrej Karpathy",
+    "source": "Simon Willison",
+    "weight": 1.1,
+    "published_at": "2026-06-09T19:03:10+00:00",
+    "description": ""
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
+    "title": "Siri AI at WWDC 2026",
+    "source": "Simon Willison",
+    "weight": 1.1,
+    "published_at": "2026-06-08T23:58:04+00:00",
+    "description": ""
+  },
+  {
+    "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+    "title": "Why AI hasn’t replaced software engineers, and won’t",
+    "source": "AI Snake Oil",
+    "weight": 1.1,
+    "published_at": "2026-06-11T02:29:51+00:00",
+    "description": "There is great anxiety and uncertainty about AI replacing jobs. How can we move past vague warnings and bombastic predictions and bring data to bear on this question? One good way is to look at the profession where AI capabilities are furthest along and adoption has been exceptionally rapid: software engineering.  In this essay, we argue that there is enough evidence to reject the narrative that once AI capabilities reach a certain threshold, it will cause mass layoffs. Given that this is true even in a sector with very few regulatory barriers, most other professions are likely to be even more"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-11T04:02:19+00:00",
+    "description": "The decision comes as India emerges as the world’s largest GCC market."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+    "title": "Anthropic’s Dario Amodei has just one direct report",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-11T03:53:06+00:00",
+    "description": "If you doubted his genius, doubt no more."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-10T22:31:19+00:00",
+    "description": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-10T20:19:31+00:00",
+    "description": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+    "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-10T17:07:35+00:00",
+    "description": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+    "title": "How memory tools can make AI models worse",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-10T16:11:08+00:00",
+    "description": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-10T15:41:22+00:00",
+    "description": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+    "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-10T15:00:00+00:00",
+    "description": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+    "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-10T14:48:01+00:00",
+    "description": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+    "title": "Warner Music acquires AI attribution startup Sureel AI",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-10T14:31:30+00:00",
+    "description": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+    "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-10T13:33:09+00:00",
+    "description": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+    "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-10T13:07:56+00:00",
+    "description": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+    "title": "Meta signs first AI data center deal in India with Reliance",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-10T07:05:26+00:00",
+    "description": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+    "title": "Google just fired a warning shot in the AI subscription price wars",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-10T00:26:10+00:00",
+    "description": "Google just made it significantly cheaper to enjoy its budget AI subscription tier."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-09T23:17:51+00:00",
+    "description": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+    "title": "Hey, Siri, here’s what I actually want from AI",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-09T20:50:17+00:00",
+    "description": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+    "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-09T20:37:49+00:00",
+    "description": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+    "title": "Can tech companies learn to love cheaper AI models?",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-09T18:56:09+00:00",
+    "description": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-09T18:04:24+00:00",
+    "description": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+    "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+    "source": "TechCrunch AI",
+    "weight": 1.0,
+    "published_at": "2026-06-09T17:00:00+00:00",
+    "description": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology."
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+    "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
+    "source": "MIT Tech Review",
+    "weight": 1.0,
+    "published_at": "2026-06-11T12:10:00+00:00",
+    "description": "This is today&#8217;s edition of    The Download  ,  our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.   \n\n\n\n  Inside soccer’s data renaissance  \n\n\n\n Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of bounds. You may question the logic of surrendering possession seconds into a game. If you were Jesse Davis, though, you’d know that this play could be a prime setup to score. \n\n\n\n Davis is a professor of computer science at KU Leuven in Belgium and head of its Sports Analytics La"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+    "source": "MIT Tech Review",
+    "weight": 1.0,
+    "published_at": "2026-06-11T11:00:45+00:00",
+    "description": "Google DeepMind is  funding research  into the potential dangers of situations where millions of different  AI agents  interact with each other online. \n\n\n\n According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other agents creates a  whole new class of risk . \n\n\n\n In an effort to address this, Google DeepMind—which made agent-based tools a  centerpiece of Google I/O last month —has teamed up with several other organizations to announce a $"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+    "title": "Job titles of the future: Nature’s drug designer",
+    "source": "MIT Tech Review",
+    "weight": 1.0,
+    "published_at": "2026-06-11T10:00:00+00:00",
+    "description": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use.&nbsp; \n\n\n\n For Merck, he’d developed precision therapies for cancer, HIV, and diabetes that could target disease while minimizing harm to healthy cells. But as a lifelong nature lover, he was increasingly concerned about the health of ecosystems and wondered whether his expertise could transfer. Animals, he learned, are often treated with pharmaceuticals formulated for humans, which affect them like old-school cancer drugs: Though intended to kill abnormal cells, they’re indisc"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+    "title": "Inside soccer’s data renaissance",
+    "source": "MIT Tech Review",
+    "weight": 1.0,
+    "published_at": "2026-06-11T10:00:00+00:00",
+    "description": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out of bounds on the opponent’s end. Casual fans might scratch their heads. Where’s the logic in surrendering possession seconds into a game? If you were Jesse Davis, though, you’d know that this play could be a prime setup to score.&nbsp; \n\n\n\n Davis is a professor of computer science at KU Leuven in Belgium and head of its  Sports Analytics Lab , which has been at the vanguard of a data awakening in soccer since its inception more than a decade ago"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+    "title": "Why China is betting on big nuclear reactors",
+    "source": "MIT Tech Review",
+    "weight": 1.0,
+    "published_at": "2026-06-11T10:00:00+00:00",
+    "description": "It’s a tale of two nuclear industries. \n\n\n\n In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of total power capacity. The new facilities are nearly all gigawatt-scale pressurized-water reactors. \n\n\n\n Meanwhile, the US has built just two reactors in that time—Unit 3 and Unit 4 at Plant Vogtle in Georgia. Smaller reactors are attracting a lot of excitement and investment, though. A microreactor developer just saw its reactor reach criticality in a new Department of Energy pilot program. \n\n\n\n"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+    "title": "The Download: the “steroid olympics” and a safer Mythos",
+    "source": "MIT Tech Review",
+    "weight": 1.0,
+    "published_at": "2026-06-10T12:10:00+00:00",
+    "description": "This is today&#8217;s edition of    The Download  ,  our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.   \n\n\n\n  The “steroid olympics” were a circus—and a window into our culture  \n\n\n\n  —Amit Katwala  \n\n\n\n A couple of weeks ago, at a $50 million arena built in a casino parking lot in Las Vegas, I witnessed a libertarian thought experiment come to life. The inaugural Enhanced Games were the first sporting competition where participants were encouraged to take performance-enhancing drugs. \n\n\n\n For supporters of the event, the Enhanced Games off"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
+    "title": "The “steroid olympics” were a circus—and a window into our culture",
+    "source": "MIT Tech Review",
+    "weight": 1.0,
+    "published_at": "2026-06-10T09:00:00+00:00",
+    "description": "Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, creams and pills. A whole galaxy of steroids, metabolic modulators, and synthetic hormones coursing through the blood of a few dozen swimmers, sprinters, and weightlifters. And millions of dollars up for grabs for athletes who could break world records and usher in the age of superhumanity. \n\n\n\n On Sunday, May 24, at a $50 million arena built in a casino parking lot in Las Vegas, I witnessed a lib"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+    "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+    "source": "MIT Tech Review",
+    "weight": 1.0,
+    "published_at": "2026-06-09T12:10:00+00:00",
+    "description": "This is today&#8217;s edition of    The Download  ,  our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.  \n\n\n\n  David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition  \n\n\n\n The outspoken longevity scientist David Sinclair has predicted that, one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. MIT Technology Review has learned of his latest step toward this: human tests of a “reprogramming” drug. \n\n\n\n Sinclair, a biologist at Harvard Medical School, plans to launch the tests"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "title": "Learning to lead in a hybrid human-AI enterprise",
+    "source": "MIT Tech Review",
+    "weight": 1.0,
+    "published_at": "2026-06-09T10:20:06+00:00",
+    "description": "As adoption of AI agents looks set to surge by as much as  300%  in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  \n\n\n\n Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across an organization. In early applications that center on customer service, HR, and sales, adoption of agentic AI has led to productivity gains of  30-50% .  \n\n\n\n Their autonomy positions agents more as collaborators than t"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
+    "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+    "source": "MIT Tech Review",
+    "weight": 1.0,
+    "published_at": "2026-06-09T10:00:00+00:00",
+    "description": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. \n\n\n\n Now  MIT Technology Review  has learned that he has plans to launch human tests of an oral &#8220;reprogramming&#8221; drug as part of a $101 million  competition  organized by the XPrize Foundation.&nbsp; \n\n\n\n The foundation is offering cash awards to teams able to “restore” a person to an earlier apparent age, as measured by improvements in immune, cognitive, and muscle function.&nbsp; \n\n\n\n The grand prize goes to any team"
+  }
+]
