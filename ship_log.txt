@@ -1,0 +1,26 @@
+Brief saved: HTTP 201
+Pick saved (201): Ovo, an open-source ecosystem for de novo protein design
+Pick saved (200): Claude Fable 5 and Mythos 5: Capabilities
+Pick saved (200): Samsung Electronics brings ChatGPT and Codex to employees
+Pick saved (201): Will AI spark a scientific renaissance — or a diffuse monocu
+Pick saved (201): GLM-5.2 Is The New Best Open Model
+Pick saved (201): Sanofi names new R&D head as it tries to jump-start pipeline
+Pick saved (200): Nobel laureate John Jumper is leaving DeepMind for rival Ant
+Pick saved (201): Apple Price Increases, Apple Intelligence and the E.U.
+Pick saved (200): From PGP to Mythos: a brief history of export controls that 
+Pick saved (200): Temporary Cloudflare Accounts for AI agents
+Pick saved (200): Billionaire Ambani wants AI in every call, app, and home
+Pick saved (201): Pharma goes on a spending spree, snapping up biotechs in a h
+  Fetching citations from: https://thezvi.substack.com/p/claude-fable-5-and-mythos-5-capabilities
+    Citation saved (201): https://github.com/fintech-research/ai-lab-investment/blob/main/reports/review_r
+    Citation saved (201): https://gist.github.com/JD-P/0ca55651e3837b7ce2615cf1ff9279be
+    Citation saved (201): https://substack.com/sign-in?redirect=%2Fp%2Fclaude-fable-5-and-mythos-5-capabil
+    Citation saved (201): https://substack.com/@thezvi
+  Fetching citations from: https://thezvi.substack.com/p/glm-52-is-the-new-best-open-model
+    Citation saved (200): https://substack.com/sign-in?redirect=%2Fp%2Fglm-52-is-the-new-best-open-model&a
+    Citation saved (201): https://substack.com/privacy
+    Citation saved (201): https://substack.com/tos
+    Citation saved (201): https://substack.com/ccpa
+
+RESULT: 12 articles + 8 citations + 1 brief
+12|8
