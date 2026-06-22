@@ -1,0 +1,5 @@
+Error fetching https://www.everydayai.com/feed: duplicate attribute: line 2, column 133
+Error fetching https://www.anthropic.com/news/rss: HTTP Error 404: Not Found
+Error fetching https://ai.meta.com/blog/rss/: HTTP Error 404: Not Found
+Error fetching https://venturebeat.com/ai/feed/: HTTP Error 404: Not Found
+Error fetching https://www.theverge.com/rss/ai-artificial-intelligence/index.xml: HTTP Error 403: Forbidden
