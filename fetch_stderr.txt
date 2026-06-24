@@ -1,0 +1,7 @@
+[WARN] Everyday AI: HTTP Error 503: Service Unavailable
+[WARN] The Verge AI: HTTP Error 403: Forbidden
+[WARN] Ars Technica: HTTP Error 403: Forbidden
+[WARN] Wired AI: HTTP Error 403: Forbidden
+[WARN] Nature AI: HTTP Error 404: Not Found
+[WARN] The Batch: HTTP Error 404: Not Found
+[INFO] 40 candidates from 17 sources

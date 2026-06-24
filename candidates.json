@@ -1,0 +1,362 @@
+[
+  {
+    "url": "https://thezvi.substack.com/p/claude-fable-5-and-mythos-5-capabilities",
+    "title": "Claude Fable 5 and Mythos 5: Capabilities",
+    "source": "Zvi Mowshowitz",
+    "weight": 1.2,
+    "cluster": "governance-workforce",
+    "published": "2026-06-19T14:34:17+00:00",
+    "summary": "Only three days after the release of Claude Fable 5, Anthropic was forced by the United States Government to make it unavailable, when a jailbreak was brought to its attention, rather than the previous situation of &#8216;yes obviously experts can jailbreak anything if they care enough&#8217; and &#8216;yes obviously you can ask Fable to fix your code.&#8217;   Three days was enough time for many of us to learn to love Fable, and for us to dearly miss it now that it is gone. The world was briefly smarter, and now it is again stupider. At some point it will get smarter again, which will likely "
+  },
+  {
+    "url": "https://thezvi.substack.com/p/ai-173-ai-pauses",
+    "title": "AI #173: AI Pauses",
+    "source": "Zvi Mowshowitz",
+    "weight": 1.2,
+    "cluster": "governance-workforce",
+    "published": "2026-06-18T13:35:53+00:00",
+    "summary": "A lot of things are always happening. Only one story matters.    Claude Fable 5 and Claude Mythos 5 were shut down, by the White House  , via an imposition of export controls at 5:23pm on Friday, wreaking all sorts of havoc.  There was then a scramble.   Anthropic flew its people out to Washington  , where they met with the Trump Administration on Monday, with hopes expressed that this could be quickly resolved.   What caused this? The Trump Administration said it was due to a jailbreak of Fable, which we now know they were told about by Amazon. They called Dario Amodei, who they complain did "
+  },
+  {
+    "url": "https://thezvi.substack.com/p/the-once-and-future-fable-3-fix-this",
+    "title": "The Once And Future Fable #3: Fix This Code",
+    "source": "Zvi Mowshowitz",
+    "weight": 1.2,
+    "cluster": "governance-workforce",
+    "published": "2026-06-17T14:05:17+00:00",
+    "summary": "The mainstream media continues to sleep on the most important story in the world.   It has now been two days since Anthropic flew its people out to Washington, and   I offered my previous update  . We have heard nothing back from those meetings.   Prediction market prices have moved rapidly, and have once again stabilized at about a 55% chance of restoration by July 1, 30% by June 26 and 12% by June 19.   That seems modestly higher than I would put those numbers, but not unreasonable.     Every day that Fable remains unavailable further damages America, its cyber defenses, its productivity and"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-big-implications-of-us",
+    "title": "The Pulse: Big implications of US banning Anthropic’s new model, Fable",
+    "source": "Pragmatic Engineer",
+    "weight": 1.2,
+    "cluster": "builder-methodology",
+    "published": "2026-06-18T17:11:03+00:00",
+    "summary": "The Pulse is a series covering events, insights, and trends within Big Tech and startups. Notice an interesting event or trend? Hit reply and share it with me.     Today, we cover:       Meta follow-up.    A follow-up on Tuesday&#8217;s deepdive into Meta&#8217;s ongoing demolition of its own engineering org. Non-engineering teams lost more than 10% of their staff, while Integrity teams were already stretched before the cuts and reallocation.       Big implications of the US banning Anthropic&#8217;s new model, Fable.    The US government wants only US citizens to be able to use Fable. That co"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/cicd-with-robert-erez",
+    "title": "CI/CD with Robert Erez",
+    "source": "Pragmatic Engineer",
+    "weight": 1.2,
+    "cluster": "builder-methodology",
+    "published": "2026-06-17T16:41:01+00:00",
+    "summary": "Stream the latest episode   Listen and watch now on  YouTube ,  Spotify , and  Apple .  See the episode transcript at the top of this page, and timestamps for the episode at the bottom.   Brought to You by                  &#8226;  Antithesis   &#8211;  if you're using agents to code, the problem isn't writing the code but making sure it didn't break anything. Antithesis goes beyond code review and runs your whole system in faster than real-time and identifies hard to find bugs before your users hit them in production. Antithesis enables teams like Jane Street, Fly.io,  and the etcd community "
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
+    "title": "[AINews] not much happened today",
+    "source": "Latent Space",
+    "weight": 1.2,
+    "cluster": "agentic-systems",
+    "published": "2026-06-20T08:06:05+00:00",
+    "summary": "GLM 5.2 is still trending very hard, but you  knew that already .  Regular Tickets for  AIE WF 2026  will sell out by Monday.  If you&#8217;re a Latent Space subscriber ($80 a year), a limited-time only $250 discount for select ticket classes is included below for the AIE-curious who have not yet got tickets.    Attendees also get $40k in sponsor credits , from Warp, Datadog, SourceGraph, Stripe, Fireworks, and more.                                          Latent Space subscribers &#8212; $250 offer for AIEWF \n       \n           \n              Read more"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
+    "title": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
+    "source": "Latent Space",
+    "weight": 1.2,
+    "cluster": "agentic-systems",
+    "published": "2026-06-19T05:53:54+00:00",
+    "summary": "Don&#8217;t miss out on  our Anj Midha episode  today and  regular tix for   AIE World&#8217;s Fair !      In the AI News business, there&#8217;s a bit of trepidation talking about open models: they come out guns blazing, looking pretty on notable benchmarks, and then a month later they fade into disuse like they never existed. In other words: they were &#8220; benchmaxxed &#8221;. And we hate reporting news that you won&#8217;t remember here at LS.  One of the policies readers tell us they like about AINews is that we will simply say if  nothing much happened today  (a newsletter that tells y"
+  },
+  {
+    "url": "https://www.latent.space/p/anj",
+    "title": "The Professor of Outputmaxxing — Anjney Midha, AMP",
+    "source": "Latent Space",
+    "weight": 1.2,
+    "cluster": "agentic-systems",
+    "published": "2026-06-18T17:30:00+00:00",
+    "summary": "Last 4 days before regular tickets sell out at   AI Engineer World&#8217;s Fair   - this is the single biggest gathering of AI Engineers, Founders, Leaders, and Researchers in the world. Attendees get &gt;$5000 worth of sponsor credits and talk tracks are looking FANTASTIC. Join us!       The AI scaling debate always focuses on the question of &#8220;how do we get more GPUs?&#8221; but the better question may be:  how do we make the most of ones we already have.   The fact that a frontier lab like xAI could be running at  sub-10% MFU (Model FLOPs Utilization)  is just a hint at what the real p"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
+    "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
+    "source": "Latent Space",
+    "weight": 1.2,
+    "cluster": "agentic-systems",
+    "published": "2026-06-18T04:23:05+00:00",
+    "summary": "It&#8217;s a tough choice whether or not  the buzzy Midjourney Medical launch  today counts as AINews. Yes, Midjourney is one of the most significant and unique AI labs in the world. No, as David Holz was quick to point out, there&#8217;s not even any AI immediately present in the  Scanner  or  Spa . But yes, ultrasound CT imaging obviously needs heavy AI assistance, and unlocks massive new applications downstream as  BioHub&#8217;s CryoEMs  did for  ESM . And no, as  Hacker News is quick to point out , there are a lot of unsolved questions as to how ready or useful this scanner really is.  An"
+  },
+  {
+    "url": "https://www.latent.space/p/radical-ai",
+    "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
+    "source": "Latent Space",
+    "weight": 1.2,
+    "cluster": "agentic-systems",
+    "published": "2026-06-17T17:58:06+00:00",
+    "summary": "On the Science pod, we&#8217;ve been covering a lot of the ground on how AI is revolutionizing STEM, but one of our favorite off the record topics since our launch is  which field is harder  to accelerate:  math ,  bio , or  physics ? Today we&#8217;re back in Materials Science land with Radical &#8212; Unlike biological molecules that can be represented (and predicted!) by token strings, the success of materials involve many more macro complex variables like supply chains, microstructures, and  manufacturing processes . If you recall  the LK99 drama of 2023 , while the basic ingredients were "
+  },
+  {
+    "url": "https://stratechery.com/2026/the-stuff-of-mythos/",
+    "title": "2026.25: The Stuff of Myth(os)",
+    "source": "Stratechery",
+    "weight": 1.1,
+    "cluster": "capital-compute",
+    "published": "2026-06-19T17:00:00+00:00",
+    "summary": "(Photo by Ronald Cortes/Getty Images)  \n\n\n\n Welcome back to This Week in Stratechery! \n\n\n\n As a reminder, each week, every Friday, we&#8217;re sending out this overview of content in the Stratechery bundle;  highlighted links are free for everyone . Additionally, you have complete control over what we send to you. If you don&#8217;t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in  your delivery settings . \n\n\n\n On that note, here were a few of our favorites this week. \n\n\n\n \n  Anthropic Again.  Well, Fable was fun well it lasted: last Friday the T"
+  },
+  {
+    "url": "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
+    "title": "An Interview with Michael Morton About E-Commerce in the Age of AI",
+    "source": "Stratechery",
+    "weight": 1.1,
+    "cluster": "capital-compute",
+    "published": "2026-06-18T10:00:00+00:00",
+    "summary": "An interview with Michael Morton about e-commerce and AI, including the challenges of unfalsifiable bear cases, distribution versus referal models, grocery, and autonomous vehicles."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-19T22:40:14+00:00",
+    "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos."
+  },
+  {
+    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-19T16:08:17+00:00",
+    "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-19T16:01:03+00:00",
+    "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "title": "Billionaire Ambani wants AI in every call, app, and home",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-19T15:23:28+00:00",
+    "summary": "Reliance is weaving AI into telecom services used by more than 500 million people."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+    "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-19T13:00:00+00:00",
+    "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+    "title": "The US says ASML’s top chip tool may be in China, but how?",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-19T07:59:12+00:00",
+    "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-19T00:51:11+00:00",
+    "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-18T21:20:13+00:00",
+    "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-18T20:30:00+00:00",
+    "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-18T19:59:22+00:00",
+    "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+    "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-18T18:51:46+00:00",
+    "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+    "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-18T18:22:13+00:00",
+    "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+    "title": "AI data centers just got a government-mandated fast lane to the grid",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-18T17:49:23+00:00",
+    "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+    "title": "The smartphone era created an attention crisis — slow tech is fixing it",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-18T17:16:30+00:00",
+    "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/",
+    "title": "How to turn off AI in your Google Docs",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-18T17:00:00+00:00",
+    "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+    "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-18T16:55:04+00:00",
+    "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+    "title": "General Intuition in talks to raise $300M at around $2B valuation",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-18T15:20:37+00:00",
+    "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+    "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-18T15:13:21+00:00",
+    "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+    "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-18T12:00:00+00:00",
+    "summary": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR)."
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+    "title": "Roelof Botha joins SpaceX’s board of directors",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "cluster": "capital-compute",
+    "published": "2026-06-17T20:32:52+00:00",
+    "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever."
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+    "title": "The Download: AI bottleneck debates, and BCI trials take off",
+    "source": "MIT Technology Review",
+    "weight": 1.0,
+    "cluster": "ai-for-science",
+    "published": "2026-06-19T12:10:00+00:00",
+    "summary": "This is today&#8217;s edition of    The Download  ,  our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.   \n\n\n\n  A startup claims it broke through a bottleneck that’s holding back LLMs  \n\n\n\n AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck that had held back large language models for almost a decade. \n\n\n\n The purported breakthrough comes from slashing the number of computations transformers need to carry out to generate answers. The result is a faster and cheaper LLM that uses fa"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+    "source": "MIT Technology Review",
+    "weight": 1.0,
+    "cluster": "ai-for-science",
+    "published": "2026-06-19T10:40:24+00:00",
+    "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had  solved a mathematical bottleneck  that had been holding back large language models for almost a decade. \n\n\n\n The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the results of an independent evaluation of its new tech. The results suggest that the company’s claims might be worth paying attention to. \n\n\n\n\n\n According to Subquadratic, it has developed a new kind of LLM, called SubQ, that is faster and cheaper and use"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+    "title": "The inevitable weakness of metrics",
+    "source": "MIT Technology Review",
+    "weight": 1.0,
+    "cluster": "ai-for-science",
+    "published": "2026-06-19T09:00:00+00:00",
+    "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. \n\n\n\n Like a lot of people bitten by the self-quantifying bug, I initially started gathering personal data to pursue a nebulous collection of goals and desires. As a sedentary technology journalist, I wanted to feel better physically and emotionally, to get outside more, and—where possible—to bring order to s"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+    "title": "Brain-computer interface trials are taking off",
+    "source": "MIT Technology Review",
+    "weight": 1.0,
+    "cluster": "ai-for-science",
+    "published": "2026-06-19T09:00:00+00:00",
+    "summary": "This week, I covered  the story of Casey Harrell —a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables him to “speak,” surf the web, and perform his job as a climate activist, largely independently. \n\n\n\n Since Harrell was implanted with the device, in July 2023, a team at the University of California, Davis, has worked with him to adjust and improve its offerings. They’ve ref"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+    "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+    "source": "MIT Technology Review",
+    "weight": 1.0,
+    "cluster": "ai-for-science",
+    "published": "2026-06-18T12:10:00+00:00",
+    "summary": "This is today&#8217;s edition of    The Download  ,  our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.   \n\n\n\n  The search for dark matter has been blown wide open  \n\n\n\n For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading candidate for dark matter. But their search has run into a new problem: neutrinos.&nbsp; \n\n\n\n These tiny particles from the sun and other stars can create a “neutrino fog” that drowns out any signal of dark matter. Hitting the neutrino fog does not, however, mean an end to the sear"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+    "title": "Geoengineering still faces major practical challenges",
+    "source": "MIT Technology Review",
+    "weight": 1.0,
+    "cluster": "ai-for-science",
+    "published": "2026-06-18T10:00:00+00:00",
+    "summary": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of  Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet.  \n\n\n\n But it might be less like a simple brake and more like a complicated, entirely unsolved puzzle. \n\n\n\n Some researchers are starting to look into how nations or companies would go about trying to cool the planet—and there’s a lot to figure out. My colleague James Temple dug into these engineering challenges in his  latest feature story . My biggest takeaway? T"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
+    "title": "The search for dark matter has been blown wide open",
+    "source": "MIT Technology Review",
+    "weight": 1.0,
+    "cluster": "ai-for-science",
+    "published": "2026-06-18T09:00:00+00:00",
+    "summary": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. \n\n\n\n Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought invisible substance whose gravity has sculpted our universe. \n\n\n\n The hope is that someday, a bit of dark matter called a weakly interacting massive particle (a WIMP, for short) will collide with a xenon atom, creating a burst of light and electric charge. After running for years, these experi"
+  },
+  {
+    "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+    "title": "SpaceX wants to build AI data centers in space. Will it work?",
+    "source": "Science Daily AI",
+    "weight": 1.0,
+    "cluster": "ai-for-science",
+    "published": "2026-06-19T03:43:09+00:00",
+    "summary": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges faced on Earth. Yet space remains a harsh and expensive place to operate, with major hurdles including cooling, maintenance, radiation exposure, and orbital debris."
+  }
+]
