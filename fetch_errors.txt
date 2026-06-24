@@ -1,0 +1,2 @@
+RSS error Microsoft AI Blog: Client error '410 Gone' for url 'https://blogs.microsoft.com/ai/feed/'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/410
