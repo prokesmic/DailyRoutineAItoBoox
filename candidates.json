@@ -1,0 +1,746 @@
+[
+  {
+    "url": "https://read.youreverydayai.com/p/ep-806-desktop-agent-lingo-simplified-goals-loops-plans-subagents-and-how-it-works-in-codex-and-clau",
+    "title": "Ep 806: Desktop Agent Lingo Simplified: Goals, Loops, Plans, Subagents and how it works in Codex and Claude Code",
+    "source": "Everyday AI",
+    "weight": 1.1,
+    "summary": "Report: White House thought Anthropic’s CEO was ‘weirdo’ in Fable discussions, Apple raising prices as AI chip demand drives up costs, Anthropic accuses Alibaba of model theft and more",
+    "published": "2026-06-25T15:22:45+00:00"
+  },
+  {
+    "url": "https://read.youreverydayai.com/p/ep-804-open-source-surge-does-glm-5-2-make-open-source-an-enterprise-priority-start-here-series-vol",
+    "title": "Ep 805: Codex Record and Replay: How to Teach an Agent Once Your Most Time-Consuming Workflows",
+    "source": "Everyday AI",
+    "weight": 1.1,
+    "summary": "OpenAI just unveiled its first AI chip, Meta launched a new line of AI glasses, NVIDIA is bringing AI agents into scientific research with BioNeMo and more",
+    "published": "2026-06-24T15:10:44+00:00"
+  },
+  {
+    "url": "https://read.youreverydayai.com/p/ep-803-anthropic-continues-fable-fight-microsoft-goes-open-source-midjourney-s-big-pivot-and-more-ai",
+    "title": "Ep 804: Open Source Surge? Does GLM-5.2 Make Open Source an Enterprise Priority? (Start Here Series Vol 29)",
+    "source": "Everyday AI",
+    "weight": 1.1,
+    "summary": "Claude expanding in the enterprise, Getty and ChatGPT make a deal, Anthropic brings Tag to Slack and more.",
+    "published": "2026-06-23T20:24:58+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/06/25/ai-174-youre-it",
+    "title": "AI #174: You’re It",
+    "source": "Zvi Mowshowitz",
+    "weight": 1.3,
+    "summary": "Fable remains in limbo, with renewed hope that we will get it back soon (45% by tomorrow, 69% by July 1, nice.) The full capabilities post is now available. Alex Bores unfortunately lost narrowly in NY-12, and will not be &#8230; Continue reading &#8594;",
+    "published": "2026-06-25T11:41:32+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/06/24/the-once-and-future-fable-4",
+    "title": "The Once And Future Fable #4",
+    "source": "Zvi Mowshowitz",
+    "weight": 1.3,
+    "summary": "It does look good, actually. After the odds had dropped quite a bit, they’re looking good again, with a 60% chance of restoration by July 1 and 88% by July 31, in the wake of groundwork looking like it is &#8230; Continue reading &#8594;",
+    "published": "2026-06-24T20:04:16+00:00"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/tech-interviews-with-neetcode",
+    "title": "Tech interviews with NeetCode",
+    "source": "Pragmatic Engineer",
+    "weight": 1.3,
+    "summary": "NeetCode shares his journey from Amazon and Google to building a startup, and why deep expertise still matters in the age of AI.",
+    "published": "2026-06-24T17:32:34+00:00"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/slow-down-to-speed-up",
+    "title": "Slow down to speed up: so much has changed in 6 months’ time",
+    "source": "Pragmatic Engineer",
+    "weight": 1.3,
+    "summary": "An overview of what&#8217;s changed in engineering during the last six months, how various tech companies are changing how they work, and why slowing down could be a sensible strategy",
+    "published": "2026-06-23T15:30:26+00:00"
+  },
+  {
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "title": "How agents are transforming work",
+    "source": "OpenAI",
+    "weight": 1.4,
+    "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "published": "2026-06-25T02:00:00+00:00"
+  },
+  {
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "source": "OpenAI",
+    "weight": 1.4,
+    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "published": "2026-06-24T06:00:00+00:00"
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "source": "OpenAI",
+    "weight": 1.4,
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "published": "2026-06-23T17:00:00+00:00"
+  },
+  {
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "source": "Google DeepMind",
+    "weight": 1.3,
+    "summary": "",
+    "published": "2026-06-24T16:30:01+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026",
+    "title": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
+    "source": "NVIDIA Blog",
+    "weight": 1.0,
+    "summary": "Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming. Plus, Dark Scrolls joins the growing Devolver lineup, alongside Square Enix’s The Adventures of Elliot: The Millennium Tales. They lead the [&#8230;]",
+    "published": "2026-06-25T13:00:34+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale",
+    "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
+    "source": "NVIDIA Blog",
+    "weight": 1.0,
+    "summary": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Amazon OpenSearch and Amazon EC2, NVIDIA AI infrastructure is giving enterprises more practical paths to deploy [&#8230;]",
+    "published": "2026-06-24T00:05:37+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "source": "Hugging Face",
+    "weight": 1.1,
+    "summary": "",
+    "published": "2026-06-26T00:00:00+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "title": "Which tokens does a hybrid model predict better?",
+    "source": "Hugging Face",
+    "weight": 1.1,
+    "summary": "",
+    "published": "2026-06-25T16:11:42+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "source": "Hugging Face",
+    "weight": 1.1,
+    "summary": "",
+    "published": "2026-06-24T16:00:13+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/ffasr-leaderboard",
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "source": "Hugging Face",
+    "weight": 1.1,
+    "summary": "",
+    "published": "2026-06-24T00:00:00+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-openai-reports-median-internal",
+    "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
+    "source": "Latent Space",
+    "weight": 1.3,
+    "summary": "It's happening.",
+    "published": "2026-06-26T01:12:30+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-its-meta-harness-summer",
+    "title": "[AINews] It's Meta-Harness Summer",
+    "source": "Latent Space",
+    "weight": 1.3,
+    "summary": "Move over, Harness Engineering, it is time for the harness of harnesses!",
+    "published": "2026-06-25T02:14:08+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/databricks",
+    "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
+    "source": "Latent Space",
+    "weight": 1.3,
+    "summary": "In a rare double-interview, the Databricks technical leaders riff on what it will take for every company to build Agent Clouds",
+    "published": "2026-06-24T18:53:16+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
+    "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
+    "source": "Latent Space",
+    "weight": 1.3,
+    "summary": "Claude finally gets a Slackbot upgrade",
+    "published": "2026-06-24T07:14:26+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
+    "title": "AI and Liability",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "AI and Liability Bruce Schneier on the recent German ruling that Google be held liable for errors introduced in their AI overviews: AI agents are agents of the person or organization that deploys them—and should be treated by the law as such. If a company hired human writers to write its summaries, that company would be liable for inaccuracies in those summaries. [...] To allow businesses to hide behind the excuse of faulty AI in those same circumstances would be a massive handout to companies, and would introduce disastrous incentives for corporate misbehavior. Why hire human writers, lawyers",
+    "published": "2026-06-25T22:28:46+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything",
+    "title": "datasette-export-database 0.3a2",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "Release: datasette-export-database 0.3a2 An embarrassingly tiny release. The pyproject.toml had pinned to datasette==1.0a27, inadvertently making this plugin incompatible with all other Datasette versions. It's now datasette&gt;=1.0a27 instead. Tags: datasette",
+    "published": "2026-06-25T17:21:09+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+    "title": "simonw/browser-compat-db",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "simonw/browser-compat-db Inspired by Mozilla's new MDN MCP service - source code here - I decided to try converting their comprehensive mdn/browser-compat-data repository full of browser compatibility data into a SQLite database. This new GitHub repo includes a Claude Code for web (Opus 4.8) generated script for doing that using sqlite-utils. I wanted the resulting ~66MB SQLite database to be available via the GitHub CDN with open CORS headers. GitHub releases don't have those, but any file stored in a regular GitHub repository does - so I had Codex Desktop (GPT-5.5) build a GitHub Actions wor",
+    "published": "2026-06-24T23:59:03+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+    "title": "Quoting Tom MacWright",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "In the last few months, I've started to see [job applications] that were clearly cowritten by an LLM, link to an LLM-generated portfolio site, which then links to LLM-generated GitHub projects, with purely LLM-generated commit messages. [...] My other reaction is that I don't know anything about these people. They haven't put themselves out there. They haven't said anything true. [...] The perfected, generated, prompted resume is generic and impersonal. It tells me nothing about this person, other than that they use particular tools. &mdash; Tom MacWright, Accidental anonymity Tags: careers, a",
+    "published": "2026-06-24T18:13:51+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
+    "title": "datasette 1.0a35",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "Release: datasette 1.0a35 I'll write more about this one soon, but it's a big release. Three highlights from the release notes: New \"Create table\" interface in the database actions menu, backed by the /&lt;database&gt;/-/create JSON API. It can define columns, primary keys, custom column types, NOT NULL constraints, literal defaults, expression defaults and single-column foreign keys. (#2787) New \"Alter table\" table action and /&lt;database&gt;/&lt;table&gt;/-/alter JSON API for changing existing tables: add, rename, reorder and drop columns; change column types, defaults, NOT NULLconstraints,",
+    "published": "2026-06-23T21:34:37+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+    "title": "OPFS + Pyodide test harness",
+    "source": "Simon Willison",
+    "weight": 1.2,
+    "summary": "Tool: OPFS + Pyodide test harness I've been pondering if Datasette Lite - the Python Datasette application run entirely in the browser using Pyodide and WebAssembly - might be able to edit persistent SQLite files stored on the user's computer. That's what OFPS (Origin Private File System) is for, so I had Claude Code for web build me this playground UI to try it out in different browsers. Tags: browsers, pyodide, datasette-lite",
+    "published": "2026-06-23T18:58:54+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/altman-wont-go-public-for-less-than-1-trillion-so-openais-ipo-may-slip-to-2027",
+    "title": "Altman won't go public for less than $1 trillion, so OpenAI's IPO may slip to 2027",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Advisors are telling OpenAI to hold off on going public until next year. The triggers: volatile tech markets and SpaceX's weak stock performance after its record IPO. SoftBank, one of OpenAI's biggest backers, lost 13 percent in a single day. The article Altman won&#039;t go public for less than $1 trillion, so OpenAI&#039;s IPO may slip to 2027 appeared first on The Decoder.",
+    "published": "2026-06-26T12:43:53+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow",
+    "title": "Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "\"Returns on intuition\": Why Anthropic no longer needs junior engineers and warns of an economic shock. The article Anthropic doesn&#039;t need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow appeared first on The Decoder.",
+    "published": "2026-06-26T11:18:07+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/linux-foundation-and-20-tech-giants-launch-akrites-to-fix-open-source-flaws-before-ai-powered-attacks-hit",
+    "title": "Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "About twenty tech companies, AI labs, and banks are joining forces through Akrites to fix vulnerabilities in critical open-source software before AI tools can exploit them. The article Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit appeared first on The Decoder.",
+    "published": "2026-06-26T10:07:05+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/openais-gpt-5-6-rollout-now-requires-us-government-approval-on-a-customer-by-customer-basis",
+    "title": "OpenAI's GPT 5.6 rollout now requires US government approval on a \"customer by customer basis\"",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "At the request of the U.S. government, OpenAI will initially make its new GPT-5.6 model available only to select partners, with access approved on a \"customer by customer\" basis. CEO Sam Altman says this isn't a \"preferred long term model.\" After the forced takedown of Anthropic's Fable, AI labs are afraid of a de facto licensing regime for AI models. The article OpenAI&#039;s GPT 5.6 rollout now requires US government approval on a &quot;customer by customer basis&quot; appeared first on The Decoder.",
+    "published": "2026-06-26T08:35:35+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception",
+    "title": "Most major AI chatbots still lean left on political questions, even \"anti-woke\" models are no exception",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "A Washington Post investigation shows that most major AI chatbots still skew left on political questions. OpenAI's GPT-5.5 gave exclusively left-leaning arguments 80 percent of the time, and even Musk's Grok, marketed as anti-\"woke,\" leaned left more often than not. The one outlier: Google's Gemini 3.1 Pro presented both sides 93 percent of the time. The article Most major AI chatbots still lean left on political questions, even &quot;anti-woke&quot; models are no exception appeared first on The Decoder.",
+    "published": "2026-06-25T16:04:32+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/insurers-turn-to-generative-ai-for-catastrophe-modeling-but-hallucinations-and-sales-logic-could-get-in-the-way",
+    "title": "Insurers turn to generative AI for catastrophe modeling, but hallucinations and sales logic could get in the way",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Diffusion models generate tens of thousands of plausible weather events where historical data doesn't exist. Insurers are hoping for more precise risk assessments. Researchers warn about hallucinations. The article Insurers turn to generative AI for catastrophe modeling, but hallucinations and sales logic could get in the way appeared first on The Decoder.",
+    "published": "2026-06-25T14:13:14+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/grok-ai-is-reportedly-a-porn-platform-now-with-over-half-its-traffic-tied-to-adult-content",
+    "title": "Grok AI is reportedly a porn platform now, with over half its traffic tied to adult content",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Two former xAI employees estimate that porn accounts for well over half of all Grok traffic. xAI is leaning into it, while OpenAI, Anthropic, and Google won't touch adult content. The article Grok AI is reportedly a porn platform now, with over half its traffic tied to adult content appeared first on The Decoder.",
+    "published": "2026-06-25T13:40:46+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/authors-guild-test-finds-some-ai-detectors-perfectly-identify-human-writing-while-others-fail-on-every-single-text",
+    "title": "Authors Guild test finds some AI detectors perfectly identify human writing while others fail on every single text",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "The Authors Guild tested five AI detectors on human-written texts. Pangram and Grammarly correctly identified all of them, while Sidekicker and ZeroGPT flagged human-written articles as AI-generated. But the Guild also warns of a paradox: professionally written texts look statistically similar to AI output because language models were trained on exactly that kind of writing. The article Authors Guild test finds some AI detectors perfectly identify human writing while others fail on every single text appeared first on The Decoder.",
+    "published": "2026-06-25T11:21:37+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast",
+    "title": "Meta employees warn AI moderation rollout is too fast",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "By 2025, Meta will have already replaced about half of all human moderation requests with large language models and aims to increase that percentage to over 90 percent for certain types of content by the end of the year. The article Meta employees warn AI moderation rollout is too fast appeared first on The Decoder.",
+    "published": "2026-06-25T10:07:19+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/google-keeps-losing-top-ai-researchers-to-rivals",
+    "title": "Google keeps losing top AI researchers to rivals",
+    "source": "The Decoder",
+    "weight": 0.9,
+    "summary": "Google appears to be hemorrhaging key AI researchers to competitors. The article Google keeps losing top AI researchers to rivals appeared first on The Decoder.",
+    "published": "2026-06-25T10:04:32+00:00"
+  },
+  {
+    "url": "https://tldr.tech/ai/2026-06-25",
+    "title": "Jalapeño chip 🌶️, Anthropic accuses Alibaba ⚖️, Gemini computer use 🖥️",
+    "source": "TLDR AI",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-25T00:00:00+00:00"
+  },
+  {
+    "url": "https://tldr.tech/ai/2026-06-24",
+    "title": "Claude Tag 💬, Seedance 2.5 🎥, Mistral OCR 4 🧠",
+    "source": "TLDR AI",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-24T00:00:00+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai",
+    "title": "An Interview with Figma CEO Dylan Field About Design and AI",
+    "source": "Stratechery",
+    "weight": 1.4,
+    "summary": "An interview with Figma CEO Dylan Field about building Figma, and why he believes AI gives the company a tailwind.",
+    "published": "2026-06-25T10:00:00+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways",
+    "title": "My Vibe Coding Adventure, The App and the Experience, Ten Takeaways",
+    "source": "Stratechery",
+    "weight": 1.4,
+    "summary": "My experience and reflections on vibe coding an app that I plan on actually using regularly.",
+    "published": "2026-06-24T10:00:00+00:00"
+  },
+  {
+    "url": "https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude",
+    "title": "GLM 5.2: why I’m replacing Opus in Claude Code with this new model",
+    "source": "Lenny's Newsletter",
+    "weight": 1.1,
+    "summary": "Watch now | &#127897;&#65039;I ran GLM-5.2, the open-weight model from Z.AI, through codebase audits, UI redesigns, and a 45-minute autonomous bug-hunting task in Cursor and Claude Code, and it cost me $3.36",
+    "published": "2026-06-24T12:03:52+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/works-in-progress-grid-connection-auctions.html",
+    "title": "Works in Progress: Grid Connection Auctions",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "The latest issue of Works in Progress is superb. Every article is interesting. Chris Gillett points out something surprising: the US has plenty of electricity generation capacity ready to go, the problem is connecting it to the grid. Grid connection is complicated because on the grid, supply must equal demand at every moment in time. [&#8230;] The post Works in Progress: Grid Connection Auctions appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-26T11:22:26+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/aaron-levie-on-current-implicit-ai-regulation.html",
+    "title": "Aaron Levie on current implicit AI regulation",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "We now have de facto AI regulation. It’s not obvious why from here on out models that have certain levels of capability or are trained on certain compute sizes won’t have to be reviewed by the government before release. Realistically, as AI models became more and more powerful this was going to be inevitable (I [&#8230;] The post Aaron Levie on current implicit AI regulation appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-26T06:10:38+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/does-fasting-harm-cognitive-performance.html",
+    "title": "Does fasting harm cognitive performance?",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "More than 2 billion people participate annually in Ramadan fasting, making its potential effects on cognitive performance important for workplaces, education and high-stakes decision-making. We study these effects in tournament chess, an incentivised, real-world cognitive task in which move quality can be evaluated objectively by a strong chess engine. We analyse nearly 300,000 games and more [&#8230;] The post Does fasting harm cognitive performance? appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-26T04:51:04+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/cricket-and-the-railways.html",
+    "title": "Cricket and the railways",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "Railways are a golden thread in the history of cricket, making national competition possible in every current Test-playing nation (with the exceptino of the West Indies and Afghanistan). In later years, we will see railway workers as exporters of cricket to Scotland and Wales and beyond to Britain&#8217;s formal and informal commercial empires. We will [&#8230;] The post Cricket and the railways appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-25T18:15:37+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/thursday-assorted-links-558.html",
+    "title": "Thursday assorted links",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "1. AI agents are sensitive to nudges. 2. Is it London brutalism if it has plants? 3. The Russian stock market. 4. Which states are trying to deny AI personhood? 5. Chinese political lookism? 6. Recommended songs from the 1960s. 7. Bryan Caplan on UATX. 8. Lawsuit on Fable 5 issues. The post Thursday assorted links appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-25T16:25:29+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/more-firms-more-dynamism.html",
+    "title": "New Business Formation is Surging–Again.",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "New business formation is surging&#8211;again. Business formation first jumped in 2020 as the pandemic reorganized work, shopping and logistics. After the pandemic ended, business formation leveled off, but it did not return to its old path. It remained historically high. Moreover, in the past 18 months or so business formation has surged again. Registered Agents [&#8230;] The post New Business Formation is Surging&#8211;Again. appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-25T11:21:24+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/i-am-told-james-mill-is-buried-there-also.html",
+    "title": "I am told James Mill is buried there also",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "St. Mary&#8217;s Abbot&#8217;s Church in Kensington. The post I am told James Mill is buried there also appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-25T06:50:18+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/translated-from-the-chinese.html",
+    "title": "Translated from the Chinese",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "I think this is the Cursor moment for academia. The Stanford REAP team has made their move, http://CoPaper.AI is mass-terminating the manual labor of traditional empirical papers. Link: https://copaper.ai/landing If using large models to write papers before was just about polishing and compiling references for you, then this Project from Professor Ross Griebenow&#8217;s team at [&#8230;] The post Translated from the Chinese appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-25T04:21:43+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/what-should-the-uap-scientific-advisory-board-do.html",
+    "title": "What should the UAP Scientific Advisory Board do?",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "There are more and more frauds, charlatans, and lunatics entering this area of inquiry. It is important to stay disciplined on data-driven questions, most importantly to what extent are released (and unreleased) videos backed by radar, satellite, eyewitness and other forms of confirming evidence? By confirming, I do not mean &#8220;confirming they are aliens,&#8221; rather [&#8230;] The post What should the UAP Scientific Advisory Board do? appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-24T18:03:12+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/wednesday-assorted-links-559.html",
+    "title": "Wednesday assorted links",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "1. From my colleague Jonathan Beauchamp. 2. Why is China still exporting T-shirts? 3. Greenspan and Keynes crossed paths in 1944. Clarinet! 4. Robert Shiller opposes AI negativity (NYT). 5. The opportunity cost of Trae is really not that large. Think in terms of opportunity cost here, not &#8220;cost.&#8221; By the time the Wizards need [&#8230;] The post Wednesday assorted links appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-24T16:02:51+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/glp-1-drugs-and-marriage.html",
+    "title": "GLP-1 drugs and marriage",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "GLP-1 medications generate large weight loss and may also alter social and economic outcomes. Using the Understanding America Study, I compare women starting GLP-1s for weight loss with matched women who would like to start a GLP-1 but have not. Single women’s marriage/cohabitation rates rise by 29 percentage points and employment among baseline non-employed women [&#8230;] The post GLP-1 drugs and marriage appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-24T06:25:04+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/emergent-ventures-winners-55th-cohort.html",
+    "title": "Emergent Ventures winners, 55th cohort",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "Aliaksandr Melnichenka, Belarus/Kentucky, to support science and math writing. Guilherme Pinho, Sao Paulo, real estate titling and transactions in Brazil. Diyar Zhakpelov, Astana, Kazakhstan, 17, exam prep app for Kazakhs, general career support. Randy Chang, AI policy writings, Ontario/Chapel Hill. Jesse Casana, Dartmouth, archaeology tranche, “Drone-acquired synthetic aperture radar (SAR), a novel and experimental technology, [&#8230;] The post Emergent Ventures winners, 55th cohort appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-24T05:17:02+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/tuesday-assorted-links-574.html",
+    "title": "Tuesday assorted links",
+    "source": "Marginal Revolution",
+    "weight": 1.0,
+    "summary": "1. This paper was presented 57 different times!? Is that good or bad? 2. Benny Goodman and Lionel Hampton doing &#8220;I Got Rhythm.&#8221; 3. Claims about advancements in cancer testing. 4. Reconstructing Welles&#8217;s Don Quixote? 5. The obesity penalty in political elections. 6. Zvi on GLM-5.2. 7. New work by Mozart. And more information here. [&#8230;] The post Tuesday assorted links appeared first on Marginal REVOLUTION.",
+    "published": "2026-06-23T16:46:01+00:00"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era",
+    "title": "Repositioning retail for the AI era",
+    "source": "MIT Tech Review AI",
+    "weight": 1.1,
+    "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;",
+    "published": "2026-06-25T14:22:59+00:00"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai",
+    "title": "The emergence of the web data infrastructure layer for AI",
+    "source": "MIT Tech Review AI",
+    "weight": 1.1,
+    "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;",
+    "published": "2026-06-24T11:59:54+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns",
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+    "published": "2026-06-25T23:34:39+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents",
+    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+    "published": "2026-06-25T20:19:25+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt",
+    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+    "published": "2026-06-25T17:38:27+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world",
+    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+    "published": "2026-06-25T16:55:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x",
+    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+    "published": "2026-06-25T16:48:11+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster",
+    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+    "published": "2026-06-25T14:55:38+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit",
+    "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
+    "published": "2026-06-25T14:00:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs",
+    "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
+    "published": "2026-06-25T13:30:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment",
+    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+    "published": "2026-06-25T12:00:38+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war",
+    "title": "Europe is pushing back on Washington’s chip war",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
+    "published": "2026-06-25T00:08:36+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world",
+    "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+    "published": "2026-06-24T23:26:52+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood",
+    "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+    "published": "2026-06-24T22:41:41+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient",
+    "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+    "published": "2026-06-24T21:56:41+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals",
+    "title": "AI researchers continue to leave Google for its rivals",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+    "published": "2026-06-24T21:42:07+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company",
+    "title": "The memory chip crunch is paying off for this US company",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
+    "published": "2026-06-24T21:30:55+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks",
+    "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+    "published": "2026-06-24T20:09:45+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators",
+    "title": "Facebook rolls out an AI companion app for creators",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+    "published": "2026-06-24T17:16:24+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal",
+    "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+    "published": "2026-06-24T16:48:43+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update",
+    "title": "Figma adds code layers, support for animations, more AI features in new update",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
+    "published": "2026-06-24T16:15:00+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom",
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "source": "TechCrunch AI",
+    "weight": 0.9,
+    "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
+    "published": "2026-06-24T14:54:46+00:00"
+  },
+  {
+    "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+    "title": "Why current LLM costs are not sustainable",
+    "source": "HN (97 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-26T07:44:11+00:00"
+  },
+  {
+    "url": "https://www.fernandoi.cl/posts/hackmyclaw",
+    "title": "What happened after 2k people tried to hack my AI assistant",
+    "source": "HN (223 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-26T02:29:23+00:00"
+  },
+  {
+    "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+    "title": "AI children's books, body horror edition",
+    "source": "HN (191 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-26T01:15:14+00:00"
+  },
+  {
+    "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators",
+    "title": "Un-0: Generating Images with Coupled Oscillators",
+    "source": "HN (162 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-25T20:50:02+00:00"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead",
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+    "source": "HN (288 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-25T17:38:44+00:00"
+  },
+  {
+    "url": "https://github.com/inkeep/open-knowledge",
+    "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+    "source": "HN (301 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-25T16:04:46+00:00"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+    "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
+    "source": "HN (589 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-25T14:58:50+00:00"
+  },
+  {
+    "url": "https://trakkr.ai/bias",
+    "title": "Political bias in AI: Where the AI models stand",
+    "source": "HN (153 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-25T13:08:31+00:00"
+  },
+  {
+    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+    "title": "Zig's new bitCast semantics and LLVM back end improvements",
+    "source": "HN (249 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-25T14:19:28+00:00"
+  },
+  {
+    "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56",
+    "title": "US Govt to individually approve who gets GPT 5.6",
+    "source": "HN (104 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-26T06:24:39+00:00"
+  },
+  {
+    "url": "https://graphicore.github.io/librebarcode",
+    "title": "Libre Barcode Project",
+    "source": "HN (201 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-26T03:12:42+00:00"
+  },
+  {
+    "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+    "title": "Parallel Parentheses Matching",
+    "source": "HN (102 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-25T20:12:24+00:00"
+  },
+  {
+    "url": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates",
+    "title": "Windows 10 quietly gets one more year of support and updates",
+    "source": "HN (240 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-25T15:59:54+00:00"
+  },
+  {
+    "url": "https://scrollprize.org/firstscroll",
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "source": "HN (1402 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-25T15:48:07+00:00"
+  },
+  {
+    "url": "https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html",
+    "title": "Federal agents track down woman, demand she remove Instagram post about ICE",
+    "source": "HN (205 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-25T14:16:17+00:00"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+    "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
+    "source": "HN (114 pts)",
+    "weight": 1.0,
+    "summary": "",
+    "published": "2026-06-25T20:36:05+00:00"
+  }
+]
