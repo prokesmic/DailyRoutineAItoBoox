@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+candidates.json
+selected.json
+out/
+.venv/
+.env
+*.log
+com.prokesmic.aidaily.plist
