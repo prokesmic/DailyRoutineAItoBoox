@@ -1,5 +1,77 @@
 [
   {
+    "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://www.latent.space/p/cursor-forward-deployed-engineers",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/07/01/claude-sonnet-5-is-not-frontier-but-has-its-uses",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://www.latent.space/p/software-factories",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/how-kent-beck-shapes-the-software",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://senior-swe-bench.snorkel.ai",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2510.24670",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://www.genesis.ml/news/introducing-pearl",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://www.genesis.ml/news/zero-shot-pearl-system-surpasses-all-cofolding-models-on-openbind",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://agilealliance.org/agile101/the-agile-manifesto",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-07-02_1508.html",
+    "shipped_at": "2026-07-02T13:14:26Z"
+  },
+  {
     "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
     "shipped_at": "2026-07-01T13:16:25Z"
   },
@@ -578,73 +650,5 @@
   {
     "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/intelligent-tesla-xfw0iq/briefs/AI_Daily_2026-06-19_1508.html",
     "shipped_at": "2026-06-19T13:09:24Z"
-  },
-  {
-    "url": "https://huggingface.co/radical-ai",
-    "shipped_at": "2026-06-18T13:14:22Z"
-  },
-  {
-    "url": "https://arxiv.org/abs/2602.00376",
-    "shipped_at": "2026-06-18T13:14:21Z"
-  },
-  {
-    "url": "https://arxiv.org/abs/2508.06628",
-    "shipped_at": "2026-06-18T13:14:21Z"
-  },
-  {
-    "url": "https://github.com/torchsim/torch-sim",
-    "shipped_at": "2026-06-18T13:14:20Z"
-  },
-  {
-    "url": "https://www.hyperdimensional.co/p/leviathan-waking",
-    "shipped_at": "2026-06-18T13:14:20Z"
-  },
-  {
-    "url": "https://jessicatillipman.com/absolute-discretion-is-not-deregulation-what-the-latest-directive-against-anthropic-reveals-about-federal-ai-governance/",
-    "shipped_at": "2026-06-18T13:14:20Z"
-  },
-  {
-    "url": "https://www.bloomberg.com/news/articles/2026-06-16/read-the-lutnick-letter-that-led-anthropic-to-disable-mythos",
-    "shipped_at": "2026-06-18T13:14:19Z"
-  },
-  {
-    "url": "https://www.lutasecurity.com/post/the-fable-5-export-controls-harm-us-cyber-defense",
-    "shipped_at": "2026-06-18T13:14:18Z"
-  },
-  {
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/ai-native-firms.html",
-    "shipped_at": "2026-06-18T13:13:02Z"
-  },
-  {
-    "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-    "shipped_at": "2026-06-18T13:13:02Z"
-  },
-  {
-    "url": "https://www.lennysnewsletter.com/p/how-to-design-ai-agent-loops-schedules",
-    "shipped_at": "2026-06-18T13:13:01Z"
-  },
-  {
-    "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents",
-    "shipped_at": "2026-06-18T13:13:01Z"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
-    "shipped_at": "2026-06-18T13:13:00Z"
-  },
-  {
-    "url": "https://www.latent.space/p/radical-ai",
-    "shipped_at": "2026-06-18T13:13:00Z"
-  },
-  {
-    "url": "https://thezvi.wordpress.com/2026/06/17/the-once-and-future-fable-3-fix-this-code",
-    "shipped_at": "2026-06-18T13:12:59Z"
-  },
-  {
-    "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off",
-    "shipped_at": "2026-06-18T13:12:59Z"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-06-18_1510.html",
-    "shipped_at": "2026-06-18T13:12:19Z"
   }
 ]
