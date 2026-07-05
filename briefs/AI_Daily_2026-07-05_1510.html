@@ -1,0 +1,73 @@
+<html><head><meta charset="utf-8"><title>AI Daily — 2026-07-05_1510</title>
+<style>body{font-family:Georgia,serif;line-height:1.55;max-width:680px;margin:2em auto;padding:0 1em}
+h1{font-size:1.6em} h3{margin:1.5em 0 .2em;font-size:1.1em}
+.meta{color:#666;font-size:.9em;font-style:italic}
+.blurb{color:#333;margin:.3em 0 .5em}
+.editor{border-left:3px solid #888;padding:.4em 0 .4em 1em;margin:1.2em 0}
+a{color:#000}</style></head><body>
+<h1>AI Daily — Sunday, 5 July 2026 15:10 (Prague)</h1>
+<div class="editor">
+<p>Today's strongest thread is governance catching up to deployment. Two Claude Code security and workforce stories — a possible session-leakage bug across workspaces, and Alibaba reportedly barring staff from the tool — sit next to a 26,000-student study showing AI's exam-score cost only surfaces two years out. Read together, they're the same warning: adoption is outrunning the ability to verify it is safe.</p>
+<p>Three pieces track the agentic-systems build-out from different angles: Vercel's software chief on agents as a new software category, an AIEWF talk making the case that one-shot AI design still needs human judgment, and new DiscoBench data showing search agents fail by not asking clarifying questions — a concrete failure mode, not hype.</p>
+<p>Zvi's weekly digest is this week's densest single link, spanning deepfakes to job automation, with OpenAI's GeneBench-Pro the sharpest pharma-adjacent signal. Elsewhere: Mistral ships an open-weight math model that found real bugs in 57 repos — a hard data point against the "open models can't compete" narrative — and a builder itemizes exactly what a Claude-Fable-driven OSS release costs in tokens.</p>
+</div><hr/>
+<h3>1. AI #175: The Fable Continues</h3>
+<div class="meta">Zvi Mowshowitz · citations to follow</div>
+<p class="blurb">Zvi's weekly digest spans deepfakes to job automation, anchored by OpenAI's GeneBench-Pro biology benchmark — the sharpest pharma-adjacent AI-for-science signal this week.</p>
+<p><a href="https://thezvi.wordpress.com/2026/07/02/ai-175-the-fable-continues">Read source →</a></p>
+
+<h3>2. Vercel's Andrew Qu on why agents are a new kind of software</h3>
+<div class="meta">Latent Space · citations to follow</div>
+<p class="blurb">Vercel's software chief explains why agent frameworks like eve require rethinking skills, sandboxes, and agent-readable interfaces as new software primitives.</p>
+<p><a href="https://www.latent.space/p/vercel-agents-new-software">Read source →</a></p>
+
+<h3>3. Skill engineering and the case against one-shot AI design</h3>
+<div class="meta">Latent Space · citations to follow</div>
+<p class="blurb">AIEWF's Paul Bakaus argues against one-shot AI design, making the case that agents still need human judgment and iterative skill engineering.</p>
+<p><a href="https://www.latent.space/p/skill-engineering-design">Read source →</a></p>
+
+<h3>4. sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)</h3>
+<div class="meta">Simon Willison</div>
+<p class="blurb">Willison ships a major OSS release almost entirely via Claude Fable, itemizing the token cost at $149.25 — real economics for agentic coding.</p>
+<p><a href="https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything">Read source →</a></p>
+
+<h3>5. Understand to participate</h3>
+<div class="meta">Simon Willison</div>
+<p class="blurb">A framework for avoiding cognitive debt when agents write code you don't fully track — critical for governing agentic deployment at scale.</p>
+<p><a href="https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything">Read source →</a></p>
+
+<h3>6. Potential session/cache leakage between workspace instances or consumer accounts</h3>
+<div class="meta">HN (307 pts)</div>
+<p class="blurb">A live GitHub issue reports possible session or cache leakage between Claude Code workspaces — a governance red flag for any regulated deployment.</p>
+<p><a href="https://github.com/anthropics/claude-code/issues/74066">Read source →</a></p>
+
+<h3>7. AI has torched the market for junior programmers</h3>
+<div class="meta">HN (92 pts)</div>
+<p class="blurb">A sharp account of how AI coding tools have collapsed entry-level developer hiring, with direct implications for workforce planning.</p>
+<p><a href="https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers">Read source →</a></p>
+
+<h3>8. GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance</h3>
+<div class="meta">HN (316 pts)</div>
+<p class="blurb">An OpenAI Codex GitHub issue documents reasoning-token clustering that degrades output quality — a concrete agentic-coding failure mode worth tracking.</p>
+<p><a href="https://github.com/openai/codex/issues/30364">Read source →</a></p>
+
+<h3>9. A 26,000-student study shows AI's hidden learning cost takes two full years to surface</h3>
+<div class="meta">The Decoder</div>
+<p class="blurb">A 26,000-student study finds AI users score worse on exams, with the deficit surfacing only after two years — a warning for AI fluency programs.</p>
+<p><a href="https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface">Read source →</a></p>
+
+<h3>10. AI search agents don't fail at searching, they fail at asking the right questions when queries get ambiguous</h3>
+<div class="meta">The Decoder</div>
+<p class="blurb">New DiscoBench results show AI search agents fail not at searching but at knowing when to ask clarifying questions, capping accuracy near 50%.</p>
+<p><a href="https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous">Read source →</a></p>
+
+<h3>11. Alibaba reportedly bans employees from using Claude Code</h3>
+<div class="meta">TechCrunch AI</div>
+<p class="blurb">Alibaba reportedly bars staff from Claude Code, a concrete data point in the hardening split between Chinese and Western enterprise AI tooling.</p>
+<p><a href="https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code">Read source →</a></p>
+
+<h3>12. Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches real bugs in code</h3>
+<div class="meta">The Decoder</div>
+<p class="blurb">Mistral's open-weight Leanstral 1.5 aces formal math benchmarks and found five real bugs across 57 open-source repos — reproducible and verifiable.</p>
+<p><a href="https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code">Read source →</a></p>
+</body></html>
