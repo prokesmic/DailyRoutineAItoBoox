@@ -1,5 +1,73 @@
 [
   {
+    "url": "https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/zuckerbergs-plan-to-sell-excess-ai-compute-could-finds-its-first-big-customer-in-anthropic",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
+    "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
+    "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-groks-cli-caught-uploading",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/07/17/ai-177-part-2-wish-you-were-here",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
+    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
+    "url": "https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/research/claude-values-models-languages",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
+    "url": "https://blog.cosmos-institute.org/p/the-construction-of-moral-character",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
+    "url": "https://www.goodfire.ai/research/rlfr#",
+    "shipped_at": "2026-07-18T13:21:05.669313+00:00"
+  },
+  {
     "url": "https://thezvi.wordpress.com/2026/07/16/ai-177-part-1-tip-of-the-iceberg",
     "shipped_at": "2026-07-17T13:15:00.759570+00:00"
   },
@@ -394,93 +462,5 @@
   {
     "url": "https://science.org/doi/10.1126/science.aan8871",
     "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-07-03_1512.html",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://thezvi.wordpress.com/2026/06/30/the-once-and-future-fable-5",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://metr.org/time-horizons/",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://cdn.sanity.io/files/4zrzovbb/website/b93c7465925dc052b9102209b29b58f11df4fe55.pdf",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2510.24670",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://www.genesis.ml/news/introducing-pearl",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://www.genesis.ml/news/zero-shot-pearl-system-surpasses-all-cofolding-models-on-openbind",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://www.hyperdimensional.co/p/what-should-be-done",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
-  },
-  {
-    "url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act",
-    "shipped_at": "2026-07-03T13:15:38.640835+00:00"
   }
 ]
