@@ -1,5 +1,69 @@
 [
   {
+    "url": "https://thezvi.wordpress.com/2026/07/23/ai-178-a-fire-alarm-for-general-intelligence",
+    "shipped_at": "2026-07-24T13:20:58.480322+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
+    "shipped_at": "2026-07-24T13:20:58.480322+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable",
+    "shipped_at": "2026-07-24T13:20:58.480322+00:00"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-quitting-spotify-podcasts",
+    "shipped_at": "2026-07-24T13:20:58.480322+00:00"
+  },
+  {
+    "url": "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
+    "shipped_at": "2026-07-24T13:20:58.480322+00:00"
+  },
+  {
+    "url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "shipped_at": "2026-07-24T13:20:58.480322+00:00"
+  },
+  {
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "shipped_at": "2026-07-24T13:20:58.480322+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models",
+    "shipped_at": "2026-07-24T13:20:58.480322+00:00"
+  },
+  {
+    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+    "shipped_at": "2026-07-24T13:20:58.480322+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source",
+    "shipped_at": "2026-07-24T13:20:58.480322+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+    "shipped_at": "2026-07-24T13:20:58.480322+00:00"
+  },
+  {
+    "url": "https://read.youreverydayai.com/p/ep-822-kimi-k3-surprises-gemini-3-5-pro-delayed-again-microsoft-ceo-reportedly-criticizes-anthropic",
+    "shipped_at": "2026-07-24T13:20:58.480322+00:00"
+  },
+  {
+    "url": "https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
+    "shipped_at": "2026-07-24T13:20:58.480322+00:00"
+  },
+  {
+    "url": "https://metr.org/blog/2026-07-21-expenditure-horizon/",
+    "shipped_at": "2026-07-24T13:20:58.480322+00:00"
+  },
+  {
+    "url": "https://techgov.intelligence.org/blog/new-report-an-international-agreement-to-prevent-the-premature-creation-of-artificial-superintelligence",
+    "shipped_at": "2026-07-24T13:20:58.480322+00:00"
+  },
+  {
+    "url": "https://globalnobelassembly.org/rome-declaration",
+    "shipped_at": "2026-07-24T13:20:58.480322+00:00"
+  },
+  {
     "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
     "shipped_at": "2026-07-23T13:15:13.330707+00:00"
   },
@@ -462,93 +526,5 @@
   {
     "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
     "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-07-10_1511.html",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://openai.com/index/deutsche-telekom",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://openai.com/index/bio-bug-bounty",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/databricks-makes-chinese-open-source-model-glm-5-2-its-default-coding-engine-after-it-matched-opus-at-lower-cost",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://www.latent.space/p/modal2026",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://thezvi.wordpress.com/2026/07/07/no-space-like-j-space",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://bun.com/blog/bun-in-rust",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2510.04618",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2603.28052",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://huggingface.co/collections/tencent/hy3",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://transformer-circuits.pub/2026/workspace/index.html",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://www.lesswrong.com/posts/3PaLrzxagpbnNtPLT/a-global-workspace-in-language-models",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://transformer-circuits.pub/2026/emotions/index.html",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
-  },
-  {
-    "url": "https://science.org/doi/10.1126/science.aan8871",
-    "shipped_at": "2026-07-10T13:14:31+00:00"
   }
 ]
