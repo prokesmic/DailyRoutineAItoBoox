@@ -1,5 +1,69 @@
 [
   {
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "shipped_at": "2026-07-25T13:20:10.685998+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents",
+    "shipped_at": "2026-07-25T13:20:10.685998+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
+    "shipped_at": "2026-07-25T13:20:10.685998+00:00"
+  },
+  {
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+    "shipped_at": "2026-07-25T13:20:10.685998+00:00"
+  },
+  {
+    "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+    "shipped_at": "2026-07-25T13:20:10.685998+00:00"
+  },
+  {
+    "url": "https://read.youreverydayai.com/p/ep-825-new-openai-presence-has-the-ai-customer-service-takeover-finally-arrived",
+    "shipped_at": "2026-07-25T13:20:10.685998+00:00"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+    "shipped_at": "2026-07-25T13:20:10.685998+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors",
+    "shipped_at": "2026-07-25T13:20:10.685998+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m",
+    "shipped_at": "2026-07-25T13:20:10.685998+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage",
+    "shipped_at": "2026-07-25T13:20:10.685998+00:00"
+  },
+  {
+    "url": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
+    "shipped_at": "2026-07-25T13:20:10.685998+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/the-copium-wars",
+    "shipped_at": "2026-07-25T13:20:10.685998+00:00"
+  },
+  {
+    "url": "https://www.reuters.com/business/amd-invest-up-5-billion-anthropic-wsj-reports-2026-07-22",
+    "shipped_at": "2026-07-25T13:20:10.685998+00:00"
+  },
+  {
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "shipped_at": "2026-07-25T13:20:10.685998+00:00"
+  },
+  {
+    "url": "https://www.alibabacloud.com/blog/qwen-image-3-0-rich-content-authentic-details-deep-knowledge_603385",
+    "shipped_at": "2026-07-25T13:20:10.685998+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer",
+    "shipped_at": "2026-07-25T13:20:10.685998+00:00"
+  },
+  {
     "url": "https://thezvi.wordpress.com/2026/07/23/ai-178-a-fire-alarm-for-general-intelligence",
     "shipped_at": "2026-07-24T13:20:58.480322+00:00"
   },
@@ -462,69 +526,5 @@
   {
     "url": "https://www.lesswrong.com/posts/kYeHbXmW4Kppfkg5j/on-maim-and-superintelligence-strategy",
     "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-07-11_1508.html",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://openai.com/index/government-national-security-partnerships",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-ama",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://developer.meta.com/ai/resources/blog/build-with-muse-spark/",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
   }
 ]
