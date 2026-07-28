@@ -1,5 +1,73 @@
 [
   {
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-much-ado-about-open-weights",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
+    "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/07/26/more-on-an-internal-openai-model-hacking-into-huggingface",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
+    "url": "https://read.youreverydayai.com/p/ep-826-chatgpt-goes-jarvis-mode-claude-can-learn-from-you-google-unleashes-spark-agent-and-7-more-ai",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/how-the-futuristic-hack-by-rogue-openai-models-unfolded-1657bcea",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
+    "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
+    "url": "https://deploymentsafety.openai.com/gpt-5-6",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
+    "url": "https://time.com/article/2026/07/24/openai-hugging-face-attack/",
+    "shipped_at": "2026-07-28T13:15:07.219992+00:00"
+  },
+  {
     "url": "https://thezvi.wordpress.com/2026/07/23/ai-178-a-fire-alarm-for-general-intelligence",
     "shipped_at": "2026-07-24T13:20:58.480322+00:00"
   },
@@ -394,137 +462,5 @@
   {
     "url": "https://impeccable.style/",
     "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-07-13_1512.html",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://thezvi.wordpress.com/2026/07/11/introduction-for-and-reactions-to-plan-a",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/claude-coworks-biggest-use-case-is-the-mundane-office-work-nobody-wants-to-own-anthropic-says",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://ai-2040.com/",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://www.astralcodexten.com/p/introducing-plan-a",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://www.mindthefuture.info/p/selective-optimism-a-critique-of",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://www.lesswrong.com/posts/kYeHbXmW4Kppfkg5j/on-maim-and-superintelligence-strategy",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-07-11_1508.html",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://openai.com/index/government-national-security-partnerships",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-ama",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://developer.meta.com/ai/resources/blog/build-with-muse-spark/",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
-  },
-  {
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-    "shipped_at": "2026-07-11T13:11:41.106+00:00"
   }
 ]
