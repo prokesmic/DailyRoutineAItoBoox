@@ -1,5 +1,89 @@
 [
   {
+    "url": "https://thezvi.wordpress.com/2026/07/28/claude-opus-5-is-highly-capable-but-is-no-mythos",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/inside-anthropic",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/amazon-reportedly-scales-back-its-nova-ai-models-and-bets-on-a-new-frontier-research-team",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://www-cdn.anthropic.com/c5fbac3f0b1280a933ebd26d3cb8bb9f5bdeaf48/Claude%20Opus%205%20System%20Card.pdf#page=73",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://www.frontierbench.ai/",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://artificialanalysis.ai/evaluations/gdpval-aa",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/managed-agents",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://bun.com/blog/bun-in-rust",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://github.com/oven-sh/bun/pull/34144",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
+    "url": "https://hfviewer.com/moonshotai/Kimi-K3",
+    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
+  },
+  {
     "url": "https://www.anthropic.com/news/position-open-weights-models",
     "shipped_at": "2026-07-28T13:15:07.219992+00:00"
   },
@@ -374,93 +458,5 @@
   {
     "url": "https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/",
     "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-07-15_1512.html",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://thezvi.wordpress.com/2026/07/13/better-call-sol-the-workhorse",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://www.latent.space/p/aiewf26trends",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://www.bis.org/publ/bisbull120.pdf",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/deepmind-ceo-hassabis-says-nobody-in-the-world-knows-what-happens-next-so-cautious-optimism-means-building-guardrails-now",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/meta-employees-sue-over-layoffs-they-say-were-driven-by-discriminatory-ai-selection-systems",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://www.ayush.digital/blog/the-memory-heist",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://github.com/openai/cdc-lean",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://openai.com/index/gpt-5-6/",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://ghuntley.com/ralph/",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=_IK18goX4X8",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://developers.openai.com/cookbook/examples/codex/using_goals_in_codex",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://addyosmani.com/blog/loop-engineering/",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://lilianweng.github.io/posts/2023-06-23-agent/",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://github.com/addyosmani/agent-skills",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://impeccable.style/",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
   }
 ]
