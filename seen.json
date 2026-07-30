@@ -1,5 +1,77 @@
 [
   {
+    "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-07-30_1513.html",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/inside-anthropic",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/chatgpt-work",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://huggingface.co/moonshotai/Kimi-K3",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/managed-agents",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://bun.com/blog/bun-in-rust",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
+    "url": "https://github.com/oven-sh/bun/pull/34144",
+    "shipped_at": "2026-07-30T13:16:04.333791+00:00"
+  },
+  {
     "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery",
     "shipped_at": "2026-07-27T13:13:03.143737+00:00"
   },
@@ -482,161 +554,5 @@
   {
     "url": "https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/",
     "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-07-15_1512.html",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://thezvi.wordpress.com/2026/07/13/better-call-sol-the-workhorse",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://www.latent.space/p/aiewf26trends",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://www.bis.org/publ/bisbull120.pdf",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/deepmind-ceo-hassabis-says-nobody-in-the-world-knows-what-happens-next-so-cautious-optimism-means-building-guardrails-now",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/meta-employees-sue-over-layoffs-they-say-were-driven-by-discriminatory-ai-selection-systems",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://www.ayush.digital/blog/the-memory-heist",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://github.com/openai/cdc-lean",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://openai.com/index/gpt-5-6/",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://ghuntley.com/ralph/",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=_IK18goX4X8",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://developers.openai.com/cookbook/examples/codex/using_goals_in_codex",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://addyosmani.com/blog/loop-engineering/",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://lilianweng.github.io/posts/2023-06-23-agent/",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://github.com/addyosmani/agent-skills",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://impeccable.style/",
-    "shipped_at": "2026-07-15T13:14:00.000+00:00"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-07-13_1512.html",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://thezvi.wordpress.com/2026/07/11/introduction-for-and-reactions-to-plan-a",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/claude-coworks-biggest-use-case-is-the-mundane-office-work-nobody-wants-to-own-anthropic-says",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://ai-2040.com/",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://www.astralcodexten.com/p/introducing-plan-a",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://www.mindthefuture.info/p/selective-optimism-a-critique-of",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
-  },
-  {
-    "url": "https://www.lesswrong.com/posts/kYeHbXmW4Kppfkg5j/on-maim-and-superintelligence-strategy",
-    "shipped_at": "2026-07-13T13:14:22.000+00:00"
   }
 ]
