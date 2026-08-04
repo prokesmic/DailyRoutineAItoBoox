@@ -1,5 +1,61 @@
 [
   {
+    "url": "https://thezvi.wordpress.com/2026/08/03/openais-unreleased-model-astra-solves-ten-major-open-mathematics-problems",
+    "shipped_at": "2026-08-04T13:23:37Z"
+  },
+  {
+    "url": "https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff",
+    "shipped_at": "2026-08-04T13:23:37Z"
+  },
+  {
+    "url": "https://www.seangoedecke.com/llms-reward-expertise",
+    "shipped_at": "2026-08-04T13:23:37Z"
+  },
+  {
+    "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance",
+    "shipped_at": "2026-08-04T13:23:37Z"
+  },
+  {
+    "url": "https://lilianweng.github.io/posts/2026-07-04-harness",
+    "shipped_at": "2026-08-04T13:23:37Z"
+  },
+  {
+    "url": "https://the-decoder.com/ibm-finds-92-of-companies-hit-by-ai-security-breaches-lacked-basic-access-controls",
+    "shipped_at": "2026-08-04T13:23:37Z"
+  },
+  {
+    "url": "https://openai.com/index/circles",
+    "shipped_at": "2026-08-04T13:23:37Z"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
+    "shipped_at": "2026-08-04T13:23:37Z"
+  },
+  {
+    "url": "https://github.com/leonickson1/Swiftlet",
+    "shipped_at": "2026-08-04T13:23:37Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics",
+    "shipped_at": "2026-08-04T13:23:37Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+    "shipped_at": "2026-08-04T13:23:37Z"
+  },
+  {
+    "url": "https://www.latent.space/p/inference-eng",
+    "shipped_at": "2026-08-04T13:23:37Z"
+  },
+  {
+    "url": "https://github.com/openai/ten-proofs",
+    "shipped_at": "2026-08-04T13:23:37Z"
+  },
+  {
+    "url": "https://baseten.co/inference-engineering/",
+    "shipped_at": "2026-08-04T13:23:37Z"
+  },
+  {
     "url": "https://thezvi.wordpress.com/2026/08/02/further-developments-about-internal-ai-models-hacking-things",
     "shipped_at": "2026-08-03T13:10:26Z"
   },
@@ -642,157 +698,5 @@
   {
     "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-07-23_1510.html",
     "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-07-21_1511.html",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://thezvi.wordpress.com/2026/07/20/on-kimi-k3-its-capabilities-and-related-discontents",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://cursor.com/blog/agent-swarm-model-economics",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://read.youreverydayai.com/p/ep-821-claude-desktop-gets-upgrade-new-open-source-model-shocks-chatgpt-desktop-gets-better-and-7-mo",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://www.aisi.gov.uk/blog/how-far-behind-the-frontier-are-leading-open-weight-models-on-cyber",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://davidmanheim.com/AI-Economics/",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://finance.yahoo.com/technology/ai/articles/meta-weighs-10bn-ai-compute-091430372.html",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://finance.yahoo.com/markets/article/alphabets-google-developing-new-chip-for-ai-model-stock-jumps-151128221.html",
-    "shipped_at": "2026-07-21T13:15:12.271279+00:00"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-07-20_1514.html",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://thezvi.wordpress.com/2026/07/19/demis-hassabis-on-the-new-coming-age",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://importai.substack.com/p/import-ai-465-open-vs-closed-gaps",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://read.youreverydayai.com/p/ep-817-chatgpt-s-5-6-sol-grok-and-meta-bounce-back-and-openai-s-biggest-week-ever-and-more-ai-news-t-937f",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://the-decoder.com/ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-theyre-wrong",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/our-approach-to-bioresilience/isomorphic-labs-our-approach-to-bioresilience.pdf",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://turntrout.com/why-i-left-google-deepmind",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://futureoflife.org/open-letter/lethal-autonomous-weapons-pledge/",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://www.reuters.com/world/google-required-open-up-ai-search-engine-rivals-under-eu-mandated-changes-2026-07-16/",
-    "shipped_at": "2026-07-20T13:14:35Z"
-  },
-  {
-    "url": "https://www.reuters.com/business/google-gemini-launch-delayed-tech-falls-short-internal-goals-bloomberg-news-2026-07-16/",
-    "shipped_at": "2026-07-20T13:14:35Z"
   }
 ]
