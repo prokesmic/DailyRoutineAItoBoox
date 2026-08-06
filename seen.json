@@ -1,5 +1,73 @@
 [
   {
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/unpacking-chatgpt-work",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
+    "url": "https://read.youreverydayai.com/p/ep-834-gemini-notebook-7-new-updates-and-what-they-unlock",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/08/05/the-three-ai-pills",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
+    "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/uks-job-market-is-splitting-in-two-as-ai-demand-surges-while-knowledge-work-postings-crater",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
+    "url": "https://blog.aifutures.org/p/ai-2040-plan-a",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
+    "url": "https://geohot.github.io/blog/jekyll/update/2026/07/11/ai-2040.html",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
+    "url": "https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
+    "url": "https://www.reuters.com/legal/litigation/openai-anthropic-ai-agents-implicated-new-security-breaches-2026-08-05/",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+    "shipped_at": "2026-08-06T13:26:20.848990+00:00"
+  },
+  {
     "url": "https://thezvi.wordpress.com/2026/08/03/openais-unreleased-model-astra-solves-ten-major-open-mathematics-problems",
     "shipped_at": "2026-08-04T13:23:37Z"
   },
@@ -606,97 +674,5 @@
   {
     "url": "https://globalnobelassembly.org/rome-declaration",
     "shipped_at": "2026-07-24T13:20:58.480322+00:00"
-  },
-  {
-    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://thezvi.wordpress.com/2026/07/22/openai-model-hacks-into-huggingface-during-cybersecurity-evaluation",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://openai.com/index/ntt-data",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://www.latent.space/p/xaira",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://newsletter.pragmaticengineer.com/p/pushing-software-engineering-limits",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://www.latent.space/p/poolside",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://arxiv.org/abs/2605.11086",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://huggingface.co/blog/security-incident-july-2026",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://cellxgene.cziscience.com/",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://www.nature.com/articles/s41592-024-02201-0",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://www.rcsb.org/",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://karpathy.github.io/2015/05/21/rnn-effectiveness/",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://github.com/shopify/toxiproxy",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://github.com/sirupsen/napkin-math",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://sirupsen.com/stop-relying-on-your-orm-and-learn-sql",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-07-23_1510.html",
-    "shipped_at": "2026-07-23T13:15:13.330707+00:00"
   }
 ]
