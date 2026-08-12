@@ -1,5 +1,101 @@
 [
   {
+    "url": "https://thezvi.wordpress.com/2026/08/11/various-reflections-about-what-happened-with-openais-internal-models",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://read.youreverydayai.com/p/ep-837-ai-agent-outbreaks-intensify-openai-upgrades-free-ai-use-white-house-unveils-ai-testing-polic",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/chai-discovery",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/optiver",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/nvidias-risky-business",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-signs-9-1-billion-data-center-deal-with-bitcoin-miner-riot-platforms",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2509.15541",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://metr.org/blog/2026-06-26-gpt-5-6-sol/",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://www.lesswrong.com/posts/AfoGGrJfuNzofpzWL/models-may-behave-differently-in-graded-episodes-a-tirade",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://www.theinformation.com/newsletters/ai-agenda/trajectory-founded-ex-google-apple-researchers-raises-funding-sequoia-back-back-round",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone/",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://www.optiver.com/insights/news/optiver-reports-robust-financial-results-for-2025/",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://resources.nvidia.com/en-us-financial-services-industry/hudson-river",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://www.jumptrading.com/signals",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
+    "url": "https://github.com/optiver",
+    "shipped_at": "2026-08-12T13:15:28.794734+00:00"
+  },
+  {
     "url": "https://thezvi.wordpress.com/2026/08/10/the-pacing-of-the-frontier",
     "shipped_at": "2026-08-11T13:18:14Z"
   },
@@ -242,89 +338,5 @@
   {
     "url": "https://www.primeintellect.ai/blog/prime-agent",
     "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://thezvi.wordpress.com/2026/07/28/claude-opus-5-is-highly-capable-but-is-no-mythos",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://newsletter.pragmaticengineer.com/p/inside-anthropic",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://openai.com/index/scientific-computing-agentic-ai",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/amazon-reportedly-scales-back-its-nova-ai-models-and-bets-on-a-new-frontier-research-team",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://www.anthropic.com/news/claude-opus-5",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://www-cdn.anthropic.com/c5fbac3f0b1280a933ebd26d3cb8bb9f5bdeaf48/Claude%20Opus%205%20System%20Card.pdf#page=73",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://www.frontierbench.ai/",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://artificialanalysis.ai/evaluations/gdpval-aa",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://www.anthropic.com/engineering/managed-agents",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://bun.com/blog/bun-in-rust",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://github.com/oven-sh/bun/pull/34144",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
-  },
-  {
-    "url": "https://hfviewer.com/moonshotai/Kimi-K3",
-    "shipped_at": "2026-07-29T13:15:25.476416+00:00"
   }
 ]
