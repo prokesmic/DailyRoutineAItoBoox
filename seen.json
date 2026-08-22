@@ -1,5 +1,77 @@
 [
   {
+    "url": "https://thezvi.wordpress.com/2026/08/21/ai-text-watermarking-is-free-and-good",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://www.latent.space/p/attention-interface",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://www.latent.space/p/simile",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://canews24.online",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://arxiv.org/pdf/2210.03629",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://arxiv.org/html/2605.27922v1",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://www.answer.ai/posts/2025-01-08-devin.html",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://arxiv.org/html/2606.09498v1",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://arxiv.org/pdf/2304.03442",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2411.10109",
+    "shipped_at": "2026-08-22T13:15:00Z"
+  },
+  {
     "url": "https://thezvi.wordpress.com/2026/08/20/ai-182-pause-for-reflection",
     "shipped_at": "2026-08-21T13:23:19.256296Z"
   },
@@ -690,81 +762,5 @@
   {
     "url": "https://www.laws-of-software.com/laws/zawinski/",
     "shipped_at": "2026-08-09T13:22:09Z"
-  },
-  {
-    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://thezvi.wordpress.com/2026/08/07/openai-trained-its-models-for-months-while-those-models-were-coordinating-exploits-via-message-boards",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://stratechery.com/2026/earnings-and-learnings",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://arxiv.org/abs/2602.05910",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://alignment.anthropic.com/2025/inoculation-prompting/",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://github.com/ggml-org/llama.cpp/pull/26603",
-    "shipped_at": "2026-08-08T13:10:50Z"
-  },
-  {
-    "url": "https://www.primeintellect.ai/blog/prime-agent",
-    "shipped_at": "2026-08-08T13:10:50Z"
   }
 ]
