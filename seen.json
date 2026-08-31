@@ -1,5 +1,81 @@
 [
   {
+    "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Aug/29/hy4",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://metr.org/hugging-face-incident-report-aug-2026.pdf",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.26081",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.27553",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://www.lesswrong.com/w/functional-decision-theory",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://www.planned-obsolescence.org/p/the-hugging-face-attack-surprised",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
+    "url": "https://metr.org/agent-incidents/",
+    "shipped_at": "2026-08-31T13:18:56.048261+00:00"
+  },
+  {
     "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
     "shipped_at": "2026-08-27T13:10:00Z"
   },
@@ -506,201 +582,5 @@
   {
     "url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
     "shipped_at": "2026-08-17T13:30:59Z"
-  },
-  {
-    "url": "https://thezvi.wordpress.com/2026/08/15/on-dwarkesh-patels-podcast-with-ryan-greenblatt",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://www.anthropic.com/research/multiagent-systems",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://stratechery.com/2026/the-capex-train-keeps-rolling",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://www.latent.space/p/flue-2",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://flueframework.com/blog/flue-2/",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://pi.dev/",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://vercel.com/eve",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://exoharness.ai/",
-    "shipped_at": "2026-08-16T13:15:00+00:00"
-  },
-  {
-    "url": "https://thezvi.wordpress.com/2026/08/13/ai-181-astra-goes-cyber-critical",
-    "shipped_at": "2026-08-14T13:36:03.213838+00:00"
-  },
-  {
-    "url": "https://openai.com/index/previewing-ultrafast",
-    "shipped_at": "2026-08-14T13:36:03.213838+00:00"
-  },
-  {
-    "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "shipped_at": "2026-08-14T13:36:03.213838+00:00"
-  },
-  {
-    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-    "shipped_at": "2026-08-14T13:36:03.213838+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war",
-    "shipped_at": "2026-08-14T13:36:03.213838+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push",
-    "shipped_at": "2026-08-14T13:36:03.213838+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate",
-    "shipped_at": "2026-08-14T13:36:03.213838+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus",
-    "shipped_at": "2026-08-14T13:36:03.213838+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model",
-    "shipped_at": "2026-08-14T13:36:03.213838+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open",
-    "shipped_at": "2026-08-14T13:36:03.213838+00:00"
-  },
-  {
-    "url": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
-    "shipped_at": "2026-08-14T13:36:03.213838+00:00"
-  },
-  {
-    "url": "https://read.youreverydayai.com/p/ep-840-the-next-12-months-of-ai-19-predictions-every-business-leader-needs-to-hear",
-    "shipped_at": "2026-08-14T13:36:03.213838+00:00"
-  },
-  {
-    "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/",
-    "shipped_at": "2026-08-14T13:36:03.213838+00:00"
-  },
-  {
-    "url": "https://anbeeld.com/articles/kv-cache-quantization-benchmarks-kvarn-precision-tail",
-    "shipped_at": "2026-08-14T13:36:03.213838+00:00"
-  },
-  {
-    "url": "https://modelscope.cn/models/Qwen/Qwen3.8-2.4T-A95B",
-    "shipped_at": "2026-08-14T13:36:03.213838+00:00"
-  },
-  {
-    "url": "https://stolen-thoughts.com/",
-    "shipped_at": "2026-08-14T13:36:03.213838+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling",
-    "shipped_at": "2026-08-13T13:18:28.761353+00:00"
-  },
-  {
-    "url": "https://newsletter.pragmaticengineer.com/p/stop-being-skeptical-about-ai-for",
-    "shipped_at": "2026-08-13T13:18:28.761353+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/top-ai-lab-researchers-warned-about-automated-ai-research-and-several-of-their-predicted-milestones-have-already-fallen",
-    "shipped_at": "2026-08-13T13:18:28.761353+00:00"
-  },
-  {
-    "url": "https://x.ai/news/grok-4-6",
-    "shipped_at": "2026-08-13T13:18:28.761353+00:00"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces",
-    "shipped_at": "2026-08-13T13:18:28.761353+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations",
-    "shipped_at": "2026-08-13T13:18:28.761353+00:00"
-  },
-  {
-    "url": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy",
-    "shipped_at": "2026-08-13T13:18:28.761353+00:00"
-  },
-  {
-    "url": "https://openai.com/index/ringcentral",
-    "shipped_at": "2026-08-13T13:18:28.761353+00:00"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
-    "shipped_at": "2026-08-13T13:18:28.761353+00:00"
-  },
-  {
-    "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory",
-    "shipped_at": "2026-08-13T13:18:28.761353+00:00"
-  },
-  {
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "shipped_at": "2026-08-13T13:18:28.761353+00:00"
-  },
-  {
-    "url": "https://knownagents.com/insights",
-    "shipped_at": "2026-08-13T13:18:28.761353+00:00"
-  },
-  {
-    "url": "https://www.oreilly.com/library/view/observability-engineering-2nd/9781098179915",
-    "shipped_at": "2026-08-13T13:18:28.761353+00:00"
-  },
-  {
-    "url": "https://research.facebook.com/publications/scuba-diving-into-data-at-facebook",
-    "shipped_at": "2026-08-13T13:18:28.761353+00:00"
-  },
-  {
-    "url": "https://aicoding.leaflet.pub",
-    "shipped_at": "2026-08-13T13:18:28.761353+00:00"
-  },
-  {
-    "url": "https://www.intercom.com/blog/ai-is-approving-our-pull-requests-heres-how-we-made-it-safe",
-    "shipped_at": "2026-08-13T13:18:28.761353+00:00"
   }
 ]
