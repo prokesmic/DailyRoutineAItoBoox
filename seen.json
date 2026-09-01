@@ -1,5 +1,65 @@
 [
   {
+    "url": "https://thezvi.wordpress.com/2026/08/31/huggingface-attack-postmortem-fleshing-out-the-facts",
+    "shipped_at": "2026-09-01T13:15:26.920873+00:00"
+  },
+  {
+    "url": "https://importai.substack.com/p/import-ai-471-why-hugging-face-worries",
+    "shipped_at": "2026-09-01T13:15:26.920873+00:00"
+  },
+  {
+    "url": "https://mvakde.github.io/blog/44-on-arc-1",
+    "shipped_at": "2026-09-01T13:15:26.920873+00:00"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai",
+    "shipped_at": "2026-09-01T13:15:26.920873+00:00"
+  },
+  {
+    "url": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
+    "shipped_at": "2026-09-01T13:15:26.920873+00:00"
+  },
+  {
+    "url": "https://openai.com/index/polimill",
+    "shipped_at": "2026-09-01T13:15:26.920873+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
+    "shipped_at": "2026-09-01T13:15:26.920873+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/09/more-optimistic-results-on-ai-and-job-markets.html",
+    "shipped_at": "2026-09-01T13:15:26.920873+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works",
+    "shipped_at": "2026-09-01T13:15:26.920873+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis",
+    "shipped_at": "2026-09-01T13:15:26.920873+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout",
+    "shipped_at": "2026-09-01T13:15:26.920873+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
+    "shipped_at": "2026-09-01T13:15:26.920873+00:00"
+  },
+  {
+    "url": "https://huggingface.co/blog/security-incident-july-2026",
+    "shipped_at": "2026-09-01T13:15:26.920873+00:00"
+  },
+  {
+    "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
+    "shipped_at": "2026-09-01T13:15:26.920873+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2507.11473",
+    "shipped_at": "2026-09-01T13:15:26.920873+00:00"
+  },
+  {
     "url": "https://www.oneusefulthing.org/p/agency-and-agents",
     "shipped_at": "2026-08-31T13:18:56.048261+00:00"
   },
@@ -522,65 +582,5 @@
   {
     "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
     "shipped_at": "2026-08-19T13:17:02Z"
-  },
-  {
-    "url": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model",
-    "shipped_at": "2026-08-17T13:30:59Z"
-  },
-  {
-    "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-    "shipped_at": "2026-08-17T13:30:59Z"
-  },
-  {
-    "url": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups",
-    "shipped_at": "2026-08-17T13:30:59Z"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-    "shipped_at": "2026-08-17T13:30:59Z"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/16/dario-amodei",
-    "shipped_at": "2026-08-17T13:30:59Z"
-  },
-  {
-    "url": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds",
-    "shipped_at": "2026-08-17T13:30:59Z"
-  },
-  {
-    "url": "https://importai.substack.com/p/import-ai-469-science-ai-rsi-simulator",
-    "shipped_at": "2026-08-17T13:30:59Z"
-  },
-  {
-    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-    "shipped_at": "2026-08-17T13:30:59Z"
-  },
-  {
-    "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-    "shipped_at": "2026-08-17T13:30:59Z"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
-    "shipped_at": "2026-08-17T13:30:59Z"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
-    "shipped_at": "2026-08-17T13:30:59Z"
-  },
-  {
-    "url": "https://read.youreverydayai.com/p/e-841-chatgpt-computer-history-new-gemini-model-claude-flexes-on-the-browser-and-7-more-ai-updates-y",
-    "shipped_at": "2026-08-17T13:30:59Z"
-  },
-  {
-    "url": "https://www.bloomberg.com/news/articles/2026-08-13/openai-s-revenue-run-rate-tops-40-billion-ahead-of-ipo",
-    "shipped_at": "2026-08-17T13:30:59Z"
-  },
-  {
-    "url": "https://njbiz.com/novo-nordisk-aws-ai-drug-discovery/",
-    "shipped_at": "2026-08-17T13:30:59Z"
-  },
-  {
-    "url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
-    "shipped_at": "2026-08-17T13:30:59Z"
   }
 ]
