@@ -1,5 +1,97 @@
 [
   {
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/09/01/huggingface-attack-postmortem-civilizations-reactions-and-next-actions",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://openai.com/index/path-to-astra",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://www.latent.space/p/pr-not-welcome",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-college-wage-premium-in-the-generative-ai-era.html",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://metr.org/hugging-face-incident-report-aug-2026.pdf",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.26081",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.27553",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://www.lesswrong.com/posts/GNnHHmm8EzePmKzPk/value-is-fragile",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://vercel.com/blog/building-a-software-factory-for-ai-sdk",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://tldraw.dev/blog/stay-away-from-my-trash",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://github.com/withastro/flue",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-09-02_1513.html",
+    "shipped_at": "2026-09-02T13:17:04.929Z"
+  },
+  {
     "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
     "shipped_at": "2026-08-30T13:16:43.390843Z"
   },
