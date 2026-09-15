@@ -1,5 +1,85 @@
 [
   {
+    "url": "https://thezvi.wordpress.com/2026/09/14/we-must-pace-the-frontier",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://andonlabs.com/blog/why-we-built-pion",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/09/does-ai-assistance-enhance-or-erode-expertise.html",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/09/13/brand-new-ai-solves-a-millennium-prize",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "http://pacingthefrontier.com",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://openai.com/index/navier-stokes-solution/",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://mathandai.org/",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://paulfchristiano.substack.com/p/personal-statement-on-joining-the",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://www.lesswrong.com/posts/RDG2dbg6cLNyo6MYT/",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://www.a16z.news/p/meet-the-a16z-forward-deployed-engineer",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
     "url": "https://thezvi.wordpress.com/2026/09/11/jacob-coxon-warns-of-human-extinction-and-triggers-a-preference-cascade",
     "shipped_at": "2026-09-12T13:13:12.005706+00:00"
   },
@@ -414,129 +494,5 @@
   {
     "url": "https://raw.githubusercontent.com/prokesmic/DailyRoutineAItoBoox/claude/create-ai-daily-reader-gylCx/briefs/AI_Daily_2026-09-02_1513.html",
     "shipped_at": "2026-09-02T13:17:04.929Z"
-  },
-  {
-    "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-    "shipped_at": "2026-08-30T13:16:43.390843Z"
-  },
-  {
-    "url": "https://stratechery.com/2026/internet-hype-and-real-world-change",
-    "shipped_at": "2026-08-30T13:16:43.390843Z"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode",
-    "shipped_at": "2026-08-30T13:16:43.390843Z"
-  },
-  {
-    "url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
-    "shipped_at": "2026-08-30T13:16:43.390843Z"
-  },
-  {
-    "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-    "shipped_at": "2026-08-30T13:16:43.390843Z"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Aug/29/hy4",
-    "shipped_at": "2026-08-30T13:16:43.390843Z"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai",
-    "shipped_at": "2026-08-30T13:16:43.390843Z"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips",
-    "shipped_at": "2026-08-30T13:16:43.390843Z"
-  },
-  {
-    "url": "https://coldtake.dev/blog/domain-driven-agents",
-    "shipped_at": "2026-08-30T13:16:43.390843Z"
-  },
-  {
-    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-    "shipped_at": "2026-08-30T13:16:43.390843Z"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
-    "shipped_at": "2026-08-30T13:16:43.390843Z"
-  },
-  {
-    "url": "https://www.dwarkesh.com/p/openai-huggingface",
-    "shipped_at": "2026-08-30T13:16:43.390843Z"
-  },
-  {
-    "url": "https://deploymentsafety.openai.com/gpt-5-6/exploitbench",
-    "shipped_at": "2026-08-30T13:16:43.390843Z"
-  },
-  {
-    "url": "https://www.planned-obsolescence.org/p/the-hugging-face-attack-surprised",
-    "shipped_at": "2026-08-30T13:16:43.390843Z"
-  },
-  {
-    "url": "https://www.lesswrong.com/w/functional-decision-theory",
-    "shipped_at": "2026-08-30T13:16:43.390843Z"
-  },
-  {
-    "url": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes",
-    "shipped_at": "2026-08-29T13:26:18Z"
-  },
-  {
-    "url": "https://thezvi.wordpress.com/2026/08/28/openai-offers-straight-laced-postmortem-of-the-huggingface-hack",
-    "shipped_at": "2026-08-29T13:26:18Z"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition",
-    "shipped_at": "2026-08-29T13:26:18Z"
-  },
-  {
-    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-    "shipped_at": "2026-08-29T13:26:18Z"
-  },
-  {
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams",
-    "shipped_at": "2026-08-29T13:26:18Z"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale",
-    "shipped_at": "2026-08-29T13:26:18Z"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-    "shipped_at": "2026-08-29T13:26:18Z"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
-    "shipped_at": "2026-08-29T13:26:18Z"
-  },
-  {
-    "url": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers",
-    "shipped_at": "2026-08-29T13:26:18Z"
-  },
-  {
-    "url": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software",
-    "shipped_at": "2026-08-29T13:26:18Z"
-  },
-  {
-    "url": "https://the-decoder.com/always-on-and-self-starting-ai-agents-might-be-openais-next-big-play",
-    "shipped_at": "2026-08-29T13:26:18Z"
-  },
-  {
-    "url": "https://huggingface.co/zai-org/GLM-5.3",
-    "shipped_at": "2026-08-29T13:26:18Z"
-  },
-  {
-    "url": "https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf",
-    "shipped_at": "2026-08-29T13:26:18Z"
-  },
-  {
-    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
-    "shipped_at": "2026-08-29T13:26:18Z"
-  },
-  {
-    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-    "shipped_at": "2026-08-29T13:26:18Z"
-  },
-  {
-    "url": "https://openai.com/index/chain-of-thought-monitoring/",
-    "shipped_at": "2026-08-29T13:26:18Z"
   }
 ]
