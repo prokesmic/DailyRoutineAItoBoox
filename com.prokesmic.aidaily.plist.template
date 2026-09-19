@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Rename to com.prokesmic.aidaily.plist after substituting USERNAME.
+  Install: cp com.prokesmic.aidaily.plist ~/Library/LaunchAgents/
+           launchctl load ~/Library/LaunchAgents/com.prokesmic.aidaily.plist
+  Uninstall: launchctl unload ~/Library/LaunchAgents/com.prokesmic.aidaily.plist
+  Schedule assumes Mac is set to Europe/Prague time.
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.prokesmic.aidaily</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/USERNAME/automation/ai-daily-reader/.venv/bin/python</string>
+        <string>/Users/USERNAME/automation/ai-daily-reader/run.py</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/USERNAME/automation/ai-daily-reader</string>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>15</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/Users/USERNAME/Library/Logs/aidaily-reader.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/USERNAME/Library/Logs/aidaily-reader.error.log</string>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+        <key>LANG</key>
+        <string>en_US.UTF-8</string>
+    </dict>
+</dict>
+</plist>

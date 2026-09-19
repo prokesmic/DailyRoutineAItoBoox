@@ -1,0 +1,574 @@
+[
+  {
+    "url": "https://www.oneusefulthing.org/p/the-overhang",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/09/18/the-preference-cascade-is-only-getting-started",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-wants-you-to-know-claude-leads-a-quarter-of-its-research-but-lead-doesnt-mean-what-you-think",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/doomforce",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://openai.com/index/cooley-gopublic",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://cdn.sanity.io/files/4zrzovbb/website/b93c7465925dc052b9102209b29b58f11df4fe55.pdf",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://github.com/emollick/zork-underground-empire",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://github.com/emollick/eco-library",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://aiimpacts.org/wp-content/uploads/2026/09/ESPAI2024.pdf",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/jacob-coxon-quit-anthropic-ai-safety-3f4e877c",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://www.theargumentmag.com/p/losing-control-of-ai-is-actually",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://arxiv.org/html/2609.14858v1",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://yegge.ai/essays/the-shape-of-things-to-come/",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://scottaaronson.blog/?p=10062",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
+    "shipped_at": "2026-09-19T13:16:34.720959+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/09/17/ai-186-the-world-takes-notice",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/aiuc",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/ai-agent-swarms-are-a-massive-waste-of-tokens-with-zero-quality-gain-says-openai-codex-developer",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://www.hacktron.ai/blog/hacking-openai",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/09/reimagining-research-papers-as-interactive-and-reliable-ai-agents.html",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://www.redwoodresearch.org/blog/proposal-for-tracking-architecture-on-monitorability",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/1606.06565",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://www.rubyhack.ai/",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://github.com/mattpocock/skills/blob/main/skills/productivity/grilling/SKILL.md",
+    "shipped_at": "2026-09-18T13:17:11.144493+00:00"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
+    "shipped_at": "2026-09-16T13:14:30.775974+00:00"
+  },
+  {
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "shipped_at": "2026-09-16T13:14:30.775974+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless",
+    "shipped_at": "2026-09-16T13:14:30.775974+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved",
+    "shipped_at": "2026-09-16T13:14:30.775974+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations",
+    "shipped_at": "2026-09-16T13:14:30.775974+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+    "shipped_at": "2026-09-16T13:14:30.775974+00:00"
+  },
+  {
+    "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
+    "shipped_at": "2026-09-16T13:14:30.775974+00:00"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now",
+    "shipped_at": "2026-09-16T13:14:30.775974+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+    "shipped_at": "2026-09-16T13:14:30.775974+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+    "shipped_at": "2026-09-16T13:14:30.775974+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ai-redistribution-and-the-size-of-the-pie.html",
+    "shipped_at": "2026-09-16T13:14:30.775974+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/09/15/the-bad-guy-with-an-ai-named-claude",
+    "shipped_at": "2026-09-16T13:14:30.775974+00:00"
+  },
+  {
+    "url": "https://metr.org/",
+    "shipped_at": "2026-09-16T13:14:30.775974+00:00"
+  },
+  {
+    "url": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf",
+    "shipped_at": "2026-09-16T13:14:30.775974+00:00"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+    "shipped_at": "2026-09-16T13:14:30.775974+00:00"
+  },
+  {
+    "url": "https://juliangewirtz.substack.com/p/chinas-ai-reckoning",
+    "shipped_at": "2026-09-16T13:14:30.775974+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/09/14/we-must-pace-the-frontier",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://andonlabs.com/blog/why-we-built-pion",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/09/does-ai-assistance-enhance-or-erode-expertise.html",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/09/13/brand-new-ai-solves-a-millennium-prize",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "http://pacingthefrontier.com",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://openai.com/index/navier-stokes-solution/",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://mathandai.org/",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://paulfchristiano.substack.com/p/personal-statement-on-joining-the",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://www.lesswrong.com/posts/RDG2dbg6cLNyo6MYT/",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://www.a16z.news/p/meet-the-a16z-forward-deployed-engineer",
+    "shipped_at": "2026-09-15T13:13:38.897739+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/09/11/jacob-coxon-warns-of-human-extinction-and-triggers-a-preference-cascade",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/openai-floats-a-shared-ai-slowdown-takes-it-to-congress",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://openai.com/index/an-alien-mind/",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://pacingthefrontier.com",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2402.03300",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://arxiv.org/abs/2401.14196",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf",
+    "shipped_at": "2026-09-12T13:13:12.005706+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/09/09/gpt-6-astra-the-system-card-alignment-and-what-comes-next",
+    "shipped_at": "2026-09-11T13:12:30.960294+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent",
+    "shipped_at": "2026-09-11T13:12:30.960294+00:00"
+  },
+  {
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "shipped_at": "2026-09-11T13:12:30.960294+00:00"
+  },
+  {
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+    "shipped_at": "2026-09-11T13:12:30.960294+00:00"
+  },
+  {
+    "url": "https://openai.com/index/expanding-ai-access-us-government",
+    "shipped_at": "2026-09-11T13:12:30.960294+00:00"
+  },
+  {
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "shipped_at": "2026-09-11T13:12:30.960294+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests",
+    "shipped_at": "2026-09-11T13:12:30.960294+00:00"
+  },
+  {
+    "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "shipped_at": "2026-09-11T13:12:30.960294+00:00"
+  },
+  {
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "shipped_at": "2026-09-11T13:12:30.960294+00:00"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu",
+    "shipped_at": "2026-09-11T13:12:30.960294+00:00"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
+    "shipped_at": "2026-09-11T13:12:30.960294+00:00"
+  },
+  {
+    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why",
+    "shipped_at": "2026-09-11T13:12:30.960294+00:00"
+  },
+  {
+    "url": "https://model-spec.openai.com/2026-08-18.html",
+    "shipped_at": "2026-09-11T13:12:30.960294+00:00"
+  },
+  {
+    "url": "https://openai.com/index/path-to-astra/",
+    "shipped_at": "2026-09-11T13:12:30.960294+00:00"
+  },
+  {
+    "url": "https://www.transformernews.ai/p/openai-gpt-6-astra-might-be-too-powerful-to-understand-or-control",
+    "shipped_at": "2026-09-11T13:12:30.960294+00:00"
+  },
+  {
+    "url": "https://openai.com/index/an-alien-mind",
+    "shipped_at": "2026-09-07T13:15:02.561245+00:00"
+  },
+  {
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "shipped_at": "2026-09-07T13:15:02.561245+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/09/06/openai-and-the-wiki-incident",
+    "shipped_at": "2026-09-07T13:15:02.561245+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+    "shipped_at": "2026-09-07T13:15:02.561245+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service",
+    "shipped_at": "2026-09-07T13:15:02.561245+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists",
+    "shipped_at": "2026-09-07T13:15:02.561245+00:00"
+  },
+  {
+    "url": "https://importai.substack.com/p/import-ai-472-deepminds-cheating",
+    "shipped_at": "2026-09-07T13:15:02.561245+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism",
+    "shipped_at": "2026-09-07T13:15:02.561245+00:00"
+  },
+  {
+    "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+    "shipped_at": "2026-09-07T13:15:02.561245+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/grok-bot",
+    "shipped_at": "2026-09-07T13:15:02.561245+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data",
+    "shipped_at": "2026-09-07T13:15:02.561245+00:00"
+  },
+  {
+    "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement",
+    "shipped_at": "2026-09-07T13:15:02.561245+00:00"
+  },
+  {
+    "url": "https://collusion.wiki/",
+    "shipped_at": "2026-09-07T13:15:02.561245+00:00"
+  },
+  {
+    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
+    "shipped_at": "2026-09-07T13:15:02.561245+00:00"
+  },
+  {
+    "url": "https://deploymentsafety.openai.com/gpt-5-6",
+    "shipped_at": "2026-09-07T13:15:02.561245+00:00"
+  },
+  {
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models/",
+    "shipped_at": "2026-09-07T13:15:02.561245+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/09/04/claude-fable-5-1-and-mythos-5-1-the-system-card",
+    "shipped_at": "2026-09-06T13:11:59.482881+00:00"
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2026/09/05/claude-mythos-5-1-and-fable-5-1-capabilities",
+    "shipped_at": "2026-09-06T13:11:59.482881+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+    "shipped_at": "2026-09-06T13:11:59.482881+00:00"
+  },
+  {
+    "url": "https://www.latent.space/p/astra",
+    "shipped_at": "2026-09-06T13:11:59.482881+00:00"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-tech-companies-move-to",
+    "shipped_at": "2026-09-06T13:11:59.482881+00:00"
+  },
+  {
+    "url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment",
+    "shipped_at": "2026-09-06T13:11:59.482881+00:00"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
+    "shipped_at": "2026-09-06T13:11:59.482881+00:00"
+  },
+  {
+    "url": "https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki",
+    "shipped_at": "2026-09-06T13:11:59.482881+00:00"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+    "shipped_at": "2026-09-06T13:11:59.482881+00:00"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/09/more-numbers-for-the-hugging-face-incident.html",
+    "shipped_at": "2026-09-06T13:11:59.482881+00:00"
+  },
+  {
+    "url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
+    "shipped_at": "2026-09-06T13:11:59.482881+00:00"
+  },
+  {
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "shipped_at": "2026-09-06T13:11:59.482881+00:00"
+  },
+  {
+    "url": "https://cdn.sanity.io/files/4zrzovbb/website/0bacdc8440ea96e62a8766d99ebe1d4eea6d5f3a.pdf",
+    "shipped_at": "2026-09-06T13:11:59.482881+00:00"
+  },
+  {
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "shipped_at": "2026-09-06T13:11:59.482881+00:00"
+  },
+  {
+    "url": "https://buttondown.com/ainews/archive/ainews-frontiermath-a-benchmark-for-evaluating/",
+    "shipped_at": "2026-09-06T13:11:59.482881+00:00"
+  },
+  {
+    "url": "https://deploymentsafety.openai.com/gpt-6-astra",
+    "shipped_at": "2026-09-06T13:11:59.482881+00:00"
+  }
+]
